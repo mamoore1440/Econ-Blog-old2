@@ -9,7 +9,7 @@
 
             <div class="text-extra-gray-dark dark:text-extra-gray-light transition">
               <p id="post-metadata">{{post.date}}
-                <span v-if="post.tags.length">
+                <span v-if="post.tags != undefined && post.tags.length">
                   <span class="hidden md:inline">/</span>
                   <br class="md:hidden" />
                   <span

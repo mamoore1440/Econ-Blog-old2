@@ -81,6 +81,30 @@ export default {
         tagContent.tags.forEach((tag) => {
           feed.addCategory(tag.title);
         });
+
+        const componentContent = await $content('newtags/components/components').fetch();
+  
+        componentContent.components.forEach((component) => {
+          feed.addCategory(component.title);
+        });
+
+        const fundamentalsContent = await $content('newtags/fundamentals/fundamentals').fetch();
+  
+        fundamentalsContent.fundamentals.forEach((fundamental) => {
+          feed.addCategory(fundamental.title);
+        });
+
+        const marketsContent = await $content('newtags/markets/markets').fetch();
+  
+        marketsContent.markets.forEach((market) => {
+          feed.addCategory(market.title);
+        });
+
+        const specialsContent = await $content('newtags/specials/specials').fetch();
+  
+        specialsContent.specials.forEach((special) => {
+          feed.addCategory(special.title);
+        });
         
         feed.addContributor({
           name: process.env.NUXT_ENV_FULL_NAME,
