@@ -64,7 +64,7 @@ export default {
       });
 
     return {
-      fundamentals: content.fundamentals,
+      fundamentals: content.tags,
       isDoneFetchingFundamentals: true
     };
   },

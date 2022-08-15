@@ -64,7 +64,7 @@ export default {
       });
 
     return {
-      specials: content.specials,
+      specials: content.tags,
       isDoneFetchingSpecials: true
     };
   },

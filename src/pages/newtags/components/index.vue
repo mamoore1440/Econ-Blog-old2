@@ -64,7 +64,7 @@ export default {
       });
 
     return {
-      components: content.components,
+      components: content.tags,
       isDoneFetchingComponents: true
     };
   },

@@ -84,25 +84,25 @@ export default {
 
         const componentContent = await $content('newtags/components/components').fetch();
   
-        componentContent.components.forEach((component) => {
+        componentContent.tags.forEach((component) => {
           feed.addCategory(component.title);
         });
 
         const fundamentalsContent = await $content('newtags/fundamentals/fundamentals').fetch();
   
-        fundamentalsContent.fundamentals.forEach((fundamental) => {
+        fundamentalsContent.tags.forEach((fundamental) => {
           feed.addCategory(fundamental.title);
         });
 
         const marketsContent = await $content('newtags/markets/markets').fetch();
   
-        marketsContent.markets.forEach((market) => {
+        marketsContent.tags.forEach((market) => {
           feed.addCategory(market.title);
         });
 
         const specialsContent = await $content('newtags/specials/specials').fetch();
   
-        specialsContent.specials.forEach((special) => {
+        specialsContent.tags.forEach((special) => {
           feed.addCategory(special.title);
         });
         

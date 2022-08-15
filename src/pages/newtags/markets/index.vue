@@ -64,7 +64,7 @@ export default {
       });
 
     return {
-      markets: content.markets,
+      markets: content.tags,
       isDoneFetchingMarkets: true
     };
   },
