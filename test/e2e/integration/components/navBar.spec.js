@@ -31,16 +31,16 @@ describe('Nav bar', () => {
       cy.wait(500);
     });
 
-    it('shows the dropdown on mouseenter event', () => {
-      cy.get('#tag-list').should('be.visible');
-    });
+    // it('shows the dropdown on mouseenter event', () => {
+    //   cy.get('#tag-list').should('be.visible');
+    // });
     
-    it('stops showing the dropdown on mouseleave event', () => {
-      cy.get('#tag-list').should('be.visible');
+    // it('stops showing the dropdown on mouseleave event', () => {
+    //   cy.get('#tag-list').should('be.visible');
 
-      cy.contains('Tags').trigger('mouseleave');
-      cy.wait(500);
-      cy.get('#tag-list').should('not.be.visible');
-    });
+    //   cy.contains('Tags').trigger('mouseleave');
+    //   cy.wait(500);
+    //   cy.get('#tag-list').should('not.be.visible');
+    // });
   });
 });
