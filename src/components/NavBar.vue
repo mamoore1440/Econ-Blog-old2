@@ -17,7 +17,10 @@
         >
           {{ item.title }}
         </nav-item>
-        <tag-dropdown :current-page="currentPage" />
+        <tag-dropdown :current-page="currentPage" :tag-group="'components'"/>
+        <tag-dropdown :current-page="currentPage" :tag-group="'fundamentals'"/>
+        <tag-dropdown :current-page="currentPage" :tag-group="'markets'"/>
+        <tag-dropdown :current-page="currentPage" :tag-group="'specials'"/>
       </div>
     </nav>
   </div>
