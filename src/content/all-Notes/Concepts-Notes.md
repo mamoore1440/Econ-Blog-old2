@@ -60,7 +60,7 @@
 
 - Components              6
 - Markets                 6
-- Special Events          5
+- Specials          5
 - Fundamentals            5
 
 Concepts:
@@ -99,7 +99,7 @@ Markets:                          Emporium of Markets
 - Credit                          Dollar with a white "shadow" dollar behind it
 - Forex                           Two different colored bills with two arrows going into each other 
 
-Special Events:                   Purple Stars
+Specials:                   Purple Stars
 - QE                              Pill Bottle
 - Yield Curve Inversion           Inverted Yield Curve
 - Credit Crises                   Ball and Chain
