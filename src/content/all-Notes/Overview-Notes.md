@@ -1,7 +1,7 @@
 THIS IS THE OVERVIEW NOTES PAGE. THIS SHOULD BE YOUR FIRST VISIT MICHAEL!
 
 Other Notes Pages:
-- Website-Notes
+- Personal-Notes
 - History-Notes
 - Concepts-Notes
 
