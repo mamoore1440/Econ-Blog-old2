@@ -112,7 +112,7 @@ Fundamentals?                     Atom
 - Cycles                          Two arrows going into each other
   - Life and Death
   - Debt                          
-- Invisable Hand                  White hand
+- Invisible Hand                  White hand
 - Temporality                     Hourglass
 
 Ignore for now:
