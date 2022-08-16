@@ -99,8 +99,6 @@ export default {
 
     const post = posts?.find((post) => post.slug === slug);
     
-    console.log(post);
-
     if (!post) {
       return error({ statusCode: 404, message: 'This post could not be found' });
     }
