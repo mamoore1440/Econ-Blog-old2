@@ -6,7 +6,7 @@ section: Blog
 date: 'August 2nd, 2022'
 img: TODO4.png
 components:
-  - Supply and Demand
+  - Supply And Demand
   - The Yield Curve
   - The Dollar
 ---

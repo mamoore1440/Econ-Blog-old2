@@ -17,11 +17,11 @@
       - End of cycle possibilities for credit crises
       - Revival Processes and attempts
     - Economies as a function of Aggregate Supply and Aggregate Demand
-      - Supply and Demand
+      - Supply And Demand
       - All transactions and Psychologies
       - Demand as a function Demographics
     - What a market is
-      - Supply and Demand
+      - Supply And Demand
       - Bond & Stock Market
       - Bull vs. Bear Market
       - Its "Existance" dictates a lot
@@ -52,7 +52,7 @@
     - Demographics
       - The yield curve as a "tracker" and what that means about the weight and volume of overall debt.
       - Inflation/Deflation
-      - Supply and Demand of money
+      - Supply And Demand of money
 
 - Overall                 1
   - Concepts              4
@@ -84,7 +84,7 @@ Themes ("articles" (more like papers but still)):
 
                                   Pictures (all cartoonish):
 Components:                       2 base bricks and one on top
-- Supply and Demand               Basic Supply and Demand
+- Supply And Demand               Basic Supply and Demand
 - The Yield Curve                 Basic Healthy Yield Curve
 - The Dollar                      Basic Stack of Benjamins
 - Bond: basic debt (done)         Basic Blue Bond
