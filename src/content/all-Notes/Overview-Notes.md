@@ -8,12 +8,7 @@ Other Notes Pages:
 TODO:
 - Delete European debt crisis
   - wait
-- Create skeleton pages for the articles/papers
-  - Components
-  - Markets
-  - Specials
-- Merge in the update from the Template
-  - Will require restructuring the entire website
+- Update the NavBar to look how I want (below)
 
 -----------------------------------------------------------------
 
