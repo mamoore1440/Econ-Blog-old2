@@ -24,7 +24,7 @@
                     v-for="(fundamental, i) in post.fundamentals"
                     :key="`fundamentals-${fundamental}`"
                   >
-                    <nuxt-link :to="`/fundamental/${fundamental.toLowerCase().replace(' ', '-')}`" class="hover:underline">{{fundamental}}</nuxt-link>{{(i + 1) === post.fundamentals.length ? '' : ', '}}
+                    <nuxt-link :to="`/newtags/fundamentals/${fundamental.toLowerCase().replaceAll(' ', '-')}`" class="hover:underline">{{fundamental}}</nuxt-link>{{(i + 1) === post.fundamentals.length ? '' : ', '}}
                   </span>
                 </span>
               </p>

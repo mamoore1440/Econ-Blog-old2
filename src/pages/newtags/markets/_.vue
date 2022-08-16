@@ -24,7 +24,7 @@
                     v-for="(market, i) in post.markets"
                     :key="`markets-${market}`"
                   >
-                    <nuxt-link :to="`/market/${market.toLowerCase().replace(' ', '-')}`" class="hover:underline">{{market}}</nuxt-link>{{(i + 1) === post.markets.length ? '' : ', '}}
+                    <nuxt-link :to="`/newtags/markets/${market.toLowerCase().replaceAll(' ', '-')}`" class="hover:underline">{{market}}</nuxt-link>{{(i + 1) === post.markets.length ? '' : ', '}}
                   </span>
                 </span>
               </p>

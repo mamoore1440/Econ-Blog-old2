@@ -24,7 +24,7 @@
                     v-for="(component, i) in post.components"
                     :key="`components-${component}`"
                   >
-                    <nuxt-link :to="`/component/${component.toLowerCase().replace(' ', '-')}`" class="hover:underline">{{component}}</nuxt-link>{{(i + 1) === post.components.length ? '' : ', '}}
+                    <nuxt-link :to="`/newtags/components/${component.toLowerCase().replaceAll(' ', '-')}`" class="hover:underline">{{component}}</nuxt-link>{{(i + 1) === post.components.length ? '' : ', '}}
                   </span>
                 </span>
               </p>

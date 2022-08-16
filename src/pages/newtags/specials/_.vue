@@ -24,7 +24,7 @@
                     v-for="(special, i) in post.specials"
                     :key="`specials-${special}`"
                   >
-                    <nuxt-link :to="`/special/${special.toLowerCase().replace(' ', '-')}`" class="hover:underline">{{special}}</nuxt-link>{{(i + 1) === post.specials.length ? '' : ', '}}
+                    <nuxt-link :to="`/newtags/specials/${special.toLowerCase().replaceAll(' ', '-')}`" class="hover:underline">{{special}}</nuxt-link>{{(i + 1) === post.specials.length ? '' : ', '}}
                   </span>
                 </span>
               </p>
