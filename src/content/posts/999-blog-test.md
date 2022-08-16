@@ -4,7 +4,7 @@ title: 'TEST 999'
 slug: blog-post-test
 section: Blog
 date: 'August 2nd, 2022'
-img: UseThisForColor.png
+img: TODO3.png
 components:
   - Bonds
   - Stocks
