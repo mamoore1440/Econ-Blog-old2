@@ -16,8 +16,8 @@ Mamoore                                                             History | Co
 Trading | Blog | Thesis                                      Components | Markets | Specials | Fundamentals
 
 
-The American Economy: History | Concepts                                                          Mamoore
-Fundamentals | Components | Markets | Specials                              Trading | Blog | Thesis
+The American Economy: History | Concepts                                                            Mamoore
+Fundamentals | Components | Markets | Specials                             Trading | Blog | Thesis | Schizo
 
 
 Website: 
