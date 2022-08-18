@@ -6,14 +6,14 @@ Other Notes Pages:
 - Concepts-Notes
 
 TODO:
-- Delete European debt crisis
-  - wait
 - Create Routes 
   - Personal
   - Concepts
   - History
 - Update the NavBar to look how I want (below)
 
+- Delete European debt crisis
+  - wait
 -----------------------------------------------------------------
 
 Mamoore                                                             History | Concepts The American Economy
