@@ -78,7 +78,7 @@ export default {
   async asyncData({ $content, params, error }) {
     const slug = params.pathMatch;
 
-    const posts = await $content('posts')
+    const posts = await $content('personal/blog')
       .search('slug', slug)
       .fetch()
       .catch((err) => {

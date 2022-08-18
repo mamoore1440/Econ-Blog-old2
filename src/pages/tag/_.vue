@@ -1,7 +1,7 @@
 <template>
   <main>
     <nav-bar :current-page="currentPage" />
-    <blog-feed :tag="tag" />
+    <blog-feed :tag="tag" route='/tag' name='Tag'/>
     <back-to-top-button />
     <footer-bar :current-page="currentPage" />
   </main>

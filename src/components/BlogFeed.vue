@@ -6,7 +6,7 @@
           <p class="text-center md:text-left text-3xl font-bold">{{tag.title}}</p>
           <p class="text-center md:text-left text-md">{{tag.description}}</p>
         </div>
-        <p v-else class="text-center text-3xl font-bold">Blog</p>
+        <p v-else class="text-center text-3xl font-bold">{{name}}</p>
       </div>
     </div>
     <divider />
@@ -19,6 +19,7 @@
         :full-width="i % 3 === 0 || ((i === (posts.length - 1)) && i % 3 === 1)"
         :is-reversed="i % 6 === 0 || ((i === (posts.length - 1)) && (i - 1) % 6 !== 0)"
         :post="post"
+        :route="route"
       />
 
       <div
@@ -39,6 +40,7 @@
         :key="i"
         :full-width="i % 3 === 0 || ((i === (postCount - 1)) && i % 3 === 1)"
         :is-reversed="i % 6 === 0 || ((i === (postCount - 1)) && (i - 1) % 6 !== 0)"
+        :route="''"
       />
     </div>
     
@@ -68,7 +70,17 @@ export default {
       default: undefined,
       type: Object,
       required: false,
-    }
+    },
+    route: {
+      default: undefined,
+      type: String,
+      required: true,
+    },
+    name: {
+      default: undefined,
+      type: String,
+      required: true,
+    },
   },
   data: () => ({
     posts: [],
@@ -94,7 +106,7 @@ export default {
       this.isFetchingPosts = true;
       const totalPosts = (this.page * this.postCount);
 
-      let fetchPosts = this.$content('posts')
+      let fetchPosts = this.$content(this.route)
         .sortBy('id', 'desc')
         .limit(totalPosts + 1);
       

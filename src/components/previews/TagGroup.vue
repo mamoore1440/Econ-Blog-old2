@@ -17,6 +17,7 @@
           :show-minimal-content="true"
           :is-reversed="index % 2 === 0"
           :classes="`shadow-none p-0 m-0 md:p-4 md:m-4`"
+          :route="`${latestPosts[previewedPostIndex].dir}`"
           @mouseenter.native="pauseInterval"
           @mouseleave.native="resumeInterval"
         />
@@ -63,6 +64,7 @@
       :show-minimal-content="true"
       :is-reversed="index % 2 === 0"
       :classes="`shadow-none p-0 m-0 md:p-4 md:m-4`"
+      :route="``"
     />
   </div>
 </template>
@@ -116,7 +118,7 @@ export default {
 
       switch(this.tagGroup) {
         case "components":
-          posts = await this.$content('posts')
+          posts = await this.$content('personal', { deep: true })
             .where({ components: { $contains: this.tag.title } })
             .sortBy('id', 'desc')
             .limit(4)
@@ -124,7 +126,7 @@ export default {
             .catch();
           break;
         case "fundamentals":
-          posts = await this.$content('posts')
+          posts = await this.$content('personal', { deep: true })
             .where({ fundamentals: { $contains: this.tag.title } })
             .sortBy('id', 'desc')
             .limit(4)
@@ -132,7 +134,7 @@ export default {
             .catch();
           break;
         case "markets":
-          posts = await this.$content('posts')
+          posts = await this.$content('personal', { deep: true })
             .where({ markets: { $contains: this.tag.title } })
             .sortBy('id', 'desc')
             .limit(4)
@@ -140,7 +142,7 @@ export default {
             .catch();
           break;
         case "specials":
-          posts = await this.$content('posts')
+          posts = await this.$content('personal', { deep: true })
             .where({ specials: { $contains: this.tag.title } })
             .sortBy('id', 'desc')
             .limit(4)
@@ -150,6 +152,8 @@ export default {
         default:
           // None
       }
+
+      console.log(posts);
 
       this.latestPosts = posts;
       this.intervalID = setInterval(this.updatePreviewProgress, this.intervalUpdateDuration);

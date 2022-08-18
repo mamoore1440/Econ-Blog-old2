@@ -1,7 +1,7 @@
 <template> 
   <main>
     <nav-bar current-page="Schizo" />
-    <blog-feed route='/personal/schizo'/>
+    <blog-feed route='/personal/schizo' name="Schizo"/>
     <back-to-top-button />
     <footer-bar current-page="Schizo" />
   </main>

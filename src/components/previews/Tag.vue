@@ -17,6 +17,7 @@
           :show-minimal-content="true"
           :is-reversed="index % 2 === 0"
           :classes="`shadow-none p-0 m-0 md:p-4 md:m-4`"
+          :route="'/tag'"
           @mouseenter.native="pauseInterval"
           @mouseleave.native="resumeInterval"
         />
@@ -63,6 +64,7 @@
       :show-minimal-content="true"
       :is-reversed="index % 2 === 0"
       :classes="`shadow-none p-0 m-0 md:p-4 md:m-4`"
+      :route="'/tag'"
     />
   </div>
 </template>
