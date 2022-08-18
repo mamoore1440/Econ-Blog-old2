@@ -60,7 +60,7 @@
 
 - Components              6
 - Markets                 6
-- Specials          5
+- Specials                5
 - Fundamentals            5
 
 Concepts:

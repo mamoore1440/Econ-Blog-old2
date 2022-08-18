@@ -1,9 +1,9 @@
 ---
-id: 3005
+id: 3006
 title: "Forex"
 slug: forex
 date: 'August 16th, 2022'
-img: TODO5.png
+img: TODO6.png
 markets:
   - Forex
 ---
