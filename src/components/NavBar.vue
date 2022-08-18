@@ -49,12 +49,20 @@ export default {
     },
     items: [
       {
-        title: 'Blog',
-        href: '/blog'
+        title: 'Trading',
+        href: '/personal/trading'
       },
       {
-        title: 'Portfolio',
-        href: '/tag/portfolio'
+        title: 'Thesis',
+        href: '/personal/thesis'
+      },
+      {
+        title: 'Blog',
+        href: '/personal/blog'
+      },
+      {
+        title: 'Schizo',
+        href: '/personal/schizo'
       }
     ],
   })
