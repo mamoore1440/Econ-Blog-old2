@@ -17,12 +17,12 @@ describe('Nav bar', () => {
 
   it('links to the blog page correctly', () => {
     cy.contains('Blog').click();
-    cy.location('pathname').should('eq', '/blog');
+    cy.location('pathname').should('eq', '/personal/blog');
   });
   
   it('links to the portfolio page correctly', () => {
     cy.contains('Portfolio').click();
-    cy.location('pathname').should('eq', '/tag/portfolio');
+    cy.location('pathname').should('eq', '/');
   });
 
   describe('Tags dropdown', () => {
