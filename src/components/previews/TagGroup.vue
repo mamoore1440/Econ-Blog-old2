@@ -153,8 +153,6 @@ export default {
           // None
       }
 
-      console.log(posts);
-
       this.latestPosts = posts;
       this.intervalID = setInterval(this.updatePreviewProgress, this.intervalUpdateDuration);
     },
