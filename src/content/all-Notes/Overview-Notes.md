@@ -7,7 +7,6 @@ Other Notes Pages:
 
 TODO:
 - Create Routes 
-  - History
   - Concepts
 - Update the NavBar to look how I want (below)
 
