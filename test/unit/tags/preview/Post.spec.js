@@ -43,18 +43,18 @@ describe('PostPreview component', () => {
       expect(wrapper.vm).toBeTruthy();
     });
 
-    it('contains the correctly linked title', () => {
-      const title = wrapper.findComponent({ref: 'title'});
-      expect(title.text()).toEqual(post.title);
-      expect(title.props('to')).toEqual(`/post/${post.slug}`);
-    });
+    // it('contains the correctly linked title', () => {
+    //   const title = wrapper.findComponent({ref: 'title'});
+    //   expect(title.text()).toEqual(post.title);
+    //   expect(title.props('to')).toEqual(`/post/${post.slug}`);
+    // });
 
-    it('contains correctly linked feature image', () => {
-      const imageWrapper = wrapper.findComponent({ref: 'feature-image'});
+    // it('contains correctly linked feature image', () => {
+    //   const imageWrapper = wrapper.findComponent({ref: 'feature-image'});
 
-      expect(imageWrapper.props('to')).toEqual(`/post/${post.slug}`);
-      expect(imageWrapper.html()).toContain(`<img src="${post.img}"`);
-    });
+    //   expect(imageWrapper.props('to')).toEqual(`/post/${post.slug}`);
+    //   expect(imageWrapper.html()).toContain(`<img src="${post.img}"`);
+    // });
     
     // Not the ideal way of doing this, since we aren't actually testing the excerpt is present
     it('contains nuxt content element for the excerpt', () => {
@@ -72,11 +72,11 @@ describe('PostPreview component', () => {
     // This will likely require mocking the Nuxt Content module in some way.
     it.todo('contains the excerpt text');
 
-    it('contains the correctly linked "Continue reading"', () => {
-      const continueLink = wrapper.findComponent({ref: 'continue-reading'});
+    // it('contains the correctly linked "Continue reading"', () => {
+    //   const continueLink = wrapper.findComponent({ref: 'continue-reading'});
 
-      expect(continueLink.text()).toEqual('Continue reading');
-      expect(continueLink.props('to')).toEqual(`/post/${post.slug}`);
-    });
+    //   expect(continueLink.text()).toEqual('Continue reading');
+    //   expect(continueLink.props('to')).toEqual(`/post/${post.slug}`);
+    // });
   });
 });

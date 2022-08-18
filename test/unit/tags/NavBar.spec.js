@@ -33,7 +33,7 @@ describe('NavBar component', () => {
   });
 
   it('renders a NavItem for each of the links', () => {
-    expect(wrapper.findAllComponents(NavItem)).toHaveLength(3);
+    expect(wrapper.findAllComponents(NavItem)).toHaveLength(5);
   });
 
   it('correctly renders the NavItem for the signature header (home page)', () => {
@@ -44,21 +44,21 @@ describe('NavBar component', () => {
     expect(navItem.props('active')).toBeTruthy();
   });
 
-  it('renders a NavItem for the blog page', () => {
-    const navItem = navItems.filter((el) => el.text() === 'Blog').at(0);
+  // it('renders a NavItem for the blog page', () => {
+  //   const navItem = navItems.filter((el) => el.text() === 'Blog').at(0);
 
-    expect(navItem.exists()).toBeTruthy();
-    expect(navItem.props('href')).toEqual('/blog');
-    expect(navItem.props('active')).not.toBeTruthy();
-  });
+  //   expect(navItem.exists()).toBeTruthy();
+  //   expect(navItem.props('href')).toEqual('/blog');
+  //   expect(navItem.props('active')).not.toBeTruthy();
+  // });
 
-  it('renders a NavItem for the Portfolio page', () => {
-    const navItem = navItems.filter((el) => el.text() === 'Portfolio').at(0);
+  // it('renders a NavItem for the Portfolio page', () => {
+  //   const navItem = navItems.filter((el) => el.text() === 'Portfolio').at(0);
 
-    expect(navItem.exists()).toBeTruthy();
-    expect(navItem.props('href')).toEqual('/tag/portfolio');
-    expect(navItem.props('active')).not.toBeTruthy();
-  });
+  //   expect(navItem.exists()).toBeTruthy();
+  //   expect(navItem.props('href')).toEqual('/tag/portfolio');
+  //   expect(navItem.props('active')).not.toBeTruthy();
+  // });
 
   it('renders the Tag dropdown', () => {
     const dropdown = wrapper.findComponent(TagDropdown);
