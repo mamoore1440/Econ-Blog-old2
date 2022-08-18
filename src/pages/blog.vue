@@ -1,7 +1,7 @@
 <template>
   <main>
     <nav-bar current-page="Blog" />
-    <blog-feed route='/posts' name="Blog"/>
+    <blog-feed route='posts' name="Blog"/>
     <back-to-top-button />
     <footer-bar current-page="Blog" />
   </main>

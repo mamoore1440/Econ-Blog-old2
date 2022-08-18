@@ -19,7 +19,6 @@
         :full-width="i % 3 === 0 || ((i === (posts.length - 1)) && i % 3 === 1)"
         :is-reversed="i % 6 === 0 || ((i === (posts.length - 1)) && (i - 1) % 6 !== 0)"
         :post="post"
-        :route="route"
       />
 
       <div
@@ -40,7 +39,6 @@
         :key="i"
         :full-width="i % 3 === 0 || ((i === (postCount - 1)) && i % 3 === 1)"
         :is-reversed="i % 6 === 0 || ((i === (postCount - 1)) && (i - 1) % 6 !== 0)"
-        :route="''"
       />
     </div>
     
@@ -111,7 +109,7 @@ export default {
         .limit(totalPosts + 1);
       
       if (this.tag) {
-        fetchPosts = fetchPosts.where({tags: { $contains: this.tag.title }});
+        fetchPosts = fetchPosts.where({ tags: { $contains: this.tag.title } });
       }
         
       const tempPosts = await fetchPosts.fetch()
