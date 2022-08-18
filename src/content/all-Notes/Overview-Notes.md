@@ -7,9 +7,8 @@ Other Notes Pages:
 
 TODO:
 - Create Routes 
-  - Personal
-  - Concepts
   - History
+  - Concepts
 - Update the NavBar to look how I want (below)
 
 - Delete European debt crisis
