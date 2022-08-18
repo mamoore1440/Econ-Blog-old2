@@ -60,7 +60,7 @@ import Divider from '@/components/Divider.vue';
 import PostPreview from '@/components/previews/Post.vue';
 
 export default {
-  name: 'blog-feed',
+  name: 'post-feed',
   components: {
     Divider,
     PostPreview,
