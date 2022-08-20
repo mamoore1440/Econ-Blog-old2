@@ -6,6 +6,7 @@ Other Notes Pages:
 - Concepts-Notes
 
 TODO:
+- get git to work on new laptop
 - Update ID on all Posts
   - must be consistent between tags, personal, concepts, and history
   - write classification down somewhere
