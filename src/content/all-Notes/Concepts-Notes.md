@@ -99,7 +99,7 @@ Markets:                          Emporium of Markets
 - Credit                          Dollar with a white "shadow" dollar behind it
 - Forex                           Two different colored bills with two arrows going into each other 
 
-Specials:                   Purple Stars
+Specials:                         Purple Stars
 - QE                              Pill Bottle
 - Yield Curve Inversion           Inverted Yield Curve
 - Credit Crises                   Ball and Chain
