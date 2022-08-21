@@ -8,7 +8,6 @@ Other Notes Pages:
 TODO:
 - Update ID on all Posts
   - must be consistent between tags, personal, concepts, and history
-  - write classification down somewhere
 - Create Routes 
   - Concepts
 - Update the NavBar to look how I want (below)
@@ -32,6 +31,11 @@ Fundamentals | Components | Markets | Specials                             Tradi
 ID Classification:
 - There will 4 digits, goes in order of most recent within section. Oldest is lower
 - 0000 is for personal
+  - 0100 is for blog
+  - 0200 is for schizo
+  - 0300 is for thesis
+  - 0400 is for trading
+  
 - 1000 is for concepts
 - 2000 is for history
 
