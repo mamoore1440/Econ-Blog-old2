@@ -1,5 +1,5 @@
 ---
-id: 3003
+id: 9303
 title: "Stock"
 slug: stock
 date: 'August 16th, 2022'

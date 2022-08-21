@@ -1,5 +1,5 @@
 ---
-id: 3004
+id: 9304
 title: "Growth"
 slug: growth
 date: 'August 16th, 2022'

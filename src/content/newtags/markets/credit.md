@@ -1,5 +1,5 @@
 ---
-id: 3005
+id: 9305
 title: "Credit"
 slug: credit
 date: 'August 16th, 2022'
