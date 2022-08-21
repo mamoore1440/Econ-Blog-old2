@@ -76,25 +76,25 @@ export default {
           });
         });
 
-        const componentContent = await $content('newtags/components/components').fetch();
+        const componentContent = await $content('tags/components/components').fetch();
   
         componentContent.tags.forEach((component) => {
           feed.addCategory(component.title);
         });
 
-        const fundamentalsContent = await $content('newtags/fundamentals/fundamentals').fetch();
+        const fundamentalsContent = await $content('tags/fundamentals/fundamentals').fetch();
   
         fundamentalsContent.tags.forEach((fundamental) => {
           feed.addCategory(fundamental.title);
         });
 
-        const marketsContent = await $content('newtags/markets/markets').fetch();
+        const marketsContent = await $content('tags/markets/markets').fetch();
   
         marketsContent.tags.forEach((market) => {
           feed.addCategory(market.title);
         });
 
-        const specialsContent = await $content('newtags/specials/specials').fetch();
+        const specialsContent = await $content('tags/specials/specials').fetch();
   
         specialsContent.tags.forEach((special) => {
           feed.addCategory(special.title);

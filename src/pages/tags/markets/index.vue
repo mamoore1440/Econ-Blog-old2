@@ -1,23 +1,23 @@
 <template>
   <main>
-    <nav-bar current-page="Components" />
+    <nav-bar current-page="Markets" />
     <div class="max-w-screen-lg mx-auto">
       <div class="bg-card-light dark:bg-card-dark m-6 p-6 shadow-md dark:shadow-shadow-dark hover:shadow-none hover:rounded motion-safe:animate-fade-in-fast transition">
-        <p class="text-center text-3xl font-bold">Components</p>
+        <p class="text-center text-3xl font-bold">Markets</p>
       </div>
       <divider />
 
-      <div v-if="components && components.length">
+      <div v-if="markets && markets.length">
         <tag-group-preview
-          v-for="(component, i) in components"
-          :key="component.slug"
-          :tag-group="'components'"
-          :tag="component"
+          v-for="(market, i) in markets"
+          :key="market.slug"
+          :tag-group="'markets'"
+          :tag="market"
           :index="i"
         />
       </div>
 
-      <div v-else-if="!isDoneFetchingComponents">
+      <div v-else-if="!isDoneFetchingMarkets">
         <tag-group-preview
           v-for="(n, i) in 3"
           :key="`tag-lazy-loader-${n}`"
@@ -32,7 +32,7 @@
 
     </div>
     <back-to-top-button />
-    <footer-bar current-page="Components" />
+    <footer-bar current-page="Markets" />
   </main>
 </template>
 
@@ -44,7 +44,7 @@ import FooterBar from '@/components/FooterBar.vue';
 import BackToTopButton from '@/components/BackToTopButton.vue';
 
 export default {
-  name: 'components',
+  name: 'markets',
   components: {
     TagGroupPreview,
     Divider,
@@ -53,7 +53,7 @@ export default {
     FooterBar
   },
   async asyncData({ $content, error }) {
-    const content = await $content('newtags/components/components')
+    const content = await $content('tags/markets/markets')
       .fetch()
       .catch((err) => {
         error({
@@ -64,8 +64,8 @@ export default {
       });
 
     return {
-      components: content.tags,
-      isDoneFetchingComponents: true
+      markets: content.tags,
+      isDoneFetchingMarkets: true
     };
   },
 };

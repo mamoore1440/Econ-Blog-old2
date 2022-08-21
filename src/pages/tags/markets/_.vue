@@ -24,7 +24,7 @@
                     v-for="(market, i) in post.markets"
                     :key="`markets-${market}`"
                   >
-                    <nuxt-link :to="`/newtags/markets/${market.toLowerCase().replaceAll(' ', '-')}`" class="hover:underline">{{market}}</nuxt-link>{{(i + 1) === post.markets.length ? '' : ', '}}
+                    <nuxt-link :to="`/tags/markets/${market.toLowerCase().replaceAll(' ', '-')}`" class="hover:underline">{{market}}</nuxt-link>{{(i + 1) === post.markets.length ? '' : ', '}}
                   </span>
                 </span>
               </p>
@@ -86,7 +86,7 @@ export default {
   async asyncData({ $content, params, error }) {
     const slug = params.pathMatch;
 
-    const posts = await $content('newtags/markets')
+    const posts = await $content('tags/markets')
       .search('slug', slug)
       .fetch()
       .catch((err) => {

@@ -24,7 +24,7 @@
                     v-for="(fundamental, i) in post.fundamentals"
                     :key="`fundamentals-${fundamental}`"
                   >
-                    <nuxt-link :to="`/newtags/fundamentals/${fundamental.toLowerCase().replaceAll(' ', '-')}`" class="hover:underline">{{fundamental}}</nuxt-link>{{(i + 1) === post.fundamentals.length ? '' : ', '}}
+                    <nuxt-link :to="`/tags/fundamentals/${fundamental.toLowerCase().replaceAll(' ', '-')}`" class="hover:underline">{{fundamental}}</nuxt-link>{{(i + 1) === post.fundamentals.length ? '' : ', '}}
                   </span>
                 </span>
               </p>
@@ -86,7 +86,7 @@ export default {
   async asyncData({ $content, params, error }) {
     const slug = params.pathMatch;
 
-    const posts = await $content('newtags/fundamentals')
+    const posts = await $content('tags/fundamentals')
       .search('slug', slug)
       .fetch()
       .catch((err) => {

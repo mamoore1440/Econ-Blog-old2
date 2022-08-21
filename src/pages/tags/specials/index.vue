@@ -1,23 +1,23 @@
 <template>
   <main>
-    <nav-bar current-page="Markets" />
+    <nav-bar current-page="Specials" />
     <div class="max-w-screen-lg mx-auto">
       <div class="bg-card-light dark:bg-card-dark m-6 p-6 shadow-md dark:shadow-shadow-dark hover:shadow-none hover:rounded motion-safe:animate-fade-in-fast transition">
-        <p class="text-center text-3xl font-bold">Markets</p>
+        <p class="text-center text-3xl font-bold">Specials</p>
       </div>
       <divider />
 
-      <div v-if="markets && markets.length">
+      <div v-if="specials && specials.length">
         <tag-group-preview
-          v-for="(market, i) in markets"
-          :key="market.slug"
-          :tag-group="'markets'"
-          :tag="market"
+          v-for="(special, i) in specials"
+          :key="special.slug"
+          :tag-group="'specials'"
+          :tag="special"
           :index="i"
         />
       </div>
 
-      <div v-else-if="!isDoneFetchingMarkets">
+      <div v-else-if="!isDoneFetchingSpecials">
         <tag-group-preview
           v-for="(n, i) in 3"
           :key="`tag-lazy-loader-${n}`"
@@ -32,7 +32,7 @@
 
     </div>
     <back-to-top-button />
-    <footer-bar current-page="Markets" />
+    <footer-bar current-page="Specials" />
   </main>
 </template>
 
@@ -44,7 +44,7 @@ import FooterBar from '@/components/FooterBar.vue';
 import BackToTopButton from '@/components/BackToTopButton.vue';
 
 export default {
-  name: 'markets',
+  name: 'specials',
   components: {
     TagGroupPreview,
     Divider,
@@ -53,7 +53,7 @@ export default {
     FooterBar
   },
   async asyncData({ $content, error }) {
-    const content = await $content('newtags/markets/markets')
+    const content = await $content('tags/specials/specials')
       .fetch()
       .catch((err) => {
         error({
@@ -64,8 +64,8 @@ export default {
       });
 
     return {
-      markets: content.tags,
-      isDoneFetchingMarkets: true
+      specials: content.tags,
+      isDoneFetchingSpecials: true
     };
   },
 };

@@ -1,6 +1,6 @@
 <template>
   <main>
-    <nav-bar current-page="Components" />
+    <nav-bar current-page="Specials" />
     <div class="max-w-screen-lg mx-auto">
       <div v-if="post" id="post-card" class="bg-card-light dark:bg-card-dark m-0 md:m-6 p-4 flex flex-wrap shadow-lg dark:shadow-shadow-dark hover:shadow-none hover:rounded motion-safe:animate-fade-in transition">
         <div class="w-full p-4">
@@ -19,12 +19,12 @@
                     <nuxt-link :to="`/tag/${tag.toLowerCase().replace(' ', '-')}`" class="hover:underline">{{tag}}</nuxt-link>{{(i + 1) === post.tags.length ? '' : ', '}}
                   </span>
                 </span>
-                <span v-if="post.components != undefined && post.components.length">
+                <span v-if="post.specials != undefined && post.specials.length">
                   <span
-                    v-for="(component, i) in post.components"
-                    :key="`components-${component}`"
+                    v-for="(special, i) in post.specials"
+                    :key="`specials-${special}`"
                   >
-                    <nuxt-link :to="`/newtags/components/${component.toLowerCase().replaceAll(' ', '-')}`" class="hover:underline">{{component}}</nuxt-link>{{(i + 1) === post.components.length ? '' : ', '}}
+                    <nuxt-link :to="`/tags/specials/${special.toLowerCase().replaceAll(' ', '-')}`" class="hover:underline">{{special}}</nuxt-link>{{(i + 1) === post.specials.length ? '' : ', '}}
                   </span>
                 </span>
               </p>
@@ -86,7 +86,7 @@ export default {
   async asyncData({ $content, params, error }) {
     const slug = params.pathMatch;
 
-    const posts = await $content('newtags/components')
+    const posts = await $content('tags/specials')
       .search('slug', slug)
       .fetch()
       .catch((err) => {

@@ -2,7 +2,7 @@
   <div class="inline relative" @mouseenter="isHovering = true" @mouseleave="isHovering = false">
     <nav-item
       class="p-3 align-middle transition dark:text-white whitespace-nowrap"
-      :href="`/newtags/${tagGroup}`"
+      :href="`/tags/${tagGroup}`"
       :active="currentPage === Title"
     >
       {{Title}}

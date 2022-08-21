@@ -4,7 +4,7 @@
       v-for="(tag, i) in tags"
       :key="tag.title"
       :ref="tag.slug"
-      :href="`/newtags/${tagGroup}/${tag.slug}`"
+      :href="`/tags/${tagGroup}/${tag.slug}`"
       class="text-center mx-4 transition"
       :style="`animation: fade-in ${((i + 1) * 0.25)}s ease-in-out;`"
       :active="currentPage === tag.title"
@@ -37,7 +37,7 @@ export default {
     isErrorLoadingTags: false,
   }),
   async fetch() {
-    const content = await this.$content(`newtags/${this.tagGroup}/${this.tagGroup}`)
+    const content = await this.$content(`tags/${this.tagGroup}/${this.tagGroup}`)
     .fetch()
     .catch(() => {
       this.isErrorLoadingTags = true;

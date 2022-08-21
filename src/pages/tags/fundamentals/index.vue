@@ -1,23 +1,23 @@
 <template>
   <main>
-    <nav-bar current-page="Specials" />
+    <nav-bar current-page="Fundamentals" />
     <div class="max-w-screen-lg mx-auto">
       <div class="bg-card-light dark:bg-card-dark m-6 p-6 shadow-md dark:shadow-shadow-dark hover:shadow-none hover:rounded motion-safe:animate-fade-in-fast transition">
-        <p class="text-center text-3xl font-bold">Specials</p>
+        <p class="text-center text-3xl font-bold">Fundamentals</p>
       </div>
       <divider />
 
-      <div v-if="specials && specials.length">
+      <div v-if="fundamentals && fundamentals.length">
         <tag-group-preview
-          v-for="(special, i) in specials"
-          :key="special.slug"
-          :tag-group="'specials'"
-          :tag="special"
+          v-for="(fundamental, i) in fundamentals"
+          :key="fundamental.slug"
+          :tag-group="'fundamentals'"
+          :tag="fundamental"
           :index="i"
         />
       </div>
 
-      <div v-else-if="!isDoneFetchingSpecials">
+      <div v-else-if="!isDoneFetchingFundamentals">
         <tag-group-preview
           v-for="(n, i) in 3"
           :key="`tag-lazy-loader-${n}`"
@@ -32,7 +32,7 @@
 
     </div>
     <back-to-top-button />
-    <footer-bar current-page="Specials" />
+    <footer-bar current-page="Fundamentals" />
   </main>
 </template>
 
@@ -44,7 +44,7 @@ import FooterBar from '@/components/FooterBar.vue';
 import BackToTopButton from '@/components/BackToTopButton.vue';
 
 export default {
-  name: 'specials',
+  name: 'fundamentals',
   components: {
     TagGroupPreview,
     Divider,
@@ -53,7 +53,7 @@ export default {
     FooterBar
   },
   async asyncData({ $content, error }) {
-    const content = await $content('newtags/specials/specials')
+    const content = await $content('tags/fundamentals/fundamentals')
       .fetch()
       .catch((err) => {
         error({
@@ -64,8 +64,8 @@ export default {
       });
 
     return {
-      specials: content.tags,
-      isDoneFetchingSpecials: true
+      fundamentals: content.tags,
+      isDoneFetchingFundamentals: true
     };
   },
 };
