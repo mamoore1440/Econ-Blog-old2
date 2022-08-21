@@ -2,7 +2,7 @@
 title: Thesis
 slug: thesis
 date: 'July 25th, 2022'
-img: Bird-In-A-Cage.png #FIX
+img: Bird-In-A-Cage.png
 tags:
   - Psychology
   - The Flations
