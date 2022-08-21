@@ -14,9 +14,7 @@ TODO:
 - Update the NavBar to look how I want (below)
 
 BACKBURNER:
-
-- Delete European debt crisis
-  - wait
+- 
 
 Links:
 - https://labs.openai.com/
