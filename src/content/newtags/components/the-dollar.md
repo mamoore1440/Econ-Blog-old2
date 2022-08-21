@@ -1,5 +1,5 @@
 ---
-id: 1003
+id: 9103
 title: "The Dollar"
 slug: the-dollar
 date: 'August 16th, 2022'

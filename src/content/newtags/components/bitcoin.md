@@ -1,5 +1,5 @@
 ---
-id: 1006
+id: 9106
 title: "Bitcoin"
 slug: bitcoin
 date: 'August 16th, 2022'
