@@ -23,5 +23,22 @@ Links:
 
 -----------------------------------------------------------------
 
+NavBar look:
+
 The American Economy: History | Concepts                                                            Mamoore
 Fundamentals | Components | Markets | Specials                             Trading | Blog | Thesis | Schizo
+
+
+### Internal Guides:
+
+ID Classification:
+- There will 4 digits
+- 0000 is for personal
+- 1000 is for concepts
+- 2000 is for history
+
+- 9000 is for tags
+  - 9100 is for components
+  - 9200 is for fundamentals
+  - 9300 is for markets
+  - 9400 is for specials
