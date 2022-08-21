@@ -1,5 +1,5 @@
 ---
-id: 2004
+id: 9204
 title: "The Invisible Hand"
 slug: the-invisible-hand
 date: 'August 16th, 2022'
