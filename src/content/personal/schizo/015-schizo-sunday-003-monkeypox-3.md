@@ -1,5 +1,5 @@
 ---
-id: 15
+id: 0203
 title: "Schizo Sunday: Monkeypox 3, Vaccines, Vaccines, Vaccines"
 slug: schizo-sunday-monkeypox-3
 date: 'August 7th, 2022'

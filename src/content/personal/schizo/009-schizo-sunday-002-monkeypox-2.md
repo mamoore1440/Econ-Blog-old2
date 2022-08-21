@@ -1,5 +1,5 @@
 ---
-id: 9
+id: 0202
 title: "Schizo Sunday: Monkeypox 2: variant boogaloo"
 slug: schizo-sunday-monkeypox-2
 date: 'July 31st, 2022'

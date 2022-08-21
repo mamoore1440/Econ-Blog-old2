@@ -1,5 +1,5 @@
 ---
-id: 3
+id: 0201
 title: "Schizo Sunday: It's All Over! How Monkeypox will Crash the Market."
 slug: schizo-sunday-monkeypox
 date: 'July 24th, 2022'
