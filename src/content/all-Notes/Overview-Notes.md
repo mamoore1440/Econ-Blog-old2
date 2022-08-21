@@ -32,7 +32,7 @@ Fundamentals | Components | Markets | Specials                             Tradi
 ### Internal Guides:
 
 ID Classification:
-- There will 4 digits
+- There will 4 digits, goes in order of most recent within section. Oldest is lower
 - 0000 is for personal
 - 1000 is for concepts
 - 2000 is for history
