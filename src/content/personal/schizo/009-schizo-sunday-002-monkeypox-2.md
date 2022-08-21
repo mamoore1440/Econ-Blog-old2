@@ -2,7 +2,6 @@
 id: 9
 title: "Schizo Sunday: Monkeypox 2: variant boogaloo"
 slug: schizo-sunday-monkeypox-2
-section: Blog
 date: 'July 31st, 2022'
 img: Monkeypox-2.png
 tags:

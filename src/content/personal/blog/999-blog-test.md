@@ -2,7 +2,6 @@
 id: 999
 title: 'TEST 999'
 slug: blog-post-test
-section: Blog
 date: 'August 2nd, 2022'
 img: TODO3.png
 components:
