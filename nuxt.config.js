@@ -65,7 +65,7 @@ export default {
           description: `Blog posts from ${process.env.NUXT_ENV_FULL_NAME}`,
         };
 
-        const posts = await $content('posts').sortBy('createdAt', 'asc').fetch();
+        const posts = await $content('personal', { deep: true }).sortBy('createdAt', 'asc').fetch();
 
         posts.forEach((post) => {
           feed.addItem({
@@ -74,12 +74,6 @@ export default {
             link: `${process.env.NUXT_ENV_SITE_URL}/post/${post.slug}`,
             description: `posted on: ${post.date}`,
           });
-        });
-
-        const tagContent = await $content('tags').fetch();
-  
-        tagContent.tags.forEach((tag) => {
-          feed.addCategory(tag.title);
         });
 
         const componentContent = await $content('newtags/components/components').fetch();
