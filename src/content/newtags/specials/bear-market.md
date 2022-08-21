@@ -1,5 +1,5 @@
 ---
-id: 4005
+id: 9405
 title: "Bear Market"
 slug: bear-market
 date: 'August 16th, 2022'

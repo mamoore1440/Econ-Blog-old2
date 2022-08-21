@@ -1,5 +1,5 @@
 ---
-id: 4002
+id: 9402
 title: "Yield Curve Inversion"
 slug: yield-curve-inversion
 date: 'August 16th, 2022'

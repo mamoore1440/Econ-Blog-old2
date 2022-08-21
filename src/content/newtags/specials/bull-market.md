@@ -1,5 +1,5 @@
 ---
-id: 4004
+id: 9404
 title: "Bull Market"
 slug: bull-market
 date: 'August 16th, 2022'
