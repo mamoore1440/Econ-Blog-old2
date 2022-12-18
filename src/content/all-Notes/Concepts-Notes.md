@@ -82,40 +82,161 @@ Themes ("articles" (more like papers but still)):
 10. Irrational Psychology
 11. Demographics
 
+
+
+
+
+
+
+
                                   Pictures (all cartoonish):
-Components:                       2 base bricks and one on top
-- Supply And Demand               Basic Supply and Demand
-- The Yield Curve                 Basic Healthy Yield Curve
-- The Dollar                      Basic Stack of Benjamins
-- Bond: basic debt (done)         Basic Blue Bond
-- Stocks                          Basic Green/Red lines
-- Bitcoin                         Bitcoin
+~~Components/~~Assets:                       2 base bricks and one on top
+- D   Supply And Demand               Basic Supply and Demand
+- D   The Yield Curve                 Basic Healthy Yield Curve
+- A   The Dollar                      Basic Stack of Benjamins
+- A   Bond: basic debt (done)         Basic Blue Bond
+- A   Stocks                          Basic Green/Red lines
+- A   Bitcoin                         Bitcoin
 
-Markets:                          Emporium of Markets
-- UST                             NY Fed
-- Housing                         House
-- Stock                           Sky Scrapper
-- Growth                          Inserter / Car making robot
-- Credit                          Dollar with a white "shadow" dollar behind it
-- Forex                           Two different colored bills with two arrows going into each other 
+* D Markets:  (Bull/Bear Markets need defining too!)                        Emporium of Markets
+- +M   UST                             NY Fed
+- +M   Housing                         House
+- +M   Stock                           Sky Scrapper
+- ~~M   Growth~~                          Inserter / Car making robot
+- +M   Credit                          Dollar with a white "shadow" dollar behind it
+- +M   Forex                           Two different colored bills with two arrows going into each other 
 
-Specials:                         Purple Stars
-- QE                              Pill Bottle
-- Yield Curve Inversion           Inverted Yield Curve
-- Credit Crises                   Ball and Chain
-- Bull Market                     Bull Head
-- Bear Market                     Bear Head
+~~Specials~~:                         Purple Stars
+- D   ~~QE ~~Yield Curve Control                             Pill Bottle
+- D   Yield Curve Inversion           Inverted Yield Curve
+- D   Credit Crises                   Ball and Chain
 
 Fundamentals?                     Atom
-- Value                           Paper price tag 
-- Yield                           Tomato vine with lots of Tomatoes
-- Cycles                          Two arrows going into each other
-  - Life and Death
-  - Debt                          
-- Invisible Hand                  White hand
-- Temporality                     Hourglass
+- S   Value                           Paper price tag 
+- D   Yield                           Tomato vine with lots of Tomatoes
+- K Cycles                          Two arrows going into each other
+  - S Life and Death
+  - * D Debt                          
+- S Invisible Hand                  White hand
+- S Temporality                     Hourglass
+- * R Risk
+  - +R Interest Rate Risk
+  - +R Default Risk
 
-Ignore for now:
 
-Now that is it formatted to economy/4 Sub sections there will be 4C2 connection posts. 
-Maybe: Color and give a number based on Level (Concepts is Last & 3 | stop at articles like Demographics, Irrational Psychology).
+Fundamentals: (Fundamental economics. Do not require money, credit, supply, or demand)
+- Value
+- Yield
+- Risk
+- Temporality
+- Invisable Hand
+
+Money and Debt
+
+Models:
+- Suppy and Demand
+  - Bond Market
+  - Money Market
+- Yield Curve
+
+Assets + Markets:
+- UST
+- Housing
+- Stock/Equity
+- Credit
+- Forex
+
+
+
+
+
+
+
+
+### First NEED to learn:
+
+1. Yield
+  - That it can be found anywhere
+  - That yield can be positive and negative
+  - Yield is NOT a unit
+2. Risk 
+  - That it there is risk to everything
+  - That the odds dont matter as they are mostly 0
+  - The average risks are what matter
+3. Value
+  - Subjective
+  - Value of an object is based on comparison with EVERYTHING else
+  - Most common way to measure is compare the object with the dollar
+4. Supply and Demand
+  - What is supply
+  - What is demand
+  - What is equilibrium
+
+
+### Then you learn what Assets and Markets are:
+
+- A Assets:         All A Assets have R Risk
+  - Equity
+  - Housing
+  - Money
+    - The Dollar
+    - Forex
+    - Crypto
+  - Debt Instruments
+    - US Gov Bonds
+      - You should talk about The Yield Curve here.
+        - 2: Yield Curve Control and Yield Curve Inversion
+
+    - Corporate Bonds
+    - IDK
+      - Securitized Loans
+      - Credit Market Instruments
+      - Fixed Income Assets
+
+- R Risks:
+  - Interest Rate Risk
+  - Default Risk
+
+
+
+
+- M Markets:          All M Markets have C Cyles
+  - Equity                        "The Stock Market"
+  - Housing                       "The Housing Market"
+  - Money
+    - The Dollar                  "The Money Market"
+    - Forex                       "The Forex Market"
+    - Crypto                      "The Crypto Market"
+  - Debt Instruments:
+    - You should talk about Credit Crises here
+
+    - US Gov Bonds                "The Bond Market"
+    - Corporate Bonds             "The Corporate Bond Market"
+    - IDK                         "The Debt Market?"
+      - Securitized Loans
+      - Credit Market Instruments
+      - Fixed Income Assets
+
+- C Cycles: 
+  - Business cycle 
+    - > Forest analogy!
+  - Debt cycles
+    - 7
+    - 100 
+  - Bear & Bull Market Cycles
+
+
+### Finally you need to learn that:
+##### The Economy is the set of all Assets, Markets, and Participants under a unifying Philosopy
+
+- E Economies:
+  - Assets
+  - Markets
+
+  - Participants
+    - Consumer; Domestic and Foreign
+    - Producer; Domestic and Foreign
+
+  - Philosophy
+    - Government is included here
+    - free, communism, socialism, mixes, bird in a cage, etc
