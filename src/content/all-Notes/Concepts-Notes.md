@@ -124,27 +124,31 @@ Fundamentals?                     Atom
   - +R Default Risk
 
 
-Fundamentals: (Fundamental economics. Do not require money, credit, supply, or demand)
+Fundamentals:
 - Value
 - Yield
 - Risk
 - Temporality
 - Invisable Hand
-
-Money and Debt
+- Cycles
+- Money and Debt
 
 Models:
-- Suppy and Demand
+- Suppy and Demand (Markets)
   - Bond Market
   - Money Market
 - Yield Curve
+  - YCC
 
 Assets + Markets:
 - UST
 - Housing
+- Bonds
 - Stock/Equity
+- The Dollar
 - Credit
 - Forex
+
 
 
 
