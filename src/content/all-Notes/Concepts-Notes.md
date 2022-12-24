@@ -129,7 +129,8 @@ Fundamentals:
 - Yield
 - Risk
 - Temporality
-- Invisable Hand
+- Invisible Hand
+  - This is a way of approximating objective value and risk based on an aggregation of what society thinks. This is obviously flawed as society is biased in lots of ways. 
 - Cycles
 - Money and Debt
 
@@ -148,6 +149,7 @@ Assets + Markets:
 - The Dollar
 - Credit
 - Forex
+- Crypto
 
 
 
