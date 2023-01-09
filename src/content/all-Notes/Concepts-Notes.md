@@ -246,3 +246,13 @@ Assets + Markets:
   - Philosophy
     - Government is included here
     - free, communism, socialism, mixes, bird in a cage, etc
+
+
+
+------
+
+Temporality
+ - Value
+ - Yield
+  - Opportunity Cost
+  - Risk
