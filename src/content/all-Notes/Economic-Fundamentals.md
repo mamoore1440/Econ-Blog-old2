@@ -1,7 +1,24 @@
+I'm trying to make a puzzle of puzzles rn but tbh its quite puzzling.
+
+
 The fundamenatls include:
 * Entities
+
+Bitcoin is the abstract Thing. 
+- Not Physical but Digital; it's own Financial System.
+- It an Asset, A Currency, and the Central Market. 
+
 * Value & Utility
+
 * Time
+
+You have split Time.
+- Current Time exists in the choosing actions part of the state diagram in Value & Utility. This could go on forever.
+- Future Time is in the future.
+  - There are infinite futures but only comes true.
+  - This would be where Keynes described as investing for precision. 
+  - While winning bets the smaller the size of the set of futures bet on bigger the payoff the bet wins.
+
 * Sin
 * Money & Debt
 
@@ -161,6 +178,9 @@ OV:
   - New P has more value than old P did when new P didn't exist.
   - Old P loses value when new P is created.
   - Thus when creative destruction occurs OV increases, old Ps lose value, and new Ps gain value.
+OU:
+- It's hard to estimate long term Utility gained or lost from an action. 
+  - Especially for a long term negative consequences like if a society lost access to a resource because it went extinct (a cycle Thing that collapsed to zero)
 
 
 
@@ -187,6 +207,12 @@ S(Thing, Time + 1) = 0                                          if S(Thing, TIme
   * Societies compete against each other. And can die.
 * SV doesn't matter until Sin is considered. 
 * Because Sin taints Humans you can now have a tragedy of the commons and publics.
+* Humans may now prefer to only consume without producing. 
+  * Humans now need to create Private Property. 
+    * Because Private Property exists now Debt needs to exist.
+    * Because Private Property exists now Money needs to exist. How do you know who owns what?
+      * Because Money exists you now have a financial system.
+  * The Community Chest is now off limits. Who can trust who?
 
 
 
@@ -197,24 +223,49 @@ Before Sin:
   This will make it so there will never a cause where a Thing or CoTs would go extinct(1).
 
 After Sin:
-  Because Humans sin any CoH have a chance to sin.
+  Because Humans sin any CoH have a chance to make an upward and a (repricol chance) downard consumption.
+  Upward consumptions favor the whole. Downward consupetions favor individual.
+
+  - No Human would prioritize it's self over the whole given the opportunity.
+    - This would lead to an inherient social contract. 
 
 
-- Tragedy of the commons is when one generation of people consumes more than can be replenished.
+1. Tragedy of the commons is when one generation of people consumes more than can be replenished.
   - Individuals in society casuse this tragedy
-- Tragedy of the publics is when one society has more abstract demand than they should. 
-  - "States" of societies in a societies lifetime create this tragedy.
-  - Present society is has more abstract demand than it should.
-  - Future society is worse off because they will have less demand than it should.
-  - Society now has a death time. This would be when Society pulls far too much demand forward leaving a future society that is barren.
-  - To not have death time it requires all demand across all time to be balanced. (Requires a extratemporal market. I would rather die with God than live forever with the Devil).
+
+  - Humans will at times prioritize themselves over a "greater good". 
+    - This leads to the social contract which didn't exist before to now exist. 
+    - The social contract will also degrade over time. 
+      * I have no clue how the "wave" function would act. Would Individuals and Societies both have a cohesion level?
+    - When a Human prioritizes consuming a would be extinct Thing over any other split of Humanity optimal goal of not consuming. (not consuming it thus no extinction)
+
+
+2. Tragedy of the publics is when Society consumes too much of a Thing than it should even if there is no extinction threat.
+  - Like mindless art, funko pops, etc
+  - Plastic is a great example. No short term extinction threat but there is posibly one long long off. 
+  - This can also take place when society has too much abstract demand pulled forward in time by debt.
+    - Future society is worse off because they will have less demand than it should. 
+      - This creates waves. Someone has a job based on a Thing but looses it when that Thing loses demand.
+        - Leads to recessions and depressions. 
+        - "Are Depressions a thing of the past?"; well no, because The Rate set in your Financial System keeps going to Cheap Money
+        - Cheap Money creates lots of short term demand. ("Ghost Demand" in the present and "Savings"*. *Include Default Risk!!!!)
+      - Hypothetically it's a massive drop in demand. A "Cliff" persay:
+        - At this point it may be better to drop all current financial systems overnight in favor of new ones. 
+        - The new system would be incredibly hard to have mass adoption. 
+        - It would require a plan (PR, SpokesPeople, etc)
 
 What ever Things or CoTs can go fully extinct now need a market because of the Tragedy of the commons.
-Because there is a tragedy of the publics. Society now needs temporal supply and demand marketed. Otherwise the Society will kill itself.
+Because there is a tragedy of the publics. Society now needs temporal supply and demand markets or a strict social system.
 
 
 
-MONEY: 
+# MONEY: 
+
+Again the Community chest is off limits. 
+Who can trust who? Which means we now must start using private property. 
+Defined private property is really hard to trade. 
+Money is created as a representative of abstract value. This removes the double coincidence of wants from society and thus ditches the barter system.
+
 
 - We can create a universal numeraire for each Thing. 
   - This is Money
@@ -224,6 +275,9 @@ MONEY:
     - No longer need the double coicidence of wants as both parties will always want abstract value. 
   - Money will always perfectly represent subjective value, but, in the real world, will never perfectly represent objective value.
 
+Humans have a financial allegiance to the Currency they use.
+Reserve Currencies are the true allegiance for Humans.
+  No European has allengiance to the Euro. They have allengiance to the USD.
 
 
 
