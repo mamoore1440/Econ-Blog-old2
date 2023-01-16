@@ -171,7 +171,7 @@ TODO:
 
 # TIME:
 Now essentially you would be describing a theoretical communist society. All decisions help the majority.
-
+  
 VALUE WITH TIME:
 OV:
 - Creative destruction is adding a new P that does something an old P did but better.
@@ -275,7 +275,7 @@ Money is created as a representative of abstract value. This removes the double 
     - No longer need the double coicidence of wants as both parties will always want abstract value. 
   - Money will always perfectly represent subjective value, but, in the real world, will never perfectly represent objective value.
 
-Humans have a financial allegiance to the Currency they use.
+Humans have a financial allegiance to the Currency they use and are thus in a Society with everyone else you uses that currency.
 Reserve Currencies are the true allegiance for Humans.
   No European has allengiance to the Euro. They have allengiance to the USD.
 
