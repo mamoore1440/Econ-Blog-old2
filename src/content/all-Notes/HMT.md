@@ -1,8 +1,9 @@
 HUMANS, MATTER AND TIME.
 
+THE GOAL IS TO TURN ECONOMICS INTO A MATHEMATICAL PROBLEM.
 To start we are going to create THE MOST abstract view of realitty possible. It is going to be so abstract that you are going to believe it was a waste of your time to read it. That will not be the case. 
 
-
+# Just Matter
 Let's start with just Matter.
     Matter is Things. There are Base Things and Compound Things. BT is Base Thing(s) and CT is Compound Thing(s).  
     BT are the most basic Things in the Model. For instance if the Model was based on the knowledge of reality in the 1930s the BT would be the electron, proton, and nuetron. As time went on Humanity discovered that the standard model made up electrons, protons, and nuetrons and so with this knowledge the model would have the standard model as BT. 
@@ -17,6 +18,7 @@ Let's start with just Matter.
 
     A tiny bit complex so far. Please make sure you understand this. Matter is everything and all information regarding matter; essentially just a matrix of information about reality.
 
+# Add Time
 Lets add Time into the mix. Time always ticks forward.
     Let's quickly describe a function to find Matter given Time. M(T) is Matter of Time. Given any positive Time: M(T) will return the matrix that is Matter. 
 
@@ -24,7 +26,7 @@ Lets add Time into the mix. Time always ticks forward.
     
     "That's great and all but what does that mean?". 
 
-    For one we now need to describe a function in which Matter changes over Time. There will not be any Humans and thus change in Matter is determinate. The function we need to create is Δ(M), change of Matter. Δ(M) takes in a Matter matrix and outputs a new Matter matrix that is the logical succession of the old.
+    For one we now need to describe a function in which Matter changes over Time. There will not be any Humans and thus change in Matter is determinate. The function we need to create is Δ(M), change of Matter. Δ(M) takes in a Matter matrix and outputs a new Matter matrix that is the succession of the old.
     
     At any given moment in Time we can now find what Matter looks like based on the last moment in Time. M(T) = Δ(M(T-1)).
 
@@ -34,10 +36,31 @@ Lets add Time into the mix. Time always ticks forward.
 
     Again, not too complicated but please read until you understand what is happening.
 
+# Add Humans
 Finally we need to add Humans.
-    Humans gain Utility from actions. Humans act by Demanding an interaction with Supply from Matter. Every momeny when Demand and Supply meet a Human's Utility changes. These Demands may be for a lot of Things or for a little amount of Things. There may be lots of Utility or low amount of Utility gained. Utility can even be lost. But EVERY moment EVERY Human will interact with Matter. This means EVERY Human's Utility will change every Moment. And Matter will change with every interaction too. If a Human wants to simply breathe this will still affect Matter. In the real world gas exchange happens. In this model we simply update Matter. 
+    Humans gain Utility from actions. Humans act by Demanding an interaction with Supply from Matter. Every moment when Demand and Supply meet a the related Human's Utility changes.  Every moment multiple (or none or all) Humans will interact with Matter. The Humans that affected Matter will have their Utility changed. 
+    
+    On top of the Human element there is Matter to consider too. Matter will change with every interaction too. If a Human wants to simply breathe this will still affect Matter. 
 
     We are going to define Humans the same way we defined Matter except this time there is no split in Humans and there is nothing resembling a Pattern. H(T) is the state of Humans of a moment in Time. We are also going to need a change function. Δ(H) is change of Humans. We can see Humans move from one point in time to another with H(T) = Δ(H(T-1)).
+
+    Humans interact with Matter with intention of maximizing everyone's Utility. Humans prefer the Utility maximizing decision be made no matter whos Demand is satisfied. In this way Humans will reject each other and their own Demands in favor of allowing the Utility Maximizing Demand connect with the chosen Supply.
+
+    Demand (Humans) will Filter Demand for which Demand will connect with Supply. In this way there is no need for Private Property. This is essentially a Utopia (theoritical communism); obviously not how the real work works. 
+    
+    The question needs to be asked why does communism not work? We were given a manual on how to run a perfect economy. Why does it not work in the real world? Why did American markets been the USSR? Why did China stop being communist and start be (at times) more capitalist than America is? Communism does not work because in the real world Demand does not filter Demand in the real world. Who ever owns supply decides what Demand connects with the given Supply. 
+
+    Currently the model is pre-sin, and while pre-sin there is no need for Private Property. Humans will act in a Utopian fashion (again, this is theoretical communism). When we are post-sin we will see why private property is needed and thus we will see why theoritical communism does not work.
+
+    For now essentially all you need to know is that Humans will act without sin. The theoretical communist model will work for now.
+
+    
+
+
+
+    Talk about Subjectivity Utility. Value ony matters post-sin. 
+
+    Whether or not in a given in moment in time a Demand connects with a Supply is irrelevant. Humans will always percieve the difference in reality leading to different subjective values.
 
 
 
@@ -86,3 +109,8 @@ Let's ask a _very simple_ question given a Thing. What is the Value of this Thin
 When you ask the question "What is the Value of a Thing?" We have to know the all information from all of time. And if in the moment any information is used to gain personal leverage (money) than the whole system collapses. Only when everyThing was in the CC did Value have a way to acceptably defined. If the Value of a Thing is known in Time t then the Thing could be hoarded (PP) changing the Value of a Thing. Did hoarding add Value for the Thing?
 
 
+
+
+### SCHIZO
+
+You NEED to wake up early. The devil is gonna wake you up and say "Quick live forever, God will let you die". Those who choose to live forever will surely die. God doesn't care that you are going to die. He was going to give you eternal life anyways. He cares about whether you abandon sin or not. The compounding force with sin leads to death at infinity. Either you go live forever without sin in Heaven or you live forever with sin in Hell.
