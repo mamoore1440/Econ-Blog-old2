@@ -115,9 +115,6 @@ Finally we need to add Humans.
   You've probably noticed we have two sets of terms. "Matter and Humans" and "S&D". These are essentially interchangable but let's formally describe the interaction just to remove any confusion. To do this we are going to split the sets of terms and say they are related to each other based on the S&D Field. "S&DF" is "Supply & Demand Field" or "S&D Field".
 
   Matter and Humans are the most basic units in this Model. Matter is essentially just the Matrix from the Movie _The Matrix_ and Humans are just Humans.
-  
-  Matter is M(T) and changes over one moment in Time with Δ(M(T)). The present and the one moment forward future is related with M(T) = Δ(M(T-1)).
-  Humans is H(T) and changes over one moment in Time with Δ(H(T)). The present and the one moment forward future is related with H(T) = Δ(H(T-1)).
 
   Matter does not need Humans and Humans do not need Matter. 
     _In the real world Humans obviously need Matter, but I want the model as abstract as possible so just ignore that._
@@ -153,8 +150,8 @@ Finally we need to add Humans.
 
   On top of this it's important to understand that in the real world there is essentially an infinite number of Things thus there would need to be an infinite number of shapes. Obviously this is not possible so there will always be not enough shapes shown to be 1-1 with the real world. 
 
-  Let's do a breakdown again:
-  Field:
+  Let's do a quick breakdown again:
+  S&DF:
     - Supply
       - Visualized as shapes
     - Demand
@@ -162,67 +159,64 @@ Finally we need to add Humans.
       - Number at the tip is to associate the Demand with a Spirit
       - Shape in the middle is to visualize what Supply the Demand wants. 
 
-  In sum, the S&DF is not a physical field. You can not point any of the three: Supply, Demand, or the Field itself. The S&DF is simply a way of visualizing how Supply and Demand interact or connect.
-
+  In sum, the S&DF is not a physical field. You can not point any of the three: Supply, Demand, or the Field itself. The S&DF is simply a way of visualizing how Supply and Demand interact or connect. From this visualization we can see how Humans and Matter affect each other over time.
 
 # A Quick Overview Of The Model
-  
+  There are two main parts to the model so far. There is Matter and Humans, and there is the S&DF. The physical and the non physical.
+    
+  Matter is M(T) and changes over one moment in Time with Δ(M(T)). The present and the one moment forward future is related with M(T) = Δ(M(T-1)).
+  Humans is H(T) and changes over one moment in Time with Δ(H(T)). The present and the one moment forward future is related with H(T) = Δ(H(T-1)).
 
+  Physical
+    Matter:
+      - Things
+        - BT
+          - Electron, Proton, or Nuetron
+          - Doesn't matter what this is defined as
+        - CT
+          - Made up of BT
+          - Has a pattern
+          - CT(BT, P) will input BT and a P to get CT. 1-1 function.
+        - Location in Space
+      - Equations
+        - M(T) will give the state of Matter at Time T.
+        - Δ(M(T)) will return the next succession of the Matter matrix.
+        - M(T) = Δ(M(T-1)).
+    Humans:
+      - Have
+        - Spirit
+          - The Spirit creates Demand
+        - Internal Utility
+      - Equations
+        - H(T) will give the state of Matter at Time T.
+        - Δ(H(T)) will return the next succession of the Matter matrix.
+        - H(T) = Δ(H(T-1)).
+
+  Non Physical
+    S&DF:
+    - Supply
+      - Visualized as shapes
+    - Demand
+      - Visualized as arrows
+      - Number at the tip is to associate the Demand with a Spirit
+      - Shape in the middle is to visualize what Supply the Demand wants.
+
+  As Time ticks forward one moment at a time we will see H(T) and M(T) change. Any change that occurs for Humans in a moment will originate from a single or multiple Demand and Supply Connecting in the moment. We can not say the same about Matter. Matter changes may originate from a S&D Connection or from Matter deterministically changing over Time.
 
 # Let's See How The Model Works With One Person
-    For now let's start off with just one Human in Humans. 
+  For now let's start off with just one Human in Humans. 
 
+  This Human will want to change the enviornment, they will want to eat, drink, etc. They may want to make a house or feed chickens. Maybe help a calf be born. No matter what the Human wants to do they will always create Demand. This Demand will show up in the S&DF. If any of the Demands Connect with Supply Matter will change and the single Human's Internal Utility will change. Because there is only one Human the Human's Utility will essentially only go up. Just about Human _in real life_ will act in a Utility Maximizing behavior. Obviously there are occurances where this doesn't happen. On top of this, the Human will never have Demand Rejected. They are the only Demand. No one else is there to Demand Supply that the one Human wants to Connect with. 
 
-    Humans interact with Matter. Demand Connects with Supply. 
+  The Human creates and destroys Demand in the moment. And as moments progress the Human will have Demand Connect with Supply which will occur on the S&DF.
 
-    Everytime Demand Connects with Supply a change occurs in Matter and a change occurs in the Human's Internal Utility. Because there is only one Human this one Human is essentially living in bliss. There is no one to create Demand to Connect with Supply he wants to Connect with. All of his Demand will probably connect with Supply. A situation could occur where Matter changes itself (removing Supply) before Demand could connect with the removed Supply. For instance this would be like rot growing on crab meat before the one Human could eat it.
-    
-    Every moment in Time the Matter and Human matrixes will update. Every moment there may be a single S&D Connection or multiple. But every moment both matrixes will update.
+  In any given moment the Human can only have certain Demands connect with Supply. In other words the Human can not do two things at the same time. If the Human wants to jetski they can not create demand for reading a book. In the moment: either the Human jetskis or reads. Which ever action they do determines which Demand Connects with Supply. If the Human decides to read then the Demand for reading will Connect with Supply but the Demand to jetski will not. Because of this we have Opportunity Cost.
 
+  _In the real world_ everyone faces opportunity cost. You can not get drunk and stay sober at any given moment in time. You can not eat just eggs and eat just bacon in the morning. That isn't to say you can't eat both in the morning. If you want to eat eggs and bacon in the morning then be my guest. But if you eat both you did not eat just bacon or just eggs. The common saying is "You can't eat your cake and have it too". All Humans experience opportunity cost because of this. When more Humans are brought into the model to further our understanding then we will see more complexity to Opportunity Cost.
 
+  Will just one individual the model is rather boring. There is no complex interactions outside of Opportunity Cost existing. The world is this one Human's Oyster!
 
-    
-
-    So far, because there is only one Human, every time a Demand interacts with Supply there would be a change in the states of both Matter and Humans. 
-
-
-
-
-
-
-    
-
-    Humans interact with Matter with intention of maximizing everyone's Utility. Humans prefer the Utility maximizing decision be made no matter whos Demand is satisfied. In this way Humans will reject each other and their own Demands in favor of allowing the Utility Maximizing Demand connect with the chosen Supply.
-
-    Demand (Humans) will Filter Demand for which Demand will connect with Supply. In this way there is no need for Private Property. This is essentially a Utopia (theoritical communism); obviously not how the real work works. 
-    
-    The question needs to be asked why does communism not work? We were given a manual on how to run a perfect economy. Why does it not work in the real world? Why did American markets been the USSR? Why did China stop being communist and start be (at times) more capitalist than America is? Communism does not work because in the real world Demand does not filter Demand in the real world. Who ever owns supply decides what Demand connects with the given Supply. 
-
-    Currently the model is pre-sin, and while pre-sin there is no need for Private Property. Humans will act in a Utopian fashion (again, this is theoretical communism). When we are post-sin we will see why private property is needed and thus we will see why theoritical communism does not work.
-
-
-
-    All Humans will have Objective Utility scores for Every Demand and Supply Connection available. 
-    
-    
-    
-    When any Demand and Supply Connect there is a change in Every Humans Internal Utility along with this the Connection will also cause the Objective Utility of every other Demand and Supply to change. Because of both of changes there is also a new Humans Subjective Utility on every possible Demand and Supply. In total, one connection between Supply and Demand causes
-    * All Humans' Internal Utilities to Change
-    * All other possible S&D connections to have new Utilities
-    * All Human Subjective Views on all other possible S&D connectins to change.
-
-    
-
-
-
-    Talk about Subjectivity Utility. Value ony matters post-sin. 
-
-    Whether or not in a given in moment in time a Demand connects with a Supply is irrelevant. Humans will always percieve the difference in reality leading to different subjective values.
-
-
-    ******* You need to make it all about supply and demand. 
-
-    For now essentially all you need to know is that Humans will act without sin. The theoretical communist model will work for now.
+# Let's add a second Human
 
 
 
@@ -231,13 +225,6 @@ Finally we need to add Humans.
 
 
 
-
-
-
-There is Humans, Matter, and Time. Demmand and Matter Connect over Time yet non are independant of each other. All three are correlated to each other are require each other.
-
-Humans and Matter are related because Humans requires Matter for Humans to be fulfilled. This gives Humans Utility and updates Things ("The Matrix").
-Deamnd, Matter, and Time are related because Humans connects with Matter over Time. On top of this Value of a Thing (Matter) requires knowledge of all Humans for that Thing over all of Time. You would need to know every instance in time where that Thing was Humanss and even not Humansed. On top of this you would need to know every specific about the Humans in the instance of time. Was there a lot of Humans? Little? Was it from the Rich? Poor? Was it Consumption Humans? Investment Humans? Humans from Debt? All of these matter.
 
 
 ### Value Functions in a pre-sin world
