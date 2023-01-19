@@ -201,6 +201,8 @@ Finally we need to add Humans.
       - Number at the tip is to associate the Demand with a Spirit
       - Shape in the middle is to visualize what Supply the Demand wants.
 
+  As we've discussed earlier, every S&D Connection changes both Matter and Humans. With regards to Matter it changes Things in some way which changes Supply on the S&DF. With regards to Humans it changes Internal Utility and all relevant Humans will update what Demands they have. It's important to notice that with every S&D Connection both Demand and Supply will change on the S&DF.
+
   As Time ticks forward one moment at a time we will see H(T) and M(T) change. Any change that occurs for Humans in a moment will originate from a single or multiple Demand and Supply Connecting in the moment. We can not say the same about Matter. Matter changes may originate from a S&D Connection or from Matter deterministically changing over Time.
 
 # Let's See How The Model Works With One Person
@@ -212,12 +214,32 @@ Finally we need to add Humans.
 
   In any given moment the Human can only have certain Demands connect with Supply. In other words the Human can not do two things at the same time. If the Human wants to jetski they can not create demand for reading a book. In the moment: either the Human jetskis or reads. Which ever action they do determines which Demand Connects with Supply. If the Human decides to read then the Demand for reading will Connect with Supply but the Demand to jetski will not. Because of this we have Opportunity Cost.
 
-  _In the real world_ everyone faces opportunity cost. You can not get drunk and stay sober at any given moment in time. You can not eat just eggs and eat just bacon in the morning. That isn't to say you can't eat both in the morning. If you want to eat eggs and bacon in the morning then be my guest. But if you eat both you did not eat just bacon or just eggs. The common saying is "You can't eat your cake and have it too". All Humans experience opportunity cost because of this. When more Humans are brought into the model to further our understanding then we will see more complexity to Opportunity Cost.
+  _In the real world_ everyone faces Opportunity Cost. You can not get drunk and stay sober at any given moment in time. You can not eat just eggs and eat just bacon in the morning. That isn't to say you can't eat both in the morning. If you want to eat eggs and bacon in the morning then be my guest. But if you eat both you did not eat just bacon or just eggs. The common saying is "You can't eat your cake and have it too". All Humans experience Opportunity Cost because of this. When more Humans are brought into the model to further our understanding then we will see more complexity to Opportunity Cost.
 
-  Will just one individual the model is rather boring. There is no complex interactions outside of Opportunity Cost existing. The world is this one Human's Oyster!
+  There is also another aspect to talk about. How does the Human know what it wants to do? All Humans have a Subjective perspective on both Matter and Humans. They will have a subjective perspective on all Demand and all Supply. In this way Humans do not know the true outcome of every possible S&D Connection, but they do have a Subjective perspective on all of them. The perspective may be close to the truth or it may be far.
 
-# Let's add a second Human
+  So what do I mean? 
 
+  When this Human creates a Demand for some Supply there is an objective change to the Human's Internal Utility and Matter. However, the Human does not know what that true change is for either Humans or Matter. What the Human think is going to happen is the Human's Subjective Perspective. Human's have a Subjective Perspective on all Supply and all Demand. Even if the Demand did not come from them. Ownership of Supply is irrelevant here as there is only one person. Who would dispute the one Human's claim to the world?
+
+  In this way Humans will choose to Demand for Subjective Utility Maximizing decisions in hopes it maximizes actual Internal Utility. 
+
+  A quick example:
+    In a moment there are two possible S&D Connections with different OSU and SSU. The Human can only facilitate one of the possible Connections.
+
+    Possible Connection A has OSU = 20 & SSU = 30
+    Possible Connection B has OSU = 50 & SSU = 5
+
+    Here the Human will choose to facilitate Connection A because the SSU is higher. But objectively this was an awful decision; Connecion B offer over twice the OSU!
+
+  Based on the example it is very easy to see that Humans are dumb! They will choose to facilitate S&D Connections that do not maximize OSU. They will choose to facilitate S&D Connections that maximize SSU in an attempt to maximize OSU. Not every time will the Human be wrong. More often than not Humans will make the OSU maximizing decions. In this case the single Human will have made a "bad" decision, but it won't matter: OSU was positive and ignorance is bliss. As far as the Human is concerned he made the OSU maximizing decision. 
+  
+  It is also very easy to see Opportunity Cost here. If the Human chooses to facilitate Connection A then they also choose not to facilitate Connection B. And the opposite is also true. If the Human chooses to facilitate B then they did not facilitate A. The Opportunity Cost of A is B and the Opportunity Cost of B is A. 
+
+  With just one individual the model is rather boring. There is no complex interactions outside of Opportunity Cost and Subjectivity. The world is this one Human's Oyster! If the Human could live forever they would end up with infinite Internal Utility.
+
+# Let's Add A Second Human
+  As we saw with one Human there were two aspects to look at. We saw Opportunity Cost and Subjectivity
 
 
 
