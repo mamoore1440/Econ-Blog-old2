@@ -77,7 +77,7 @@ Finally we need to add Humans.
 
     Humans create Demand (that originate from the Human's Spirit) with the intent the Demand Connects with Supply (Matter) on the Supply & Demand Field. These Demands can be complex or simple. They may be simply breathing or launching a rocketship. We will describe the Supply & Demand Field soon.
 
-    When Demand Connects with Supply on the Supply & Demand Field every relevant Human's Internal Utility will change. The Human's Internal Utility may change a lot or it may change a little.
+    When Demand Connects with Supply on the Supply & Demand Field every relevant Human's Internal Utility will change. The Human's Internal Utility may change a lot or it may change a little. Internal Utility is essentially just happiness of the Human. Each moment, when S&D Connect, there is a Utility change for all Human's Internal Utility. The intermoment changes to Internal Utility matter as well as the overall long running Internal Utility for a Human just like how your day to day happiness matter just as much as your yearly and lifetime happiness.
 
     Not every Human's Internal Utility will change with every Supply & Demand Connection. In the real world this could theoretically happen, but it would be would be extremely rare. I could really only see this happening if there was a small amount of people who are all entangled in one Supply.
 
@@ -220,23 +220,61 @@ Finally we need to add Humans.
 
   So what do I mean? 
 
-  When this Human creates a Demand for some Supply there is an objective change to the Human's Internal Utility and Matter. However, the Human does not know what that true change is for either Humans or Matter. What the Human think is going to happen is the Human's Subjective Perspective. Human's have a Subjective Perspective on all Supply and all Demand. Even if the Demand did not come from them. Ownership of Supply is irrelevant here as there is only one person. Who would dispute the one Human's claim to the world?
+  When this Human creates a Demand for some Supply there is an objective change to the Human's Internal Utility and Matter if the Demand Connects with the Supply. However, the Human does not know what that true change is for either Humans or Matter. What the Human think is going to happen is the Human's Subjective Perspective. Human's have a Subjective Perspective on all Supply and all Demand. Even if the Demand did not come from them. Ownership of Supply is irrelevant here as there is only one person. Who would dispute the one Human's claim to the world?
 
   In this way Humans will choose to Demand for Subjective Utility Maximizing decisions in hopes it maximizes actual Internal Utility. 
 
-  A quick example:
-    In a moment there are two possible S&D Connections with different OSU and SSU. The Human can only facilitate one of the possible Connections.
+  I'm going to add a couple of terms here and in the example we will see what I mean for each.
+  OUS is Objective Utility for a Subject
+  SUS is Subjective Utility for a Subject
 
-    Possible Connection A has OSU = 20 & SSU = 30
-    Possible Connection B has OSU = 50 & SSU = 5
+  A quick example to understand decision making :
+    In a moment there are two possible S&D Connections with different OUS and SUS. The Human can only facilitate one of the possible Connections.
+    
+    Possible Connection A has OUS = 20 & SUS = 30
+    Possible Connection B has OUS = 50 & SUS = 5
 
-    Here the Human will choose to facilitate Connection A because the SSU is higher. But objectively this was an awful decision; Connecion B offer over twice the OSU!
+    Because there is one Human there only one Subject. This means that the Subject (the final 'S') in OUS and SUS has to be for this one Human. There is an Objective/Subjective split (the first letter; 'O' and 'S') because there is a true change and an expected change. The true change is Objective while the expected change is Subjective. 
 
-  Based on the example it is very easy to see that Humans are dumb! They will choose to facilitate S&D Connections that do not maximize OSU. They will choose to facilitate S&D Connections that maximize SSU in an attempt to maximize OSU. Not every time will the Human be wrong. More often than not Humans will make the OSU maximizing decions. In this case the single Human will have made a "bad" decision, but it won't matter: OSU was positive and ignorance is bliss. As far as the Human is concerned he made the OSU maximizing decision. 
+    For all Possible Connections between any S&D there is a single OUS for every Human. This is because there is an Objectively true change all Human's will have for their Internal Utility when a S&D Connection happens. The 'S' in "OUS" is the Subject in context. For now, because we only have one Human, the Subject will always be this one Human. When we have two people there will be two OUSs per possible S&D Connection. The two OUSs will have different Subjects (the two different Humans).
+    
+    In regards to SUS it is not that simple. Every Human has a different perspective and thus every Human has a different percieved outcome. This is where SUS, which is different than OUS, comes into play. The first 'S' in "SUS" refers to the Human doing to Subjecting. The 'U' is Utility. And the last 'S' is about the Human who is affected. It is important to understand that every Human will have a SUS for every other Human as the subject in regard to every possible S&D Connection. There were three "every"s in that sentence so it's very easy to see that there gets to be a lot of information to handle very quickly. 
+    
+    For now because we only have one Human there is only one OUS and only one SUS per possible S&D Connection. When we have two Humans there will be one OUS per Human for each possible S&D Connection. There will also be 4 SUS per possible S&D Connection. Each Human will do the Subjecting and be the Subject.
+
+    Quick Table:
+    Number of Humans  | Number of OUS / possible Connection | Number of SUS / possible Connection  
+    1                 | 1                                   | 1
+    2                 | 2                                   | 4
+    3                 | 3                                   | 9
+    n                 | n                                   | n*n
+
+    Here the Human will choose to facilitate Connection A because the SUS is higher. But objectively this was an awful decision; Connecion B offer over twice the OUS!
+
+  Based on the example it is very easy to see that Humans are dumb! They will choose to facilitate S&D Connections that do not maximize OUS. They will choose to facilitate S&D Connections that maximize SUS in an attempt to maximize OUS. Not every time will the Human be wrong. More often than not Humans will make the OUS maximizing decions. In this case the single Human will have made a "bad" decision, but it won't matter: OUS was positive and ignorance is bliss. As far as the Human is concerned he made the OUS maximizing decision. 
   
   It is also very easy to see Opportunity Cost here. If the Human chooses to facilitate Connection A then they also choose not to facilitate Connection B. And the opposite is also true. If the Human chooses to facilitate B then they did not facilitate A. The Opportunity Cost of A is B and the Opportunity Cost of B is A. 
 
   With just one individual the model is rather boring. There is no complex interactions outside of Opportunity Cost and Subjectivity. The world is this one Human's Oyster! If the Human could live forever they would end up with infinite Internal Utility.
+
+# Value With One Person
+  Value is a rather hard concept to understand, explain, or even just design. To be perfectly frank I'd rather not touch on Value, just because it is so complex, but I do not have that luxery and for this model to mean anything we need to understand Value. So the question must be asked "What is Value?". A rather TOUGH question.
+
+  In regards to the real world people view value as a means to an end. They buy stocks, real estate, gold, silver, watches, collectable, even old games because they are "valueable". But what does that even mean? Most people who buy gold don't touch it.; they don't look at it; they don't eat it; they certainly don't make and drink gold smoothies; and they don't plant it to a make gold tree that rains gold in the summer. So what "value" does gold have? gold is means to an end for people who collect, hoard, or invest in it. Feel free to use whatever term you deem appropriate. When people hold gold they are only holding it so that they can sell it later at a higher price than what they bought it at. They know gold has no use. They are simply hoping or know or whatever that in the future they will get more for their gold than what they put in. Again, a means to an end. 
+
+  But in the model so far there is no one else. The one Human "owns" everything and can do whatever they want. There is no need to invest in or hoard gold. No reason for silver or any other metal. Assets like real estate and equity certainly don't exist. Which raises the question then "What is Value?". Ugh, a rather TOUGH question.
+
+  Based on the above reasoning it's rather hard to define Value here, but it's not impossible. You can always declare a way to Value something or some action. In this way you will be creating a value function. In the real world, and we will talk about this a lot later, markets are primarily used as _thee_ value function.
+  
+  We can say that possible S&D Connections have a Value to them. What would that Value be? Well the Value of a possible S&D Connection would be its ability to facilitate another S&D Connection in the future. This would be the Value Function we are currently using. For instance if there was an S&D Connection about the one Human planting an apple tree we could say that this Connection is rather valuable. Why? Because this allows the one Human in the future to eat apples. I.E. the S&D Connection (of planting the tree) leads to more S&D Connections being possible in the future (eating apples). 
+
+  Decent definition but there are some obvious flaws. Every S&D Connection allows for more S&D Connections in the future. For instance if you made a hole in the sand while at the beach there is an obvious new possible S&D Connection of just filling in the hole. If you kicked a rock there is a new possible S&D Connection of kicking it back to it's original spot. The majority of S&D Connections will lead to new possible S&D Connections that are rather dumb. For these "dumb" S&D Connections we can Value them by how much OUS or SUS they offer the one Human. I'm going to use both OUS and SUS just because we can. The model is not physical and meant to be used as a way of understanding the real world. Because of this we can take into as much information as we want into the Value Function. 
+
+  Another obvious flaw is how far into the future are the new S&D Connections possible? Does it take 20 years for the new S&D Connection to come into fruition? When kicking the rock the new S&D Connection was instant. 
+
+  Both of these flaws would have to be taken into account. Fow now, the Value of each S&D Connection would be the ability to facilitate more S&D Connections in the future with time, OUS, and SUS taken into account.
+
+  In sum, Value is whatever you define it as. Your Value definition is your value function. Here, because there is only one Human, it is rather easy to create a Value function.
 
 # Let's Add A Second Human
   As we saw with one Human there were two aspects to look at. We saw Opportunity Cost and Subjectivity
