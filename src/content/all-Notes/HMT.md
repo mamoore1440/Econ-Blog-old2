@@ -3,7 +3,9 @@ HUMANS, MATTER AND TIME.
 THE GOAL IS TO TURN ECONOMICS INTO A MATHEMATICAL PROBLEM.
 To start we are going to create THE MOST abstract view of reality possible. It is going to be so abstract that you are going to believe it was a waste of your time to read it. That will not be the case. 
 
-# Just Matter
+# Basics Of The Model
+
+## Just Matter
 Let's start with just Matter.
     Matter is made up of Things. There are Base Things and Compound Things. BT is Base Thing(s) and CT is Compound Thing(s).  
     BT are the most basic Things in Matter. For instance if the Matter was based on the knowledge of reality in the 1930s the BT would be the electron, proton, and nuetron. As time went on Humanity discovered that the standard model made up electrons, protons, and nuetrons and so with this knowledge Matter would have the standard model as BT. 
@@ -32,7 +34,7 @@ Let's start with just Matter.
 
     A tiny bit complex so far. Please make sure you understand this. Matter is everything and all information regarding matter; essentially just a matrix of information about reality.
 
-# Add Time
+## Add Time
 Lets add Time into the mix. Time always ticks forward.
     Let's quickly describe a function to find Matter given Time. M(T) is Matter of Time. Given any positive Time: M(T) will return the matrix that is Matter. 
 
@@ -67,7 +69,7 @@ Lets add Time into the mix. Time always ticks forward.
 
     If we just "let the model lose" it would just be a Matter matrix deterministically changing over Time.
 
-# Add Humans
+## Add Humans
 Finally we need to add Humans.
     Humans have Internal Utility and a Spirit. No Matter has Utility or a Spirit, only Humans have them. Humans create Demand which originates from the Spirit. 
 
@@ -111,7 +113,7 @@ Finally we need to add Humans.
 
     Because we have briefly touched upon both Supply and Demand I will start using "S&D" instead of saying "Supply & Demand"
 
-# What is the S&D Field?
+## What is the S&D Field?
   You've probably noticed we have two sets of terms. "Matter and Humans" and "S&D". These are essentially interchangable but let's formally describe the interaction just to remove any confusion. To do this we are going to split the sets of terms and say they are related to each other based on the S&D Field. "S&DF" is "Supply & Demand Field" or "S&D Field".
 
   Matter and Humans are the most basic units in this Model. Matter is essentially just the Matrix from the Movie _The Matrix_ and Humans are just Humans.
@@ -138,7 +140,7 @@ Finally we need to add Humans.
 
   Great question. A Human's Demand will always want to Connect with Supply from Matter. In a very simple case of a Human wanting to breathe the interaction is easy to see. The Human who wants to breathe is creating Demand for oxygen. This oxygen is part of Matter which means the wanted oxygen is Supply. So, in sum, the Human is creating Demand for Supply and the Supply-who the Demand wants to Connect with-is oxygen. If the Human does successfully breathe this means that the Demand Connected with Supply. If the Human fails to breathe that means the Demand failed to Connect with Supply. In this case the Human would be in a bit of a panic. Not all potential S&D Connections will be this serious. Maybe a Human wants to eat a sandwhich in which case failure wouldn't really matter.
 
-  The created Demand and inherient Supply do not actually exist. Don't get me wrong the Humans and Matter do exist; it's just D&S does not. You can never point to a Demand or point to a Supply. You could point to a Thing but not a Supply. And you could point to a Human but not a demand. The S&D both exist on a Field. A sort of battleground. On this battleground it is decided which D&S will Connect and which won't.
+  The created Demand and inherient Supply do not actually exist. Don't get me wrong the Humans and Matter do exist; it's just S&D does not. You can never point to a Demand or point to a Supply. You could point to a Thing but not a Supply. And you could point to a Human but not a demand. The S&D both exist on a Field. A sort of battleground. On this battleground it is decided which S&D will Connect and which won't.
 
   It's important to understand S&D do not exist in Space. Again, you can not point to Supply or Demand. Because of this it's hard to visualize the processes involved. Because of this difficulty we are going to view S&D on a "Field". This Field will be visualized like a simple euclidean plane. There will be Supply and there will be Demand on the Field. The location of the Supply or the Demand on the Field is irrelevant. This is simply to visualize what is happening. A Demand could Connect with a Supply even if they are very far apart. 
 
@@ -161,7 +163,7 @@ Finally we need to add Humans.
 
   In sum, the S&DF is not a physical field. You can not point any of the three: Supply, Demand, or the Field itself. The S&DF is simply a way of visualizing how Supply and Demand interact or connect. From this visualization we can see how Humans and Matter affect each other over time.
 
-# A Quick Overview Of The Model
+## A Quick Overview Of The Model
   There are two main parts to the model so far. There is Matter and Humans, and there is the S&DF. The physical and the non physical.
     
   Matter is M(T) and changes over one moment in Time with Δ(M(T)). The present and the one moment forward future is related with M(T) = Δ(M(T-1)).
@@ -205,7 +207,9 @@ Finally we need to add Humans.
 
   As Time ticks forward one moment at a time we will see H(T) and M(T) change. Any change that occurs for Humans in a moment will originate from a single or multiple Demand and Supply Connecting in the moment. We can not say the same about Matter. Matter changes may originate from a S&D Connection or from Matter deterministically changing over Time.
 
-# Let's See How The Model Works With One Person
+# Start Using the Model
+
+## Let's See How The Model Works With One Person
   For now let's start off with just one Human in Humans. 
 
   This Human will want to change the enviornment, they will want to eat, drink, etc. They may want to make a house or feed chickens. Maybe help a calf be born. No matter what the Human wants to do they will always create Demand. This Demand will show up in the S&DF. If any of the Demands Connect with Supply Matter will change and the single Human's Internal Utility will change. Because there is only one Human the Human's Utility will essentially only go up. Just about Human _in real life_ will act in a Utility Maximizing behavior. Obviously there are occurances where this doesn't happen. On top of this, the Human will never have Demand Rejected. They are the only Demand. No one else is there to Demand Supply that the one Human wants to Connect with. 
@@ -257,7 +261,7 @@ Finally we need to add Humans.
 
   With just one individual the model is rather boring. There is no complex interactions outside of Opportunity Cost and Subjectivity. The world is this one Human's Oyster! If the Human could live forever they would end up with infinite Internal Utility.
 
-# Value With One Person
+## Value With One Person
   Value is a rather hard concept to understand, explain, or even just design. To be perfectly frank I'd rather not touch on Value, just because it is so complex, but I do not have that luxery and for this model to mean anything we need to understand Value. So the question must be asked "What is Value?". A rather TOUGH question.
 
   In regards to the real world people view value as a means to an end. They buy stocks, real estate, gold, silver, watches, collectable, even old games because they are "valueable". But what does that even mean? Most people who buy gold don't touch it.; they don't look at it; they don't eat it; they certainly don't make and drink gold smoothies; and they don't plant it to a make gold tree that rains gold in the summer. So what "value" does gold have? gold is means to an end for people who collect, hoard, or invest in it. Feel free to use whatever term you deem appropriate. When people hold gold they are only holding it so that they can sell it later at a higher price than what they bought it at. They know gold has no use. They are simply hoping or know or whatever that in the future they will get more for their gold than what they put in. Again, a means to an end. 
@@ -274,14 +278,109 @@ Finally we need to add Humans.
 
   Both of these flaws would have to be taken into account. Fow now, the Value of each S&D Connection would be the ability to facilitate more S&D Connections in the future with time, OUS, and SUS taken into account.
 
-  In sum, Value is whatever you define it as. Your Value definition is your value function. Here, because there is only one Human, it is rather easy to create a Value function.
+  In sum, Value is whatever you define it as. Your Value definition is your value function. Here, because there is only one Human, it is rather easy to create a sorta abstract Value function. To mathematically define this function would be whole other problem. Let's just keep it abstract.
 
 # Let's Add A Second Human
-  As we saw with one Human there were two aspects to look at. We saw Opportunity Cost and Subjectivity
+  As we saw with one Human there were two aspects to look at. We saw Opportunity Cost and Subjectivity. We also saw a brief glimpse into Value. These concepts were not hard to grasp or even work with. They were easy to work with only because there was only one Human. When we add a second, third, fourth, Nth Human it becomes a bit more complicated. How does Subectivity and Opportunity Cost work when two Humans are Demanding the same Supply? How does ownership work? Does the first Human own everything? Is the second Human then a slave? How do possible S&DC get prioritized? 
 
+  Well to start let's seperate the two Humans simply to make the model easier. In this way they will never Demand the same Supply. Let's also name them to make it easier to work with. The first Human will be named "Adam" and the second "Eve".
 
+  Opportunity Cost and Subjectivity work the same. Both Humans will choose to make S&DC that maximize Internal Utility based on what they view (subjectively) as Utility maximizing. Each Human can "own" whatever is around them and because they are completely seperated there will be no conflicts. 
 
+  Both Humans would live hapy prosperous lives. Their section of the world is their oyseter.
 
+  Rather boring; let's throw them together. 
+
+  Say they did live in the same part of the world and they did interact together. How would it look?
+
+  Well this is a rather tough question. In academics there is behavioral economics to try and explain this, but because I want the model to be completely abstract I will be making one assumption to explain how the Humans will behave. The assumption is that these Humans do no sin. I will call this part of the model pre-sin. Later, when we fully understand the economics of pre-sin, we will move to post-sin. Post-sin is much more complicated. Post-sin is also, quite obviously, where the real world is and where insight can be gleaned. But to understand post-sin we need to understand pre-sin. 
+
+  In pre-sin there is only one assumption. That given any choice the Human will make the Utility Maximizing decision for the biggest group of Humans. What do I mean by this? Humans will always prioritize each other over themselves in this way. In this way there will never be hoarding, no one will be to lazy to work, etc. 
+
+  Example:
+    We have two possible Connections where Adam decides which Connection is to be facilitated. Only one Connection can take place.
+    Here the Subjecting force is Adam. The first 'S' in SUS here is Adam. The second 'S' in SUS for this example is for Adam, Eve, and both in that order.
+
+    Possible Connection A
+      - OUS = 20 & SUS = 30 for Adam
+      - OUS = 15 & SUS = 10 for Eve
+    Possible Connection B
+      - OUS = 30 & SUS = 25 for both Adam and Eve
+
+    To briefly talk about SUS and OUS for the example: here we know that Adam views Connection A as offering 30 Utility for Adam and 10 Utility for Eve. We also know that the objective change in internal Utility for Adam and Eve will be 20 and 15 respectively. Adam's estimations are decent. He in correct in his estimation that he will enjoy Connection A more than Eve and that Connection B offers better Utility overall.
+
+    Here Adam will choose to facilitate Connection B simply because in B there is greater SUS for everyone. 25 + 25 > 30 + 10. Adam will have facilitated the Connection that creates the most OUS for everyone. While this is the goal for all Humans pre-sin it is not always the case. In the example provided if Connection B had offered 10 SUS for both Adam and Eve then Adam would have chosen to facilitate Connection A. This would not have been the OUS optimizing decision, however, Humans are generally pretty good at making rational choices so Adam and Eve would live rather happy lives together simply because they are both choosing to make Connections that optimize OUS for everyone. Even if they aren't perfectly optimal they are still very happy in both the short and long run. 
+
+  This was an example of pre-sin decision making for one Human between two connections. Let's switch it around and have two Humans with one possible Connection. This will be done by having one Supply that both Adam and Eve Demand. Only one Demand can Connection with the Supply, so only one Human can have a successful Demand for the Supply. In the real world this might be one crab to eat, one chair to sit in, etc.
+
+  Example:
+    We have one Supply with Demands coming from both Adam and Eve. Adam and Eve both have their OUS and SUS in regards to both S&D Connections. 
+
+    Possible Connection A (Adam's Demand Connects with the single Supply)
+      - Objective:
+        - OUS = 30 for Adam
+        - OUS = -3 for Eve
+      - Adam's perspective:
+        - SUS = 40 for Adam
+        - SUS = -1 for Eve
+      - Eve's perspective:
+        - SUS = 10 for Adam
+        - SUS = -5 for Eve
+
+    Possible Connection B (Eve's Demand Connects with the single Supply)
+      - Objective:
+        - OUS = -1 for Adam
+        - OUS = 20 for Eve
+      - Adam's perspective:
+        - SUS = 0 for Adam
+        - SUS = 10 for Eve
+      - Eve's perspective:
+        - SUS = 1 for Adam
+        - SUS = 30 for Eve
+
+    Here there is a conflict. Only one Human's Demand can Connect with the single Supply. Adam and Eve will have to decide between each other who's Demand gets to Connect. Objectively Adam's Connection creates more Utility. Will they decide to facilitate Adam's Connection? 
+
+    Both Humans want to maximize OUS but they believe different Connections maximize OUS. Eve believes Eve's Connections maximizes overall OUS and Adam believes Adam's Connection maximizes OUS. 
+
+    Now in the real world this would talk multiple moments to decide; sometimes minutes, hours, days, even months. But there will be a decision and someone will connect with the single supply. How is this done in a pre-sin world? Adam doesn't know Eve's perspective and Eve doesn't know Adam's perspective. How are they going to decide who gets to Connect?
+
+    They communicate with each other! Adam expresses his opinion on the matter and Eve does the same. Based on the communication each Human will have a better understanding of SUS. Let's speed forward some time and say 5 moments have passed. Now they know each other's perspective better and both have a better understanding of the overall situation.
+
+    Possible Connection A (Adam's Demand Connects with the single Supply)
+      - Objective:
+        - OUS = 30 for Adam
+        - OUS = -3 for Eve
+      - Adam's perspective:
+        - SUS = 35 for Adam
+        - SUS = -2 for Eve
+      - Eve's perspective:
+        - SUS = 25 for Adam
+        - SUS = -3 for Eve
+
+    Possible Connection B (Eve's Demand Connects with the single Supply)
+      - Objective:
+        - OUS = -1 for Adam
+        - OUS = 20 for Eve
+      - Adam's perspective:
+        - SUS = 0 for Adam
+        - SUS = 18 for Eve
+      - Eve's perspective:
+        - SUS = -2 for Adam
+        - SUS = 21 for Eve
+
+    Because of the communication that took place between the two there is now a better understanding of the situation. Adam and Eve both have better subjective estimations of Utility. Of course there is still a problem. Who gets to Connect? Adam and Eve both have their own estimations of Utility but they both know that the true Utility is unknown by both. They will have to come up with a way of deciding.
+
+    Now, with a better understanding, they are both on the same page. Adam's Connections maximizes OUS for everyone and so Adam will Connect. Eve loses some Utility and Adam gains, but the overall Utility change is higher in Connection A than B.
+
+    Of course when Adam's Demand Connects then Eve's will die. There will be no Supply for Eve's Demand to Connect with. 
+  
+  As we can see even in a pre-sin world Demand filters Demand for what Demand Connects with Supply. In the above example there was two Demands and one Supply. Demand decided between itself which Demand should Connect. This was the filtering of Demand!
+
+  Demand filtering Demand is the best way to maximize OUS in S&D Connections. However, Demand filtering Demand will largely only take place in a pre-sin world. 
+
+  Pre-sin 100% of S&D Connection conflicts, like the one above, will be resolved with Demand filtering Demand. Post-sin that number drops drastically. Post-sin Supply will filter Demand.
+
+  
 
 
 
