@@ -6,112 +6,115 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 # Basics Of The Model
 
 ## Just Matter
-Let's start with just Matter.
-    Matter is made up of Things. There are Base Things and Compound Things. BT is Base Thing(s) and CT is Compound Thing(s).  
-    BT are the most basic Things in Matter. For instance if the Matter was based on the knowledge of reality in the 1930s the BT would be the electron, proton, and nuetron. As time went on Humanity discovered that the standard model made up electrons, protons, and nuetrons and so with this knowledge Matter would have the standard model as BT. 
+  Let's start with just Matter.
 
-    CT are bit more complex but not by much. A CT is built by BT with a specific "Pattern". So if the CT was a single hydrogen atom then the CT would built by these BT {proton, electon} with a specific Pattern. 
-    
-    Let's create a function that will give us a CT based on input BT and a pattern. This function will be CT(BT, P) and is 1-1.
+  Matter is made up of Things. There are Base Things and Compound Things. BT is Base Thing(s) and CT is Compound Thing(s).  
+  BT are the most basic Things in Matter. For instance if the Matter was based on the knowledge of reality in the 1930s the BT would be the electron, proton, and nuetron. As time went on Humanity discovered that the standard model made up electrons, protons, and nuetrons and so with this knowledge Matter would have the standard model as BT. 
 
-    We also need to add a little caviat about indentification. How do we know if a CT is different from another CT if they share the same BT and Pattern? Hypothetically there could be two hydrogen atoms with the same BT, and Pattern. Now we need to add Space to the model. Let's assume each Thing now has a location and no two things can share a location. If two things share a location they are no longer to things; they are one (this would be a case of fusion). 
+  CT are bit more complex but not by much. A CT is built by BT with a specific "Pattern". So if the CT was a single hydrogen atom then the CT would built by these BT {proton, electon} with a specific Pattern. 
+  
+  Let's create a function that will give us a CT based on input BT and a pattern. This function will be CT(BT, P) and is 1-1.
 
-    So far we have just Matter defined. Matter consists of BT and CT. CT are made up of BT with a Pattern. All Things have a location in Space. So let's finally define Matter. Matter is now just information about the model's "reality". You can easily think of Matter as the "Matrix" from the Matrix movie. Matter (in total) consists of all BT and CT along with locations on both. There are also Patterns for each CT. 
+  We also need to add a little caviat about indentification. How do we know if a CT is different from another CT if they share the same BT and Pattern? Hypothetically there could be two hydrogen atoms with the same BT, and Pattern. Now we need to add Space to the model. Let's assume each Thing now has a location and no two things can share a location. If two things share a location they are no longer to things; they are one (this would be a case of fusion). 
 
-    For a less formal but simplier breakdown we have this.
-    Matter:
-      - Things
-        - BT
-          - Electron, Proton, or Nuetron
-          - Doesn't matter what this is defined as
-        - CT
-          - Made up of BT
-          - Has a pattern
-          - CT(BT, P) will input BT and a P to get CT. 1-1 function.
-        - Location in Space
-        
-    Matter is the same as Things and will be used interchangably. Matter can not make any actions. This is not to say that Matter does not change without interactions, but that Matter does not change itself. Matter never changes anything.
+  So far we have just Matter defined. Matter consists of BT and CT. CT are made up of BT with a Pattern. All Things have a location in Space. So let's finally define Matter. Matter is now just information about the model's "reality". You can easily think of Matter as the "Matrix" from the Matrix movie. Matter (in total) consists of all BT and CT along with locations on both. There are also Patterns for each CT. 
 
-    A tiny bit complex so far. Please make sure you understand this. Matter is everything and all information regarding matter; essentially just a matrix of information about reality.
+  For a less formal but simplier breakdown we have this.
+  Matter:
+    - Things
+      - BT
+        - Electron, Proton, or Nuetron
+        - Doesn't matter what this is defined as
+      - CT
+        - Made up of BT
+        - Has a pattern
+        - CT(BT, P) will input BT and a P to get CT. 1-1 function.
+      - Location in Space
+      
+  Matter is the same as Things and will be used interchangably. Matter can not make any actions. This is not to say that Matter does not change without interactions, but that Matter does not change itself. Matter never changes anything.
+
+  A tiny bit complex so far. Please make sure you understand this. Matter is everything and all information regarding matter; essentially just a matrix of information about reality.
 
 ## Add Time
-Lets add Time into the mix. Time always ticks forward.
-    Let's quickly describe a function to find Matter given Time. M(T) is Matter of Time. Given any positive Time: M(T) will return the matrix that is Matter. 
+  Lets add Time into the mix. Time always ticks forward.
+  
+  Let's quickly describe a function to find Matter given Time. M(T) is Matter of Time. Given any positive Time: M(T) will return the matrix that is Matter. 
 
-    For now-because we have only Matter defined-there is only one change to the model. Matter will now change over time just like how they do in real life. Erosion will create a rivine. Trees will grow over Time. Rivers will move rocks and Volcanoes will erupt. Much will happen as Time ticks forward. 
-    
-    "That's great and all but what does that mean?". 
+  For now-because we have only Matter defined-there is only one change to the model. Matter will now change over time just like how they do in real life. Erosion will create a rivine. Trees will grow over Time. Rivers will move rocks and Volcanoes will erupt. Much will happen as Time ticks forward. 
+  
+  "That's great and all but what does that mean?". 
 
-    For one we now need to describe a function in which Matter changes over Time. So far we just have Matter and thus changes in Matter is determinate. The function we need to create is Δ(M(T)), change of Matter. Δ(M(T)) takes in a Matter matrix and outputs a new Matter matrix that is the succession of the old.
-    
-    At any given moment in Time we can now find what Matter looks like based on the last moment in Time. M(T) = Δ(M(T-1)). At each moment in time the matter matrix is static. Matter only changes when Time changes.
+  For one we now need to describe a function in which Matter changes over Time. So far we just have Matter and thus changes in Matter is determinate. The function we need to create is Δ(M(T)), change of Matter. Δ(M(T)) takes in a Matter matrix and outputs a new Matter matrix that is the succession of the old.
+  
+  At any given moment in Time we can now find what Matter looks like based on the last moment in Time. M(T) = Δ(M(T-1)). At each moment in time the matter matrix is static. Matter only changes when Time changes.
 
-    Again this is deterministic. I am assuming only Humans have agency. Dogs, Cats, etc would thus all just be algorithms which would be deterministic and therefore taken into account in Δ(M(T)).
+  Again this is deterministic. I am assuming only Humans have agency. Dogs, Cats, etc would thus all just be algorithms which would be deterministic and therefore taken into account in Δ(M(T)).
 
-    This is a very simple way of viewing reality. Matter deterministically changes with Time. 
+  This is a very simple way of viewing reality. Matter deterministically changes with Time. 
 
-    Let's add to the less formal but simplier breakdown.
-    Matter:
-      - Things
-        - BT
-          - Electron, Proton, or Nuetron
-          - Doesn't matter what this is defined as
-        - CT
-          - Made up of BT
-          - Has a pattern
-          - CT(BT, P) will input BT and a P to get CT. 1-1 function.
-        - Location in Space
-      - Equations
-        - M(T) will give the state of Matter at Time T.
-        - Δ(M(T)) will return the next succession of the Matter matrix.
+  Let's add to the less formal but simplier breakdown.
+  Matter:
+    - Things
+      - BT
+        - Electron, Proton, or Nuetron
+        - Doesn't matter what this is defined as
+      - CT
+        - Made up of BT
+        - Has a pattern
+        - CT(BT, P) will input BT and a P to get CT. 1-1 function.
+      - Location in Space
+    - Equations
+      - M(T) will give the state of Matter at Time T.
+      - Δ(M(T)) will return the next succession of the Matter matrix.
 
-    Again, not too complicated but please read until you understand what is happening.
+  Again, not too complicated but please read until you understand what is happening.
 
-    If we just "let the model lose" it would just be a Matter matrix deterministically changing over Time.
+  If we just "let the model lose" it would just be a Matter matrix deterministically changing over Time.
 
 ## Add Humans
-Finally we need to add Humans.
-    Humans have Internal Utility and a Spirit. No Matter has Utility or a Spirit, only Humans have them. Humans create Demand which originates from the Spirit. 
+  Finally we need to add Humans.
 
-    We are going to define Humans the same way we defined Matter except this time there is no split in Humans and there is nothing resembling a Pattern. H(T) is the state of Humans at a moment in Time. We are also going to need a change function. Δ(H(T)) is change of Humans. We can see Humans move from one point in time to another with H(T) = Δ(H(T-1)).
+  Humans have Internal Utility and a Spirit. No Matter has Utility or a Spirit, only Humans have them. Humans create Demand which originates from the Spirit. 
 
-    In the real world Humans act indeterministically and thus are hard to model. Assume Δ(H(T)) incorporates both the deterministic and the free will based changes to the Human matrix.
+  We are going to define Humans the same way we defined Matter except this time there is no split in Humans and there is nothing resembling a Pattern. H(T) is the state of Humans at a moment in Time. We are also going to need a change function. Δ(H(T)) is change of Humans. We can see Humans move from one point in time to another with H(T) = Δ(H(T-1)).
 
-    Humans create Demand (that originate from the Human's Spirit) with the intent the Demand Connects with Supply (Matter) on the Supply & Demand Field. These Demands can be complex or simple. They may be simply breathing or launching a rocketship. We will describe the Supply & Demand Field soon.
+  In the real world Humans act indeterministically and thus are hard to model. Assume Δ(H(T)) incorporates both the deterministic and the free will based changes to the Human matrix.
 
-    When Demand Connects with Supply on the Supply & Demand Field every relevant Human's Internal Utility will change. The Human's Internal Utility may change a lot or it may change a little. Internal Utility is essentially just happiness of the Human. Each moment, when S&D Connect, there is a Utility change for all Human's Internal Utility. The intermoment changes to Internal Utility matter as well as the overall long running Internal Utility for a Human just like how your day to day happiness matter just as much as your yearly and lifetime happiness.
+  Humans create Demand (that originate from the Human's Spirit) with the intent the Demand Connects with Supply (Matter) on the Supply & Demand Field. These Demands can be complex or simple. They may be simply breathing or launching a rocketship. We will describe the Supply & Demand Field soon.
 
-    Not every Human's Internal Utility will change with every Supply & Demand Connection. In the real world this could theoretically happen, but it would be would be extremely rare. I could really only see this happening if there was a small amount of people who are all entangled in one Supply.
+  When Demand Connects with Supply on the Supply & Demand Field every relevant Human's Internal Utility will change. The Human's Internal Utility may change a lot or it may change a little. Internal Utility is essentially just happiness of the Human. Each moment, when S&D Connect, there is a Utility change for all Human's Internal Utility. The intermoment changes to Internal Utility matter as well as the overall long running Internal Utility for a Human just like how your day to day happiness matter just as much as your yearly and lifetime happiness.
 
-    If we let this model loose currently it would just be Humans and Matter updating each other over Time. There wouldn't be much insight and it would be very boring.
+  Not every Human's Internal Utility will change with every Supply & Demand Connection. In the real world this could theoretically happen, but it would be would be extremely rare. I could really only see this happening if there was a small amount of people who are all entangled in one Supply.
 
-    Let's add Humans to the breakdown.
-    Matter:
-      - Things
-        - BT
-          - Electron, Proton, or Nuetron
-          - Doesn't matter what this is defined as
-        - CT
-          - Made up of BT
-          - Has a pattern
-          - CT(BT, P) will input BT and a P to get CT. 1-1 function.
-        - Location in Space
-      - Equations
-        - M(T) will give the state of Matter at Time T.
-        - Δ(M(T)) will return the next succession of the Matter matrix.
-        - M(T) = Δ(M(T-1)).
+  If we let this model loose currently it would just be Humans and Matter updating each other over Time. There wouldn't be much insight and it would be very boring.
 
-    Humans:
-      - Have
-        - Spirit
-          - The Spirit creates Demand
-        - Internal Utility
-      - Equations
-        - H(T) will give the state of Matter at Time T.
-        - Δ(H(T)) will return the next succession of the Matter matrix.
-        - H(T) = Δ(H(T-1)).
+  Let's add Humans to the breakdown.
+  Matter:
+    - Things
+      - BT
+        - Electron, Proton, or Nuetron
+        - Doesn't matter what this is defined as
+      - CT
+        - Made up of BT
+        - Has a pattern
+        - CT(BT, P) will input BT and a P to get CT. 1-1 function.
+      - Location in Space
+    - Equations
+      - M(T) will give the state of Matter at Time T.
+      - Δ(M(T)) will return the next succession of the Matter matrix.
+      - M(T) = Δ(M(T-1)).
 
-    Because we have briefly touched upon both Supply and Demand I will start using "S&D" instead of saying "Supply & Demand"
+  Humans:
+    - Have
+      - Spirit
+        - The Spirit creates Demand
+      - Internal Utility
+    - Equations
+      - H(T) will give the state of Matter at Time T.
+      - Δ(H(T)) will return the next succession of the Matter matrix.
+      - H(T) = Δ(H(T-1)).
+
+  Because we have briefly touched upon both Supply and Demand I will start using "S&D" instead of saying "Supply & Demand"
 
 ## What is the S&D Field?
   You've probably noticed we have two sets of terms. "Matter and Humans" and "S&D". These are essentially interchangable but let's formally describe the interaction just to remove any confusion. To do this we are going to split the sets of terms and say they are related to each other based on the S&D Field. "S&DF" is "Supply & Demand Field" or "S&D Field".
@@ -232,7 +235,7 @@ Finally we need to add Humans.
   OUS is Objective Utility for a Subject
   SUS is Subjective Utility for a Subject
 
-  A quick example to understand decision making :
+  ### A quick example to understand decision making :
     In a moment there are two possible S&D Connections with different OUS and SUS. The Human can only facilitate one of the possible Connections.
     
     Possible Connection A has OUS = 20 & SUS = 30
@@ -280,7 +283,7 @@ Finally we need to add Humans.
 
   In sum, Value is whatever you define it as. Your Value definition is your value function. Here, because there is only one Human, it is rather easy to create a sorta abstract Value function. To mathematically define this function would be whole other problem. Let's just keep it abstract.
 
-# Let's Add A Second Human
+## Let's Add A Second Human
   As we saw with one Human there were two aspects to look at. We saw Opportunity Cost and Subjectivity. We also saw a brief glimpse into Value. These concepts were not hard to grasp or even work with. They were easy to work with only because there was only one Human. When we add a second, third, fourth, Nth Human it becomes a bit more complicated. How does Subectivity and Opportunity Cost work when two Humans are Demanding the same Supply? How does ownership work? Does the first Human own everything? Is the second Human then a slave? How do possible S&DC get prioritized? 
 
   Well to start let's seperate the two Humans simply to make the model easier. In this way they will never Demand the same Supply. Let's also name them to make it easier to work with. The first Human will be named "Adam" and the second "Eve".
@@ -297,7 +300,7 @@ Finally we need to add Humans.
 
   In pre-sin there is only one assumption. That given any choice the Human will make the Utility Maximizing decision for the biggest group of Humans. What do I mean by this? Humans will always prioritize each other over themselves in this way. In this way there will never be hoarding, no one will be to lazy to work, etc. 
 
-  Example:
+  ### Example 1:
     We have two possible Connections where Adam decides which Connection is to be facilitated. Only one Connection can take place.
     Here the Subjecting force is Adam. The first 'S' in SUS here is Adam. The second 'S' in SUS for this example is for Adam, Eve, and both in that order.
 
@@ -313,7 +316,7 @@ Finally we need to add Humans.
 
   This was an example of pre-sin decision making for one Human between two connections. Let's switch it around and have two Humans with one possible Connection. This will be done by having one Supply that both Adam and Eve Demand. Only one Demand can Connection with the Supply, so only one Human can have a successful Demand for the Supply. In the real world this might be one crab to eat, one chair to sit in, etc.
 
-  Example:
+  ### Example 2:
     We have one Supply with Demands coming from both Adam and Eve. Adam and Eve both have their OUS and SUS in regards to both S&D Connections. 
 
     Possible Connection A (Adam's Demand Connects with the single Supply)
@@ -373,14 +376,22 @@ Finally we need to add Humans.
     Now, with a better understanding, they are both on the same page. Adam's Connections maximizes OUS for everyone and so Adam will Connect. Eve loses some Utility and Adam gains, but the overall Utility change is higher in Connection A than B.
 
     Of course when Adam's Demand Connects then Eve's will die. There will be no Supply for Eve's Demand to Connect with. 
+
+  ### Take A Step Back
   
   As we can see even in a pre-sin world Demand filters Demand for what Demand Connects with Supply. In the above example there was two Demands and one Supply. Demand decided between itself which Demand should Connect. This was the filtering of Demand!
 
   Demand filtering Demand is the best way to maximize OUS in S&D Connections. However, Demand filtering Demand will largely only take place in a pre-sin world. 
 
-  Pre-sin 100% of S&D Connection conflicts, like the one above, will be resolved with Demand filtering Demand. Post-sin that number drops drastically. Post-sin Supply will filter Demand.
-
+  Pre-sin, 100% of S&D Connection conflicts, like the one above, will be resolved with Demand filtering Demand. Excluding human error, this leads to maximum overall OUS for all S&D Connections. 
   
+  Post-sin, Supply will filter Demand. This will lead to maximum OUS for a sinlge Human at expense of the maximum overall OUS for each S&D Connection. That isn't post-sin a overall OUS maximizing Connection can't take place it just isn't the norm. But for now we do not have to think or worry about post-sin.
+
+## Let's give an overview of the model so far.
+
+
+
+
 
 
 
