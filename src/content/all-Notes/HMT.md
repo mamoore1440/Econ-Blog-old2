@@ -210,7 +210,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   As Time ticks forward one moment at a time we will see H(T) and M(T) change. Any change that occurs for Humans in a moment will originate from a single or multiple Demand and Supply Connecting in the moment. We can not say the same about Matter. Matter changes may originate from a S&D Connection or from Matter deterministically changing over Time.
 
-# Start Using the Model
+# Start Using the Model (pre-sin)
 
 ## Let's See How The Model Works With One Person
   For now let's start off with just one Human in Humans. 
@@ -264,25 +264,6 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   With just one individual the model is rather boring. There is no complex interactions outside of Opportunity Cost and Subjectivity. The world is this one Human's Oyster! If the Human could live forever they would end up with infinite Internal Utility.
 
-## Value With One Person
-  Value is a rather hard concept to understand, explain, or even just design. To be perfectly frank I'd rather not touch on Value, just because it is so complex, but I do not have that luxery and for this model to mean anything we need to understand Value. So the question must be asked "What is Value?". A rather TOUGH question.
-
-  In regards to the real world people view value as a means to an end. They buy stocks, real estate, gold, silver, watches, collectable, even old games because they are "valueable". But what does that even mean? Most people who buy gold don't touch it.; they don't look at it; they don't eat it; they certainly don't make and drink gold smoothies; and they don't plant it to a make gold tree that rains gold in the summer. So what "value" does gold have? gold is means to an end for people who collect, hoard, or invest in it. Feel free to use whatever term you deem appropriate. When people hold gold they are only holding it so that they can sell it later at a higher price than what they bought it at. They know gold has no use. They are simply hoping or know or whatever that in the future they will get more for their gold than what they put in. Again, a means to an end. 
-
-  But in the model so far there is no one else. The one Human "owns" everything and can do whatever they want. There is no need to invest in or hoard gold. No reason for silver or any other metal. Assets like real estate and equity certainly don't exist. Which raises the question then "What is Value?". Ugh, a rather TOUGH question.
-
-  Based on the above reasoning it's rather hard to define Value here, but it's not impossible. You can always declare a way to Value something or some action. In this way you will be creating a value function. In the real world, and we will talk about this a lot later, markets are primarily used as _thee_ value function.
-  
-  We can say that possible S&D Connections have a Value to them. What would that Value be? Well the Value of a possible S&D Connection would be its ability to facilitate another S&D Connection in the future. This would be the Value Function we are currently using. For instance if there was an S&D Connection about the one Human planting an apple tree we could say that this Connection is rather valuable. Why? Because this allows the one Human in the future to eat apples. I.E. the S&D Connection (of planting the tree) leads to more S&D Connections being possible in the future (eating apples). 
-
-  Decent definition but there are some obvious flaws. Every S&D Connection allows for more S&D Connections in the future. For instance if you made a hole in the sand while at the beach there is an obvious new possible S&D Connection of just filling in the hole. If you kicked a rock there is a new possible S&D Connection of kicking it back to it's original spot. The majority of S&D Connections will lead to new possible S&D Connections that are rather dumb. For these "dumb" S&D Connections we can Value them by how much OUS or SUS they offer the one Human. I'm going to use both OUS and SUS just because we can. The model is not physical and meant to be used as a way of understanding the real world. Because of this we can take into as much information as we want into the Value Function. 
-
-  Another obvious flaw is how far into the future are the new S&D Connections possible? Does it take 20 years for the new S&D Connection to come into fruition? When kicking the rock the new S&D Connection was instant. 
-
-  Both of these flaws would have to be taken into account. Fow now, the Value of each S&D Connection would be the ability to facilitate more S&D Connections in the future with time, OUS, and SUS taken into account.
-
-  In sum, Value is whatever you define it as. Your Value definition is your value function. Here, because there is only one Human, it is rather easy to create a sorta abstract Value function. To mathematically define this function would be whole other problem. Let's just keep it abstract.
-
 ## Let's Add A Second Human
   As we saw with one Human there were two aspects to look at. We saw Opportunity Cost and Subjectivity. We also saw a brief glimpse into Value. These concepts were not hard to grasp or even work with. They were easy to work with only because there was only one Human. When we add a second, third, fourth, Nth Human it becomes a bit more complicated. How does Subectivity and Opportunity Cost work when two Humans are Demanding the same Supply? How does ownership work? Does the first Human own everything? Is the second Human then a slave? How do possible S&DC get prioritized? 
 
@@ -313,6 +294,8 @@ To start we are going to create THE MOST abstract view of reality possible. It i
     To briefly talk about SUS and OUS for the example: here we know that Adam views Connection A as offering 30 Utility for Adam and 10 Utility for Eve. We also know that the objective change in internal Utility for Adam and Eve will be 20 and 15 respectively. Adam's estimations are decent. He in correct in his estimation that he will enjoy Connection A more than Eve and that Connection B offers better Utility overall.
 
     Here Adam will choose to facilitate Connection B simply because in B there is greater SUS for everyone. 25 + 25 > 30 + 10. Adam will have facilitated the Connection that creates the most OUS for everyone. While this is the goal for all Humans pre-sin it is not always the case. In the example provided if Connection B had offered 10 SUS for both Adam and Eve then Adam would have chosen to facilitate Connection A. This would not have been the OUS optimizing decision, however, Humans are generally pretty good at making rational choices so Adam and Eve would live rather happy lives together simply because they are both choosing to make Connections that optimize OUS for everyone. Even if they aren't perfectly optimal they are still very happy in both the short and long run. 
+
+  This will be the case for the majority of S&D Connections. Most of the time Adam and Eve will do their own thing. They will take each other into account but most of the time they will focus on maximizing their own Internal Utility simply because they are in the position to do so to the greatest extent. While Eve could Adam happy, Adam can certainly make Adam happy.
 
   This was an example of pre-sin decision making for one Human between two connections. Let's switch it around and have two Humans with one possible Connection. This will be done by having one Supply that both Adam and Eve Demand. Only one Demand can Connection with the Supply, so only one Human can have a successful Demand for the Supply. In the real world this might be one crab to eat, one chair to sit in, etc.
 
@@ -377,6 +360,8 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
     Of course when Adam's Demand Connects then Eve's will die. There will be no Supply for Eve's Demand to Connect with. 
 
+    This example only have two Humans, but there could be a situation where n amount of Humans are Demanding k Supply given n>k. The fundamentals of the situtaion would still hold. Humans will communicate preferences and unserstanding. SUS will change as moments progress. Demand will filter Demand to see which k amount of the n Humans get to Connect with Supply. 
+
   ### Take A Step Back
   
   As we can see even in a pre-sin world Demand filters Demand for what Demand Connects with Supply. In the above example there was two Demands and one Supply. Demand decided between itself which Demand should Connect. This was the filtering of Demand!
@@ -388,45 +373,165 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   Post-sin, Supply will filter Demand. This will lead to maximum OUS for a sinlge Human at expense of the maximum overall OUS for each S&D Connection. That isn't post-sin a overall OUS maximizing Connection can't take place it just isn't the norm. But for now we do not have to think or worry about post-sin.
 
 ## Let's give an overview of the model so far.
+  So far we Humans, Matter and Time. Humans do not sin and thus overall OUS is maximized. 
+
+  In regards to the S&D Field: Humans will interact with Matter. Humans do this by Demanding Supply and will facilitate S&D Connections as a way of interacting with Matter. Important to note the S&D Field does not physically exist. This is simply a way of viewing how decision making happens along with interaction between man and matter. 
+  
+  In regards to Humans: Humans will not operate at 100% efficiency simply because of human error. In academics there is a term thrown around called "pareto efficiency". Pareto efficiency just means 100% efficient. This will never happen, not in the model or in the real world. Human error does exist. However, the Humans won't mind. Pre-sin they will make what they believe to be the best decisions for everyone. If there is a non OUS optimizing S&D Connection made it's no big deal. Every Human will facilitate Connections they view to be optimal. Ignorance is bliss eliviates any sadness about Humanity not acting at 100% efficiency. 
+
+  In regards to Subjectivity: Every Human will view every S&D through their own subejctions. On top of this they will also have subjections about every possible S&D Connection. Communicating estimations is how S&D conflicts are resolved. When the S&D conflicts are resolved no one is sad, mad, or otherwise unhappy because of the decision made. This is simply because Humans are pre-sin and thus have a guiding ideology (maximize OUS for everyone).
+
+  In regards to Objectivity: There is an objective change in Internal Utility for every Human for every S&D Connection. The change could be so small that it is irrelevant. If a rock is kicked in New York then all Internal Utility of all Humans living changes. However, what does a chinesse citizen care? Their Internal Utility change will be essentially 0. 
+
+  In regards to S&D Conflicts: In a pre-sin world Demand will filter Demand for access to Supply. This leads to OUS maximizing S&D Connections. All Humans are happy with the process because they know that overall OUS will be maximized. 
+
+## Let's add a 3rd, 4th, ..., nth Human
+  When adding Humans in a pre-sin world there is only one consideration to take into place. The only cosideration is: Are there enough resources for everyone after one more Human is added? 
+
+  Because all Humans have the guiding ideology of everyone over themselves there is no conflict and life is a utopia. Thus the only problems that can occur are the extremes of time. Maybe there is a case where the world does not enough food and by adding one Humand another of starves. This would obviously suck for the Humans and should probably be avoided. 
+
+  Other than this only consideration there is nothing wrong with adding another Human. Humanity will prioritize the whole and live in a utopia. 
+
+  Just to work through some facets of the model that exist only when multiple Human exist: let's go through some examples of how the Humans would interact with each other and Matter. 
+
+  There are three facets to explore. The First being SUS when there are n amount of Humans; the second is ownership; and the third facet is organizations of Humans.
+
+  The First facet is easy so let's start there. Humanity will always prioritize the whole over the part while pre-sin. This means that every Human will take every Human into account when facilitating S&D Connections. This means that Human 1 takes Human 1-n into account. Again, most of the time other Humans will not matter. Humans will make decisions mostly between themselves and thus other Humans will not matter. Think of the rock kicking analogy. If Human 1 kicks a rock on one side of the world would any Human on the other side care? Would any Huamn over 50ft away even care? Any Human that many be next to them? Most S&D Connections will only affect a small subset of Humans to a sizable degree. 
+
+  The second facet is also just as simple. How does ownership work in a pre-sin world? Who owns what? Well the answer to the question is that no one owns anything. Ownership of Matter (Supply) would simply not make sense. Humans already act with each other's best interests in mind. Why would you even need to have ownership? Humanity as whole in regards to matter would act as a communist system. I don't mean the USSR communism, Chinesse communism, or any other real world application of communism. I mean strictly theoretical communism where it's a utopian economic system. As I've said before this is obviously not how the real world operates. But because we are pre-sin we can say that this model is a working communist model. There is no need for any Human or Organization to own any Matter (Supply).
+
+  The final facet is a tad bit more interesting. Humans will eventually start creating groups and those groups will Demand certain Supply. The groups of Humans are simply organizations. When just Adam and Eve existed this could still take place. Maybe both Adam and Eve worked together to move a rock in which case an organization, consisting solely of Adam and Eve, would have moved the rock. In this example the organization would have also been all of Humanity. When you there are a lot of Humans organizations stop being all of Humanity. As with all Humans pre-sin organizations will also Demand Supply with all Humans in mind. Post-sin this changes but for now we are in the theoretical communist utopia. Organizations, just like Humans, do not own anything. If the organization believes Demanding a certain Supply is in everyone best interests then they will do so. Finally S&D conflicts would be resolved the same way as they were before. Demand would filter Demand by Humans communicating with each other. In this case the organization-or who ever in the organization is making the Demand-would be a Human communicating with any other human in the S&D Conflict. 
+
+## Value In A Pre-Sin World
+  Value is a rather hard concept to understand, explain, or even just design. To be perfectly frank I'd rather not touch on Value, just because it is so complex, but I do not have that luxury and for this model to mean anything we need to understand Value. So the question must be asked "What is Value?". A rather TOUGH question.
+
+  In regards to the real world people view Value as a means to an end. They buy stocks, real estate, gold, silver, watches, collectable, even old games or Pokemon cards because they are "valueable". But what does that even mean? Most people who buy gold don't touch it; they don't look at it; they don't eat it; they certainly don't make and drink gold smoothies; and they don't plant it to a make gold tree that rains gold in the summer. So what "Value" does gold have? Gold is means to an end for people who collect, hoard, or invest in it. Feel free to use whatever term you deem appropriate. When people hold gold they are only holding it so that they can sell it later at a higher price than what they bought it at. They know gold has no use. They are simply hoping or know or whatever that in the future they will get more for their gold than what they put in. Again, a means to an end. 
+
+  But in the model, so far, we are pre-sin. No Human "owns" anything because there is no need to. There is no need to invest in or hoard gold. No reason for silver or any other metal. Assets like real estate and equity certainly don't exist. Which raises the question then "What is Value?". Ugh, a rather TOUGH question.
+
+  Based on the above reasoning it's rather hard to define Value here, but it's not impossible. You can always declare a way to Value something or some action. In this way you will be creating a value function. In the real world, and we will talk about this a lot later, markets are primarily used as _thee_ value function.
+  
+  We can say that every possible S&D Connection have a Value to them. What would that Value be? Well the Value of a possible S&D Connection would be its ability to facilitate another S&D Connection in the future. This would be the Value Function we are currently using. For instance if there was an S&D Connection about one Human planting an apple tree we could say that this Connection is rather valuable. Why? Because this allows Humanity in the future to eat more apples. I.E. the S&D Connection (of planting the tree) leads to more S&D Connections being possible in the future (eating apples). 
+
+  Decent definition but there are some obvious flaws. Every S&D Connection allows for more S&D Connections in the future. For instance if you made a hole in the sand while at the beach there is an obvious new possible S&D Connection of just filling in the hole. If you kicked a rock there is a new possible S&D Connection of kicking it back to it's original spot. The majority of S&D Connections will lead to new possible S&D Connections that are rather dumb. For these "dumb" S&D Connections we can Value them by how much OUS or SUS they offer the one Human. I'm going to use both OUS and SUS just because we can. The model is not physical and meant to be used as a way of understanding the real world. Because of this we can take into as much information as we want into the Value Function. 
+
+  Another obvious flaw is how far into the future are the new S&D Connections possible? Does it take 20 years for the new S&D Connection to come into fruition? When kicking the rock the new S&D Connection was instant, but planting the apple tree took a bit. 
+
+  Both of these flaws would have to be taken into account. Fow now, the Value of each S&D Connection would be the ability to facilitate more S&D Connections in the future with time, OUS, and SUS taken into account.
+
+
+## Final overview
+  This is a utopian society. Every Human acts with every Humans interests in Mind. There are no S&D Connections that are made with the intent of putting on Human's preferences or Internal Utility above the whole of Humanity. This could happen on accident but no Human will actively do it. There is human error and thus nothing runs at pareto efficiency. 
+
+# Add Sin To The World
+  Unfortunately the model we have created has little to no use in the real world. Humans do not prioritize Humanity over themselves. In this way all real world communism applications will fail. The USSR became a bastion of totalitarianship and oppresion, and China created the bird-in-a-cage model where they would allow capitalism until it interfered with the CCP's power. There are various differences between the model pre-sin and the real world. One quick diffrence that matters is that money, debt, and finance don't exist pre-sin. And that's for good reason. There is no need for money, debt, or any sort of finance in a pre-sin world. But, of course, all three and much more exist in the real world. So what's the main difference? The difference, quite obviously, is Sin. Humans in the real world act with their own interests in mind. They do not act with Humanities, societies, or even organizations that they are apart of in mind. Humans can at times work towards a greater existance (Humanity, Society, etc) but this rarely happens. Generally this only happens when a society is in a sort of golden age and is particularily unified. 
+
+  So let's add sin to make the model more applicable to the real world. The only change we are going to make is that now Humans will prioritize themselves over any other Human, organization of Humans, or Humanity as a whole.
+
+  What changes first?
+
+## Humans Have Cohesion
+  Well before-when we were pre-sin-there was no need for private property. No Human owned anything Humans simply coexisted. Now that is not possible. Humans will be lazy, loathful, and all around greedy. Given the choice of a "free" lunch a Human will take it. Now of course, this isn't completely compatible with the real world. Humans do nice, caring, and loving actions at times. Does this mean they are without sin? No, just in the moment they prioritized the whole of Humanity over the part of Humanity. Which means we need to add a level of cohesion between Humans.  
+
+  Cohesion between Humans will simply measure the want or desire to prioritize the greater good OUS maximizing decision over the self OUS maximizing decision. In this way, for every Human there is a cohesion level between the Human and themselves, every other Human, every organizaion, and the whole of Humanity. Cohesion is going to exist on a scale of 0-100, where 100 means they will prioritize the greater good decision always and 0 means they will prioritize themselves no matter the outcomes of an S&D Connection. Because Humans now have a cohesion level between themselves and every Human (including themselves), every organization, and even all of Humanity this becomes a lot to deal with. I'm not going to give examples or go into specifics. I'm just going to say the logical conclusions to part we are pondering. 
+
+  I think it's important to understand that even though Humans can hypothetically have cohesion at 0-100 it is rarely ever the case. Most of the time, in the real world, Humans don't 100% hate or 100% love anyone or any organization. Usually Humans exist in a range where they are indifferent. But the same principle applies that applied in the rock kicking analogy. There is always an idea of "out of sight, out of mind" that exists for everyone. Someone in Malaysia is going to care very little about an organization in Iceland. The only organization that everyone is truly apart of and everyone at some level or another cares about is Humanity as a whole. This driving care for Humanity probably stopped the world from being nuked in the 60s-80s. That or it was MAD that saved everyone...
+
+  To take it back to the model: What is the first change that occurs when Humanity can sin? Well Humanity can now prioritize a part over the whole-which was unthinkable before-and because of this there is now cohesion. What comes next? Well we now need private property, and let's now see why.
+
+## Private Property
+  Because Humans are now able to simply be lazy they are now able to Demand Supply that they otherwise would not want to. For example in a pre-sin world having your food stored all in a central location would be the best option for a community (assuming food safty is fine). This would lead to the most efficient way of allocating the resource (the food). But post-sin now someone can just walk up and eat; then go home and sleep; then go and eat; then sleep; eat; sleep. And repeat that process without adding anything to the community. Obviously the community isn't going to be too happy about this one Human's actions. So what do they do?
+
+  They take one of two actions. The first action is to "dispose" of the Human in a certain way. This could just be flat out killing them. Maybe it's kicking them out into the wild. Or maybe their hands are cut off. Some way or another the community will find a way to deal with the troublesome Human. The second and more commonly used action is to create private property. 
+  
+  As we've seen before there was no need for private property: Humanity was a utopian species who was only ever happy. Now Humanity has troubles and these troubles need dealt with. But what exaclty is the trouble? Humans now Demand Supply (in effect creating an S&D Connection) that is not benifitial to everyone. In the case above a Human is eating without working. The Human is Demanding Supply but not creating useful Supply himself. He simply wakes up, eats, and goes back to sleep. There is Demand that no one has the power to prevent from being created except the very Human who is making the bad Demand! 
+
+  The solution is to come up with a way of filtering demand. How is this done? Part of Matter is now sectioned off into the possesion of a Human. This sectioning takes a part of Matter out of the community chest and into private property. Before, in pre-sin, the community's food existed in the community chest. It would have been so free in that community chest that if another Human from a different community wanted to eat everyone would have been okay with it. Now, post-sin, even Humans in the community need to be checked. The need to filter Demand has been birthed. The only question now is who owns the food?
+
+  The question of ownership is quite simple. Someone has to own the food. If everyone held their own food in their own house the owners are quite obviously individual Humans. If the food is still kept in the central location but everyone in the community decides that the community owns the food then who ever owns the community owns the food. If the community had a totalitarian leader who murdered any opposition then the one lone totalitarian dictator owns all the food. If the community was a democracy then the food would be owned by everyone in a split. If the community was run by an oligarchy then the oligarchy would own the food. At the end of the day only Humans can own something. No organization (in this case a community) or the whole of Humanity can own anything. Ownership always goes down to an individual. 
+
+  For this example there was only a need for private property in regards to food. But generally, in the real world, there is a need for ownership on quite a bit. In today's world people even buy plots on the moon. The moon no longer exists in the community chest but now is private property to be bought and sold. However, this isn't to say everything exists in private property. Quite a bit exists in the community chest still. What exists in the community chest still? Air does, and so does water in the ocean. You can take as much water from the ocean as you want. No one is going to stop you. 
+
+  So now Matter can exist in the community chest or as private property. If the Matter is in private property then someone owns it; no organization can own anything. 
+
+  But this has dramatic affects for how Demand Connects with Supply. Before, in pre-sin, Demand always filtered Demand for which Demand was allowed to connect with Supply. But now that Humans sin Demand no longer has the authority to filter Demand. Because of this now Supply must filter Demand. So when Supply enters private property now who ever own that Supply has the authority to reject Demand. In the case of food who ever owns the food gets to say who eats. It's extremely important you understand that there was a change in the Supply and Demand dynamics. In pre-sin Demand filtered Demand. In post-sin Supply filters Demand. The Supply filtering is done through private property and who ever owns the supply has the right to filter Demand for that Supply. 
+
+## Debt
+  There is an inheirant problem with private property however. Private property did a great job at filtering Demand. When Demand filtering by Demand stopped working it allowed Supply to filter Demand. However, now there the economy is rife with inefficiency. The beloved and mythical pareto efficiency is impossble for a second reason now. Before in pre-sin if it was OUS optimizing for a S&D Connection to take place it did. Now in post-sin the possible S&D Connection has to be approved by who owns the Supply. However this leads to quite a lot of cases where OUS optimizing S&D Connections are denied by Supply owners. A quite obvious example of this would Steve Job's Mac. A revelutionairy computer which didn't get enough funding or resources for a long time. In this example Steve was denied S&D Connections that maximized OUS. This denial delayed the creation of the mac and in turn any resources not spent on the mac was an inefficient allocation. If Humanity wanted the economy to run at peak efficiency then Steve's S&D Connections should not have been denied.
+
+  There are many other instances of this scenario occuring. Projects, organizations, or even just Humans have their Demand's rejected because of private property. We can't remove private property because now there is too much Demand. People can be lazy and just eat and sleep. We need private property but a way of allowing some Demands to Connect. 
+
+  The solution Humanity has come up with is debt. Say a Human, let's call him Adam, who owns just enough to survive has an idea for the steam engine in a world without any industrialization. To invent and sell his idea of the steam engine he needs his Demands for Supply to not be rejected. So what does he do? He goes to a different Human, let's call her Eve, who does own the Supply Adam needs and asks for his Demands to not be rejected in the present. In effect, he would like his Demands to Connect with Eve's Supply. Eve's obviously isn't going to be too happy about this. Unless Adam and Eve have perfect cohesion and both truly believe in the idea then this a bad idea for Eve to do. Even in a pre-sin world Eve may not even think this to be a good idea. It's important to understand the world in this example has no industrialization. So for Adam to go upto Eve and say "hey, I have a crazy idea but I need your resources for it be fulfilled" Eve's gonna think Adam's lost his damn mind. So in a post-sin world it makes even less sense. As far as Eve is concerned Adam's gonna take the resouces and run off. 
+
+  Now Adam is pretty intelligent. He knows that Eve is never going to just let his Demand Connect with her Supply. So what does he do? He promises her an equal amount of Supply in the future. But that's not enough. Eve would be losing in this situation. How? Eve loses the ability to Connect with her own Supply during the time between Adam's Connecting in the present and Adam's repaying in the future. Eve doesn't like losing but she sees an opportunity. She offers the Supply in return for the same amount of Supply in the future and bit more. That bit more is the interest. Adam agrees, makes the engine, changes the world, gets rich, repays Eve, and Eve get's a tad bit richer. 
+
+  Adam and Eve in the scenario above have just created debt. In this case the interest was a fixed amount of supply. However, in the real world, interest can come in different forms. You could have fixed or adjustable. Adjustable rate debts are what blew up the housing market and in turn the economy in 2008 for America. Now it's important to note that debt was created BEFORE money was created. In the real world the first debts were about agricultural product. Seeds were loaned and then repaid after a harvest. 
+
+## Money
+  ### Barter
+  Now so far we private property and debt, but in the real world we also have money. So where does money come in to play? As we saw in the last section there wasn't even a need for money for debt to be created. So what facilitates money then? Why does money exist? Well at the start it didn't. What did exist was barter. People would trade ownership of Supply for ownership of Supply with each other. If someone had 1 cow but wanted 2 pigs they would go to the market and try to find someone who wanted a cow for 2 pigs. If the person did exist and they found each other then the trade could take place. But this become unsustainable fast as there are a couple of problems that arise. 
+  
+  The first problem is that both parties need to exist and have to want to partake in the same trade of Supplies but on oppostite end. In the case above about a cow and 2 pigs someone had to want 2 pigs for 1 cow and another person had to want 1 cow for 2 pigs. This problem is called the double coincidence of wants. 
+  
+  The other problem that arises is a question of Value. Unfortunately the dreaded Value has shown up. Each person has their own subjections what the value of each Supply is. This is Subjective Value or SV. Each person's SV of a Supply is unique to that individual. The first Human (who wants 2 pigs for a cow) subjectively values the two pigs higher than the cow. On the other hand the second Human (who wants a cow for 2 pigs) subjectively values the cow higher than the two pigs they currently own. Because of this difference in subjective value the trade can take place. After the trade happens both parties believe they are better off. Total SV owned by both parties goes up. Please, please, please don't ask about actual Value. Only God knows how Value changed even in the hypothetical I created. Both, one or none of the parties might be better off in terms of Value. But most importantly both parties believe they are better off.
+
+  In this current example both parties believed they would better off post trade and thus the trade toke place. If both or one of the parties believe that they will be worse off after the trade then the trade won't take place. Maybe the cow looks sickly or the two pigs look small. There are essentially an infinite number of reasons that the SV of wanted Supply is percieved lower. This percieved low SV causes the trade not to happen.
+
+  ### Commodity Money
+  So what's the solution? Barter was doing so well at facilitating changed in ownership of Supply. 
+
+  
 
 
 
 
+# STICKY NOTES
+### Debt And Cycles
+Debt existing and Humans being imperfect => 7-year debt cycle exists
+7-year debt cycle and central banks existing => 100-year debt cycle exists
 
-
-
+### Utility Needs To Be Temporal
+Internal Utility needs to be temporal and so does Utility gained from S&D Connections. Internal Utility would have a "resting" level which would be just risidual happiness or sadness. But Utility gained from an S&D Connections would actually be a function. If you set off a nuke it would be rather fun to watch. But the nulear fallout would suck quite a bit.
 
 
 ### Value Functions in a pre-sin world
 Let's ask a _very simple_ question given a Thing. What is the Value of this Thing?
-    Let's view the Thing as having Matter and assume there is Humans from Humans or Humans from CoH.
-    The question is now "Well what the Value of this Matter given there could possibly be Humans from the origins described?"
-    
-    Right off the bat we run into a problem. What does Value even mean? Does Value equate to how many Humanss couldn't be connected with Matter? I.E. only Things in a shortage have Value? Maybe Value means how many Humanss for the Matter could make connections? Does the oxygen on Earth have more Value than all the Doornobs simply because all the oxygen on Earth satisfies more Humans than all the doornobs do? Essentially there are an infinite number of ways Value could be described which means this is getting out of hand fast. 
-    
-    For now let's take a step back. Let's just assume that Value is some abstract equation about Matter and Humans of a Thing. Let's call this function V(T). Value of a Thing. And we can say V(T) is what ever we want. If we want to define Value of a Thing as how much Humans couldn't be connected with Matter (this would be shortages) than we can. We could also define Value as how many Humanss could make connections. Or even how many Humanss did make a connection. Again, lots of ways to define Value.
+  Let's view the Thing as having Matter and assume there is Humans from Humans or Humans from CoH.
+  The question is now "Well what the Value of this Matter given there could possibly be Humans from the origins described?"
+  
+  Right off the bat we run into a problem. What does Value even mean? Does Value equate to how many Humanss couldn't be connected with Matter? I.E. only Things in a shortage have Value? Maybe Value means how many Humanss for the Matter could make connections? Does the oxygen on Earth have more Value than all the Doornobs simply because all the oxygen on Earth satisfies more Humans than all the doornobs do? Essentially there are an infinite number of ways Value could be described which means this is getting out of hand fast. 
+  
+  For now let's take a step back. Let's just assume that Value is some abstract equation about Matter and Humans of a Thing. Let's call this function V(T). Value of a Thing. And we can say V(T) is what ever we want. If we want to define Value of a Thing as how much Humans couldn't be connected with Matter (this would be shortages) than we can. We could also define Value as how many Humanss could make connections. Or even how many Humanss did make a connection. Again, lots of ways to define Value.
 
-    Easy enough definition for Value. That means we are done right? No. What moment in Time are we talking about? On the Earth before Humans existed there was no Humans. Again, only Humans Humans. If a fox eats a rabbit that is Things changing over time. That means most Value Functions are going to fail. Value is only in relation to Humans. Matter (Things) itself have no Value.
+  Easy enough definition for Value. That means we are done right? No. What moment in Time are we talking about? On the Earth before Humans existed there was no Humans. Again, only Humans Humans. If a fox eats a rabbit that is Things changing over time. That means most Value Functions are going to fail. Value is only in relation to Humans. Matter (Things) itself have no Value.
 
-    For now because we are pre-sin we can easily define Value as a Value Function. I'm going to now define Value as the maximum Utility that can be gained from Humans (Humans). If Humanity have two or more possible interactions with a specific Thing than we can say that the Value of this Thing would be the Value of Utility Maximizing interaction. 
+  For now because we are pre-sin we can easily define Value as a Value Function. I'm going to now define Value as the maximum Utility that can be gained from Humans (Humans). If Humanity have two or more possible interactions with a specific Thing than we can say that the Value of this Thing would be the Value of Utility Maximizing interaction. 
 
-    For example.
-    1. Interaction to gain 15 Utility for Human A.
-    2. Interaction to gain 20 Utility for Human B.
+  For example.
+  1. Interaction to gain 15 Utility for Human A.
+  2. Interaction to gain 20 Utility for Human B.
 
-    Because Human B's interaction gained more Utility, 20 Utility is now the Value of the Thing in that given Time.
+  Because Human B's interaction gained more Utility, 20 Utility is now the Value of the Thing in that given Time.
 
-    I think this definition would be compatible with the knowledge of Value through all of Time only because this is pre-sin. I think post-sin there is breakdown bc of a want to hoard.
+  I think this definition would be compatible with the knowledge of Value through all of Time only because this is pre-sin. I think post-sin there is breakdown bc of a want to hoard.
 
-    All this will thrown out the window post-sin. Sing and knowledge of Value over all Time are not compatable.
+  All this will thrown out the window post-sin. Sin and knowledge of Value over all Time are not compatable.
 
 ### HELLO
-
 When you ask the question "What is the Value of a Thing?" We have to know the all information from all of time. And if in the moment any information is used to gain personal leverage (money) than the whole system collapses. Only when everyThing was in the CC did Value have a way to acceptably defined. If the Value of a Thing is known in Time t then the Thing could be hoarded (PP) changing the Value of a Thing. Did hoarding add Value for the Thing?
 
-
-
-
 ### SCHIZO
-
 You NEED to wake up early. The devil is gonna wake you up and say "Quick live forever, God will let you die". Those who choose to live forever will surely die. God doesn't care that you are going to die. He was going to give you eternal life anyways. He cares about whether you abandon sin or not. The compounding force with sin leads to death at infinity. Either you go live forever without sin in Heaven or you live forever with sin in Hell.
+
+### FINANCIAL SYSTEMS AR GROUP DELUSIONS
+People are looking at an apple and saying it is an orange. This delusion happens on mass and thus it is now acceptable. When an outsider comes in and says "Well, you guys are wrong. This orange is actually an apple." the others will disagree. But who is right? The majority will be right up until the moment when the apple actually has to act like an orange. Only then will the financial system be exposed as an apple. But until that moment the majority will hate the minority for saying the truth because the minority is popping the bubble of the majority. The minority is saying "yall are wrong. And in a big way." which the majority isn't too happy about. This is why contrarians who say we are in a bubble are hated. What an asshole you must be to say the truth like that. The majority is quite happy in the delusion that the apple is an orange. Only until the moment the apple is exposed irreversably to be an apple. Then the world falls apart and must be put back together. 
+
+### BEAR MARKETS
+To see we are in a bubble or that a bear market is coming you must be a contrarian. To profit off of a bear market you must be a contrarian to the contrarians. 
+
+BMR steps
+1. Bears must get checked
+2. Bulls must get checked
+3. Bears must get checked again
+4. Bulls believe they are unstoppable
+5. Bulls lose and the BMR fails. A drop occurs.
