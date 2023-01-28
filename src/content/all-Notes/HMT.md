@@ -457,6 +457,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   But this has dramatic affects for how Demand Connects with Supply. Before, in pre-sin, Demand always filtered Demand for which Demand was allowed to connect with Supply. But now that Humans sin Demand no longer has the authority to filter Demand. Because of this now Supply must filter Demand. So when Supply enters private property now who ever own that Supply has the authority to reject Demand. In the case of food who ever owns the food gets to say who eats. It's extremely important you understand that there was a change in the Supply and Demand dynamics. In pre-sin Demand filtered Demand. In post-sin Supply filters Demand. The Supply filtering is done through private property and who ever owns the supply has the right to filter Demand for that Supply. 
 
 ## Debt
+  ### Why Debt Exists
   There is an inheirant problem with private property however. Private property did a great job at filtering Demand. When Demand filtering by Demand stopped working it allowed Supply to filter Demand. However, now there the economy is rife with inefficiency. The beloved and mythical pareto efficiency is impossble for a second reason now. Before in pre-sin if it was OUS optimizing for a S&D Connection to take place it did. Now in post-sin the possible S&D Connection has to be approved by who owns the Supply. However this leads to quite a lot of cases where OUS optimizing S&D Connections are denied by Supply owners. A quite obvious example of this would Steve Job's Mac. A revelutionairy computer which didn't get enough funding or resources for a long time. In this example Steve was denied S&D Connections that maximized OUS. This denial delayed the creation of the mac and in turn any resources not spent on the mac was an inefficient allocation. If Humanity wanted the economy to run at peak efficiency then Steve's S&D Connections should not have been denied.
 
   There are many other instances of this scenario occuring. Projects, organizations, or even just Humans have their Demand's rejected because of private property. We can't remove private property because now there is too much Demand. People can be lazy and just eat and sleep. We need private property but a way of allowing some Demands to Connect. 
@@ -466,6 +467,12 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   Now Adam is pretty intelligent. He knows that Eve is never going to just let his Demand Connect with her Supply. So what does he do? He promises her an equal amount of Supply in the future. But that's not enough. Eve would be losing in this situation. How? Eve loses the ability to Connect with her own Supply during the time between Adam's Connecting in the present and Adam's repaying in the future. Eve doesn't like losing but she sees an opportunity. She offers the Supply in return for the same amount of Supply in the future and bit more. That bit more is the interest. Adam agrees, makes the engine, changes the world, gets rich, repays Eve, and Eve get's a tad bit richer. 
 
   Adam and Eve in the scenario above have just created debt. In this case the interest was a fixed amount of supply. However, in the real world, interest can come in different forms. You could have fixed or adjustable. Adjustable rate debts are what blew up the housing market and in turn the economy in 2008 for America. Now it's important to note that debt was created BEFORE money was created. In the real world the first debts were about agricultural product. Seeds were loaned and then repaid after a harvest. 
+
+  ### Debt Bringing Demand Forward In Time
+  Again, why does debt even exist? Because people may need the ability to faciliate an S&D Connection when they don't own the neccesary Supply. Pre-sin no Demand was rejected it was simply filtered. Now Demand has to be rejected as a way of filtering.
+
+  ### Types of Debt
+  * Talk about default risk!
 
 ## Money
   ### Barter
@@ -478,7 +485,67 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   In this current example both parties believed they would better off post trade and thus the trade toke place. If both or one of the parties believe that they will be worse off after the trade then the trade won't take place. Maybe the cow looks sickly or the two pigs look small. There are essentially an infinite number of reasons that the SV of wanted Supply is percieved lower. This percieved low SV causes the trade not to happen.
 
   ### Commodity Money
-  So what's the solution? Barter was doing so well at facilitating changed in ownership of Supply. 
+  So what's the solution? Barter was doing so well at facilitating change in ownership of Supply. But the problems, double coicidence of wants and double coicidence of antithesis subjective value, become exponentially worse as both more Humans and dinstinct Supply exist. The main problem being that there is no standard of Value. Humans are not good at Valuing things. Humans start gravitating to owning more widely subjectively valuable supply that stays valuable longer. In this way people moved from bartering their Supply with other to bartering to hold more of the universally valuable Supply. The Supply to fill this role was grain. If kept properly grain could last quite a bit. So people would trade or work their way to grain and just hold it.
+
+  In this way grain was the first commodity money. Grain was universally accepted as a "valuable item". In this case grain actually did have value. You could make bread with it and eat. This first commodity money has a lot more instrinsic value than the next widely accepted ones will. Nevertheless the grain served a new role other than its initital role. The grain became Abstract Subjective Value (ASV). Everyone viewed grain as having value and thus could be traded for other Supply. It became the first money or ASV. 
+  
+  ### ASV
+  Let's talk a bit more about ASV before we get back into the origin and evolution of money. 
+  
+  Note that it's abstract subjective value not abstract value. Abstract value is not something that could ever exist. Each Supply has it's own value based on what ever you deem to be the defition or funtion of value. There is no Supply that is abstract value. If there was a Supply that could be abstract value then there would be a Thing that could serve EVERY role in reality. You would be able to eat or drink that Supply. You would be able to use it as rocket fuel or as concrete. You would be able to drive it to work. This Supply obviously doesn't exist. There is no abstract value. BUT we as a society can assign a Supply the role of abstract subjective value. We can create or designate a Supply to be a respresentative of abstract value. This creation or designation process is what we as a society do to create money. Important note: A Supply fills the role of ASV. There is no ASV you can point to. It was made up to greese the wheels of economics post-sin.
+
+  But back to the first ASV. For a certain Supply to act as an ASV the vast majority of a society has to believe that the Supply does logically fit the role of ASV. If the majority of people stop believing the Supply fills the role then the group ideology collapses like a ponzi scheme and the role of ASV goes unfilled. The society would revert back to a barter economy. Very rarely in the modern day is this the case. The majority of the time when there is a crisis of failing faith in the ASV people simply assign a different Supply to serve the role of ASV. Humans love the existance of money. Greece during the European debt crisis is the only example I can think of where society did revert back to a strict barter system. However, this may also simply be the case because the other Supplies that are commonly used as ASV were out of the hands of the 99%. In the case of crisised Greeks it's safe to assume that the 99% did not have gold or silver to trade with and so the vast majority went to barter.
+
+  When a Supply is given the role of ASV and is widely accepted the SV of the Supply goes up. Think of the fiat you hold. What actual value does it have other than you being able to trade with it. When you buy or sell for ASV you are trading a Supply with actual Value for a Supply with only subjective value. Poeple only make this trade because they are confident that later down the line the ASV can be traded back to Supply which has actual Value. Think about a $10,000,000 ranch that is self sustaining versus $10,000,001 in cash. Which has higher Value? Which has higher SV?
+
+  For a supply to become an ASV it has to serve a couple of purposes. Sometime you'll see money being assinged 3-5 function in academics. Here money (ASV) serves three roles. 
+  
+  Firstly ASV is used to facilitate changing in ownership of Supply. This again is a ponzi scheme for confidence though: if the majority of society simply believe that the selected Supply can't or doesn't fulfill the role of ASV anymore then it will no longer be used to facilitate the changing of ownership of Supply. If this is the case then the selected Supply no longer serves the role of ASV and the role is either filled by a different Supply or it goes unfilled in which case the economy reverts back to a barter economy. 
+
+  Secondly ASV is used as a way of measuring the value of supply. Humans will start measuring every other Supply in relation to the ASV. They may say one apple is worth 1/20 of a pound of grain or a cow is worth 30 pounds of grain. When you see money being assigned 5 roles one of them will be that money is a unit of account and another is that money is a way to measure value. Here the two roles are combined; ASV becomes both a way to measure Supply and the unit.
+
+  Lastly ASV becomes a way of storing wealth. As stated earlier ASV now becomes a universally subjectively valuable Supply. In this way if you store ASV you are storing subjective wealth. The ASV can be traded for Supply and thus storing ASV is akin to storing Wealth. The only problem with this is that if the confidence does collapse then does your wealth. Your wealth is tied to the group ASV ideology. 
+
+  ### Commodity Money Again
+  To get back to commodity money, as we've already glimpsed a bit into the modern day we can see that the economy doesn't use grain as the ASV. So what happened? Well grain has a couple flaws. Firsly, It doesn't last forever and secondly it's really annoying to use as ASV. Even under perfect conditions it will deteriorate over time. And if you as a Human are hoarding grain as a way of hoarding your wealth then as time progresses your wealth will erode. On top of this grain also is annoying to use as ASV. No one wants to carry around hundreds of pounds of grain to pay for things. Do you really want to pay for college in grain. I know nothing about grain but I know that would quite a lot of grain. Another issue is that not all grain is the same. One could always pay with bad grain and keep the good grain for themselves. People then trading Supply for the ASV wouldn't be too happy. We need to come up with a solution to these problems. We need an Supply that doesn't deteriorate over time, or at least doesn't deteriorate as much, and we need a Supply that is uniform and easy to handle.
+
+  In academics money is sometimes assigned a couple of "requirements" relating to these problems. Usually it is said that Money must be easily divisable and easy to handle. But as we saw with grain that wasn't the case. But grain was actually used as money, so that mean that money has these "requirements" or that grain wasn't money? Well grain was obviously money, so obviously money doesn't actually require these "requirements". But when a Supply selected for the ASV role does fulfill these "requirements" it is a better Supply to assign the role of ASV than other Supplies who do not fulfill these "requirements". Theoretically a society could use dirt as ASV it's just the confidence in that Supply as ASV would be hard to maintain and would deteriorate and collapse fast. The confidence in grain as ASV did deteriorate and collapse and people went to the next ASV. But what was that?
+  
+  Over time with advent of technology Humanity could mine, melt, smith, and coin metals. Metals don't deteriorate over time as bad as grain does and can be easily carried around. On top of this no one has ability to pull metals out of thin air. It requires time, effort and resources to create metal coins. Thus the coins were scarce. Grain is also a scarce resouce which leads to another "requirement" that isn't truly a requirement. The "requirement" being that the selected Supply must be somewhat scarce. Again, dirt could be used as ASV but it wouldn't last very long for a lot reasons but the main one being that dirt is everywhere. It's not scarce. But metals are scarce, easy to carry around and don't deteriorate over time. The main metals used were gold and silver which are still widely believe to be the "correct" ASV today. Note I put quatations around correct because there isn't a correct ASV. ASV isn't real. It was made up by society to fulfill a role because we can no longer trust each post-sin.
+
+  This lead to metal money. While grain was the first commodity money, metal money was the most widely used at it's peak and was used for the longest period of time. Metals as commodity money had the longest run of any Supply as a widely accepted ASV. The most widely used metals were gold and silver. Gold has an edge over silver for two reasons. Firsly gold is rarer and secondly gold does not react with air. Over time silver changes but gold does not. The acceptance for commodity money spanned empires, nations, land and sea. For a couple thousand years you could take gold and silver anywhere and it would accepted as an ASV. But the acceptance in ideology was not universal which lead to some interesting moments in history.
+
+  The first major example of gold not being accepted as an actual ASV was Mansa Musa's story. As the king of Mali he was extremely rich and had lots of gold. When he went to Cairo he brought the large amounts of gold with him. He spent and gave away so much gold that the SV of gold in cairo eroded to an extreme degree. To Mansa gold had no value; the SV of gold was nill for Mansa. However, in Cairo, the belief was the opposite; they loved gold. And so Mansa traded gold for lots of various Supply. This caused inflation in cairo and helped cement Mansa in history. Did Mansa have the correct view on gold? Was the actual of gold nill like his SV on it? Or was Cairo correct and gold was extremely valuable?
+
+  The second major example is about native americans and the colonizers in the new world. In the genisis of this colonial expansion people who migrated from Europe to America were in search of silver and gold. Now the native americans had silver and gold but didn't have certain Supply that Europe had simply because Europe was more technologically advanced.Native americans had silver and gold which they didn't care about and Europe had Supply like beads which they didn't care about. So what did they do with each other? Well mainly they killed each other. But there was some trading that took place. Europeans traded beads and other Supply to native americans in exchange for silver and gold. Native americans did not hold the belief that silver and gold was an ASV but the europeans did. Because of this a trade took place and both viewed themselves as better off. SV held by both parties rose in thier own minds. 
+
+  But overall silver and gold are two most commonly used and believed in ASVs. This believe is still very strong. So strong in fact that JFK wanted to eliminate the banking system at the time he was president and implement bimetallism in America. He wanted both gold and silver to be used not just gold. Later he was assissinated and the plan for bimetallism fell through. The rallying cry of bimetal commodity money however did not die. Some poeple today still want gold and silver to be the most widely used ASV. 
+
+  Well great, we have a Supply that can almost perfectly fulfill the role of ASV and somewhat has a cult following. These two facts go hand in hand and lead silver and gold to be the most successful Supply ever used for ASV ever. They did so well that the reign of the two Supplies will probably never be topped. But there are still some problems. What are they?
+
+  Well for one what is the unit here? On the most basic silver and gold standard everyone carries around lumps of the metals for their ASV. Is one lump the actual unit of measurement while another isn't? And even if we did choose a lump shape to determine as the correct lump how do we get everyone on board? The second problem is an issue of standardization. Before with grain you could always just pay with the bad grain. With gold and silver it's impossible to tell just by looking at it what the purity of it is. The final problem is a problem without a solution. Gold and Silver weighs quite a bit and is pretty bulky. It's incredibly annoying to carry around. 
+
+  But we as Humans are always engineering solution and so we engineered a solution for these problems. Firstly we deal with the unit problem. Instead of trading lumps we now trade weights of lumps. A cow will traded for .5lbs of silver or a house for .25lbs of gold. This is why when you see trades in the _ye olden days_ take place they are weighing the gold and silver against something. Usually that something was a small effigy like figure made to so that the value of the Supply was represented in the weight. You want a Supply with a certain weight? Great! Give me the equivalent in gold and silver in weight. This is a great solution but one that is somewhat annoying.
+
+  The second problem can't be solved in a decentralized way however. The problem of standardization in the ASV in regards to purity needs a central authority. The central authority has to make a rule about the purity and has to enforce it. So what do they do? They take all the lumps of gold and silver and melt them into coins. The coins will then have a standardized purity and on top of this offers a better solution to the unit problem. We now have coined commodity money. You're no longer required to weigh the gold and silver while trading. Here another problem pops up. Post-sin economics is always problem, half-solution, problem, half-solution on and on forever. Post-sin Humanity is rather annoying to deal with.  
+  
+  The problem that arises is called Gresham's Law and it states that good money drives out bad. When you do have coined money it becomes profitable to take notches off the coin. If you do this enough you can create a new coin. Have you just created money out of thin air? No, you simply devalued all other coins in favor of creating a new one. If you chip off 2% of every coin you have you can create a new coin out of 50 coins. You now have 50 coins at 98% SV and a new coin at 100% SV. This undermines the solution created for the last two problems of commodity money. It's like the last two solutions didn't even work and we still have the issue of weight and bulkiness to worry about. We are now back to the drawing board. 
+
+  The solution to solve the Gresham's Law problem and the problem of weight and buliness. Is to store the metals in a vault somewhere and to carry around something that represents gold and silver. Humanity has just created representative commodity money.
+
+  ### Representative Commodity Money.
+  So no longer are we carrying around gold and silver instead we carry around some Supply that says we own that gold or silver. When we trade we now trade that representative which the counter party can take the vault and exchange for gold or silver. We are starting to have a rather complex solution for a problem that didn't even exist pre-sin. Before we didn't even have ASV and now we have both ASV and some Supply that represents ownership of the ASV. We knew that the ASV itself never even had value it simply had a widely held belief of the Supply used as ASV having SV. Does the Supply used as a representative have value then? Not even close. We are even further from the truth of that elusive value, but the system created is easier to use and harder to abuse. And so it flurishes.
+
+  At this point in history we are about at the 1700-1800s. The barter system lasted for quite a long time up until technology and the culture changed allowing for grain to take the role of ASV. Then metals came and gold and siler ruled the world for mellenia as _thee_ ASV. Representative money takes on a brief blip as a the next stage of money and lasts for about 100-200 years. 
+
+  There isn't much to talk about in regards to representative commodity money. It was simply the next step to commodity money and offered a solution to the two problems. The only question to be talked about is what is the Supply used to represent the ASV? Well it's paper. People carried around paper which represented ownership of gold and silver. If you clipped the paper you wouldn't be able to make new gold or even new paper, and carrying around the paper wasn't annoying.
+
+  So this is the perfect way for ASV to take form? No. No ASV will ever be perfect. ASV was created to greese the wheels post-sin. No matter how greased the wheels are the system will never be as good as it was pre-sin.
+
+  ...And we have another problem. problem, half-solution, problem, half-solution. What's the problem? People can counterfeit the paper and then take ownership of gold that wasn't theirs. This problem has no solution other than the central authority making the paper hard to counterfeit and be ever vigilient. On the individual Human side there is a partial solution. The partial solution comes with it's own problem which is quite evident. The solution is to just ignore this next step in money and to keep your gold and silver in your own hands. But in general there arn't too many problems. So why do we not currently use representative commodity money anymore?
+
+  Well, widely in the world, we used representative commodity money up until the 1970s. Specifically starting in 1971 with the Nixon Shock.
+
 
   
 
@@ -486,6 +553,64 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
 
 # STICKY NOTES
+### Schizo One Liners:
+* God is giving you one chance at cleansing your infinite state. Do you feel the chance slipping between your fingers as every momeny passes?
+* You can see the Devil appointing the next horn based on the way the occult move. 
+  * Why did Trump and The Israeli Prime Minister go to the same private college?
+  * Why did Trump have a failed Insurrection just like Hitler?
+    * Learn more about Napolean. Did he also have this?
+* The filter set up by the fake post WW-2 top-secret governments are amazing at catching information. I really bet that there is an at minimum 1/10th of science made secret to us.
+
+### WW3 One Liners:
+* Russia and China won't let you have a democratic republic anymore. They want you to choose a democracy or a republic. Unfortunetly both of these infinitely worse than the 
+  combination. But still, all three fail at infinity.
+  * Liberalism is inheriently against hard line rules. Hard line rules are necessary for cohesion to last long term. But Conservatives are for hard line rules that are just bad. This 
+    is why the two party system doesn't work. It's easy to cut in half through the middle.
+
+
+### Econ One Liners:
+GDP is how much Supply was exchanged in a year in terms of ASV.
+
+
+
+### Generational Conforming.
+When Gen X raged against the machine they actually conformed. The truly capitalist amoung them realized what capitalism actually was: it's all about being _greedy_. Remember Reagan with "_Greed Is Good_"? When you sat down and accepted a job instead of being _greedy_ you conformed. What's even worse is that wealth was stolen from you!
+
+The Millenials proudly fell face first into the pit. Accepting a job is conforming. You were not _greedy_. 
+
+And Gen Z lost all focus when they were bombarded with psy ops. Lost in extreme radicalization they are all addicted to the internet and don't know up from down. There are more in Gen Z however that see the truth that the Millenials and Gen X are blind to.
+
+Boomers were _greedy_. They knew what game they were playing and the earth still had resources at large.
+
+
+### Have To Explain The Model at Times.
+It's a good idea to explain the model very abstractly at the start but to be real world with it at the end it should be like reading a brief history book. When the model needs to be brought it then do it. When explaining these Ideas you will have explain why they happened with model.
+* "Lowering The Rate"
+  * Government is saying "Don't worry the future is good", and _you believed them_.
+  * This allows more debt which brings more demand forward which which causes more boom.
+  * The government doesn't want the true ending to happen. Instead we, as a society through the government, make a bet with our future and say "We'll some spend some Value now but 
+    invest it properly. Then when we get to the future we'll have even more". It doesn't really ever work. I'm not sure it even could as Humans are really bad and investing. But to be fair the true game was hidden from them. Humanity doesn't know that the CD-ID spectrum exists for demand.
+  * When The Rate is high like in the 70s-80s it says Demand can only be spent if it yields 21% on SV every year. THIS IS INSANE!!!! 21% percent is unheard of. This would occur       
+    during 2000+ years ago. And was because of default risk not interest rate risk! America was the only one able to do it because they where the only supply post-ww2. This gave America the ability to Lower The Rate for last 40 years!
+
+* Why the 7-year 100-year cycles happens
+  * The 7-year happens because the game of capitalism is to be _greedy_. Eventually this blows up beacuse the _greediness_ turns into scams. Scams arn't even SV profitable. On top of this most debt only creates SV NOT V. This eventually goes bust.
+  * The 100-year cycle happens becuse society makes the bet with themselves about the future. Lowering The Rate let's us spend Value now. This only lasts so long. Eventually the bill comes due all deals we made with ourselves default. 
+
+* QE
+* Microbooms
+
+### Naming The 100-Year Crash
+No one even talks the 100-year cycle. The 7-year cycle is barely talked about and very much not understood. So I've never even seen this idea discused before. Ray Dalio is only person I've seen name it. It unreal to the world that 2008 should have been a of 1929 but wasn't. They don't understand what actually happened. People have never even seen the idea of a micro-boom before. To say that economy is on life support by the government in order to keep the economy alive is unreal. And to say the last 15 years were fake is going to be even harder to take in. But this envelouping cycle can only delayed never avoided. In this way the 100-year Crash has only happened twice! Napolean and Hitler
+
+
+
+### The Sociological Side Of A 100-Year Crash
+
+
+### Explain Then Define
+You should explain a concept, process, or evolution then go back and define it
+
 ### Debt And Cycles
 Debt existing and Humans being imperfect => 7-year debt cycle exists
 7-year debt cycle and central banks existing => 100-year debt cycle exists
@@ -517,8 +642,8 @@ Let's ask a _very simple_ question given a Thing. What is the Value of this Thin
 
   All this will thrown out the window post-sin. Sin and knowledge of Value over all Time are not compatable.
 
-### HELLO
-When you ask the question "What is the Value of a Thing?" We have to know the all information from all of time. And if in the moment any information is used to gain personal leverage (money) than the whole system collapses. Only when everyThing was in the CC did Value have a way to acceptably defined. If the Value of a Thing is known in Time t then the Thing could be hoarded (PP) changing the Value of a Thing. Did hoarding add Value for the Thing?
+### Value
+When you ask the question "What is the Value of a Thing?" We have to know the all information from all of time. And if in the moment any information is used to gain personal leverage (money) than the whole system collapses. Only when everyThing was in the CC did Value have a way to acceptably defined. If the Value of a Thing is known in Time t then the Thing could be hoarded (PP) changing the Value of a Thing. Did hoarding add Value to the Thing?
 
 ### SCHIZO
 You NEED to wake up early. The devil is gonna wake you up and say "Quick live forever, God will let you die". Those who choose to live forever will surely die. God doesn't care that you are going to die. He was going to give you eternal life anyways. He cares about whether you abandon sin or not. The compounding force with sin leads to death at infinity. Either you go live forever without sin in Heaven or you live forever with sin in Hell.
@@ -535,3 +660,6 @@ BMR steps
 3. Bears must get checked again
 4. Bulls believe they are unstoppable
 5. Bulls lose and the BMR fails. A drop occurs.
+
+### Two Waters Glasses One Wine Glass
+Having Two Water Glasses and One Wine Glasss is Goated. Absolutely Goated. Oh Yeah!
