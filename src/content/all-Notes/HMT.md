@@ -458,21 +458,82 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
 ## Debt
   ### Why Debt Exists
-  There is an inheirant problem with private property however. Private property did a great job at filtering Demand. When Demand filtering by Demand stopped working it allowed Supply to filter Demand. However, now there the economy is rife with inefficiency. The beloved and mythical pareto efficiency is impossble for a second reason now. Before in pre-sin if it was OUS optimizing for a S&D Connection to take place it did. Now in post-sin the possible S&D Connection has to be approved by who owns the Supply. However this leads to quite a lot of cases where OUS optimizing S&D Connections are denied by Supply owners. A quite obvious example of this would Steve Job's Mac. A revelutionairy computer which didn't get enough funding or resources for a long time. In this example Steve was denied S&D Connections that maximized OUS. This denial delayed the creation of the mac and in turn any resources not spent on the mac was an inefficient allocation. If Humanity wanted the economy to run at peak efficiency then Steve's S&D Connections should not have been denied.
+  There is an inheirant problem with private property however. Private property did a great job at filtering Demand. When Demand filtering Demand stopped working it allowed Supply to filter Demand. However, now there the economy is rife with inefficiency. The beloved and mythical pareto efficiency is impossble for a second reason now. Before in pre-sin if it was believied to be OUS optimizing for a S&D Connection to take place it did. Now in post-sin the possible S&D Connection has to be approved by who owns the Supply. However, this leads to quite a lot of cases where OUS optimizing S&D Connections are denied by Supply owners. A quite obvious example of this would Steve Job's Mac. A revelutionairy computer which didn't get enough funding or resources for a long time. In this example Steve was denied S&D Connections that maximized OUS. This denial delayed the creation of the mac and in turn any resources not spent on the mac was an inefficient allocation. If Humanity wanted the economy to run at peak efficiency then Steve's S&D Connections should not have been denied.
 
   There are many other instances of this scenario occuring. Projects, organizations, or even just Humans have their Demand's rejected because of private property. We can't remove private property because now there is too much Demand. People can be lazy and just eat and sleep. We need private property but a way of allowing some Demands to Connect. 
 
   The solution Humanity has come up with is debt. Say a Human, let's call him Adam, who owns just enough to survive has an idea for the steam engine in a world without any industrialization. To invent and sell his idea of the steam engine he needs his Demands for Supply to not be rejected. So what does he do? He goes to a different Human, let's call her Eve, who does own the Supply Adam needs and asks for his Demands to not be rejected in the present. In effect, he would like his Demands to Connect with Eve's Supply. Eve's obviously isn't going to be too happy about this. Unless Adam and Eve have perfect cohesion and both truly believe in the idea then this a bad idea for Eve to do. Even in a pre-sin world Eve may not even think this to be a good idea. It's important to understand the world in this example has no industrialization. So for Adam to go upto Eve and say "hey, I have a crazy idea but I need your resources for it be fulfilled" Eve's gonna think Adam's lost his damn mind. So in a post-sin world it makes even less sense. As far as Eve is concerned Adam's gonna take the resouces and run off. 
 
-  Now Adam is pretty intelligent. He knows that Eve is never going to just let his Demand Connect with her Supply. So what does he do? He promises her an equal amount of Supply in the future. But that's not enough. Eve would be losing in this situation. How? Eve loses the ability to Connect with her own Supply during the time between Adam's Connecting in the present and Adam's repaying in the future. Eve doesn't like losing but she sees an opportunity. She offers the Supply in return for the same amount of Supply in the future and bit more. That bit more is the interest. Adam agrees, makes the engine, changes the world, gets rich, repays Eve, and Eve get's a tad bit richer. 
+  Now Adam is pretty intelligent. He knows that Eve is never going to just let his Demand Connect with her Supply. So what does he do? He promises her an equal amount of Supply in the future. But that's not enough. Eve would be losing in this situation. How? Eve loses the ability to Connect with her own Supply during the time between Adam's Connecting in the present and Adam's repaying in the future. Eve doesn't like losing but she sees an opportunity. She offers the Supply in return for the same amount of Supply in the future and bit more. That "bit more" is the interest. Adam agrees, makes the engine, changes the world, gets rich, repays Eve, and Eve get's a tad bit richer. 
 
-  Adam and Eve in the scenario above have just created debt. In this case the interest was a fixed amount of supply. However, in the real world, interest can come in different forms. You could have fixed or adjustable. Adjustable rate debts are what blew up the housing market and in turn the economy in 2008 for America. Now it's important to note that debt was created BEFORE money was created. In the real world the first debts were about agricultural product. Seeds were loaned and then repaid after a harvest. 
+  Adam and Eve in the scenario above have just created debt. In this case the interest was a fixed amount of supply. However, in the real world, interest can come in different forms. You could have fixed or adjustable.
+  
+  It's important to note that debt was created BEFORE money was created. In the real world the first debts were about agricultural product. Seeds were loaned and then repaid after a harvest. 
 
   ### Debt Bringing Demand Forward In Time
-  Again, why does debt even exist? Because people may need the ability to faciliate an S&D Connection when they don't own the neccesary Supply. Pre-sin no Demand was rejected it was simply filtered. Now Demand has to be rejected as a way of filtering.
+  Again, why does debt even exist? Because people may need the ability to faciliate an S&D Connection when they don't own the neccesary Supply. In pre-sin, no Demand was rejected it was simply filtered. Now Demand has to be rejected as a way of filtering. But this leads to a reduced amount of demand. We no longer are making S&D Connections that facilitate growth in the economy or growth for society. The level of aggregate S&D Connections is below what it was pre-sin. 
+  
+  Now to explain how debt affects demand I need to assert a fact that most of academic economics doesn't have (as far as I know). It is widely believed that that demand can not be manipulated. That on a certain level demand is static. I do not believe this to be the case, and to understand why we need to understand Demand, Supply, and S&D Connections pre and post sin.
+
+  Let's start with Demand. Pre-sin we see Demand filters itself. Post-sin Supply has to filter Demand. On top of this, we see that, at times, Demand can be created by Humans that do not maximize OUS for everyone. But a lot of this Demand can't be rejected bcause only the owner of the Supply can reject Demand. So if a Demand is created from a Human with the intention of Connecting with a Supply owned by the same Human than the Demand will not be rejected even if the possible S&D Connection is detrimental to either Humanity or even the Human. For example if someone owns herion and wants to do it it would be both detrimental to Humanity and themselves. They would immediately have a high which would give them quite a lot of Utility but would also immediately become addicted leaving both them and Humanity worse off. But the S&D Connection can't be stopped because the owner of the Supply is the same Human who made the Demand.
+
+  Next is Supply. Before Supply was owned by no one and everything was in the community chest. Now Supply is owned by someone. This means the owner of the supply can reject Demand while before no Demand was rejected.
+
+  Finally we have S&D Connections. Because now Demands can be made that are not OUS maximizing, Demands can connect with Supply based not on an objective OUS for any subject simply because of ownership of Supply, and the owners of Supply can now reject Demand we now a minimized amount of total S&D Connections that take place in any time frame. Whether you consider the "correct" time frame to be moments, days, months or years is irrelevant. On any time scale the total number of OUS maximizing S&D Connections will be lower. But this causes many issues mainly inefficiency. To deal with this problem we created debt. Debt allows for two parties-one who has Supply and one who has Demands for the Supply-to create an S&D Connection that benifits both. The Demanding party gets to Connect with Supply in the present and the Supplying party gets the same amount of Supply and more in the future. Again, the "more" is interest of the debt. Any Supply that the Demanding party creates past the initital Supply and the interest Supply is profit that the Demanding party gets to keep. The only caviet is that the Supplying party is taking on lots of risk. What happens if the demanding party can't pay back the loan? If this does happen the Supplying part has LOST Supply. And if the Supplying party loses Supply they will have lost a certain amount of the ability to create Utility for themselves. No one wants to lose Supply.
+
+  So we have a tool Humanity can use to facilitate S&D Connections in the present and a cost of risk. The Supplying party takes on the risk and because of this the Supplying party decides when the tool should be used. If the Supplying party believes that the debt will benifit the Supplying party alone then the debt will be created. The Supplying party does not care about the Demanding party. If the Demanding party creates no profit then the Supplying party does not care. If the Demanding party creates a lot of profit then the Supplying party does not care. The only possible outcome that the Supplying party does care about is if the Demaning party can not pay off the loan. In other words if the Demanding party uses the Supply but does not create enough Supply to pay back the loan.
+
+  Now I just gave an overview of debt again. Did you notice the temporal part?
+
+  Before the loan is created there is no S&D Connection. The Demanding party wants to create Demand that Connect with Supply they do not own. And Supplying party wants to hold their Supply simply because it allows for themselves to Connect whenever they want. But after the loan takes place there are S&D Connections. The Demanding party gets the Connection they want and the Supplying party loses their Supply with the promise of more supply in the future. 
+
+  Did you notice the temporal part?
+
+  When the loan is created there are S&D Connections with the hope of more S&D Connections being available in the future. In this way, we are bringing S&D Connections forward in time. Before the Supplying party would have kept their Supply to themselves simply because this means the Supplying party would be allowed to Connect with the Supply when ever they deemed it correct to do so. Now the Demaning Party does connect and there is a promise of more Supply in the future.
+
+  Very important to understand. We are bringing S&D Connections forward in time with debt with the assumption that these S&D Connections will allow for more S&D Connections in the future.
 
   ### Types of Debt
-  * Talk about default risk!
+  It's important to understand the types of Debt and the terms involved. I generally see a classification system for debt which has four types. There is productive and unproductive; and there is toxic and non toxic. I think this classification system is a pretty good way to classify debt and so I am going to explain the four types. I will also talk about how the four types show up in the model.
+
+  But first the classification system. And to start we are going to talk about productive and unproductive debt. Productive debt is debt that produced something. So for example if you took out a loan to build a steel beam factory that would be productive debt. Unproductive debt, or sometimes called consumer debt, is debt that doesn't product anything. So for example if you took out a loan to buy a hotdog that would be unproductive debt (or consumer debt). 
+
+  The other bifurcation in debt is toxic vs non-toxic. Toxic debt is debt that is not paid off fully. On the flip side any debt that is paid off fully is considered non-toxic debt.
+
+  We can combine the two bifurcations together and create a (sort of) punnet square to classify debt.
+
+  Debt exists in one of these four categories:
+  
+                |Toxic | Non-Toxic
+  --------------------------------
+  Productive    |PxT   | PxNT
+  Unproductive  |UPxT  | UPxNT
+
+  Let's look at each category. 
+  
+  Right off the bat we can make an assertion about UPxT. UPxT is the worst kind of debt. This is debt that was inheriently consumption and it was consuption that had no chance of being paid off. 
+  
+  UPxNT is a little bit better. This debt is debt that did get paid off but it was still just consumption. There was no gain to Humanity as a whole, but both parties are better off. The Demanding party got to Connect with Supply and the Supplying party got their interest. Here the Demaning party wanted Utility more than they wanted Supply. 
+
+  PxNT is the best kind of debt. This is debt that benefited everyone involved. Not only did the debt help the Demanding party and the Supplying party but because this debt was productive it produced something! Humanity as a whole now has a factory, mine, farm, etc. 
+
+  PxT is tricky however: no clear assertion can be made about this kind of debt. This is debt that went to producing something but couldn't be paid back. However, just because the debt is toxic doesn't mean the debt is bad. This debt can be great for Humanity but just fail to be paid back. For example if a loan is created to allow a company to research and develop a next generation computer but fails to be paid back it isn't neccesarily bad. The company could have discovered or invented processes, functions, or analytical viewpoints that are incredibly valuable to Humanity but just arn't profitable. Again, Steve Jobs and his mac are perfect example here. Even if the first mac wasn't profitable it was still a good idea for it to be funded. It revolutionized the world with how accessable the computer was for everyone. PxT debt is actually the second best debt Humanity can create!
+
+  If I was going to rank the debt types in order of best to worst in regards to Humanity I would rank them as such. PxNT, PxT, UPxT, and UPxNT. There is a tie for the fourth and third which depends on how much of the initially loaned Supply was Connected with. The less Supply Connected with the better. Because the debt is UP any Supply Connected with is "wasted" Supply in the eyes of Humanity. This Supply was Connected with simply for Utility (for pleasure).
+
+  Now let's connect this to the model.
+
+  We already have the toxic and non-toxic split as that is about whether the loan was paid off or not. So if the loan is defaulted on then the loan is toxic otherwise the loan is non-toxic.
+
+  The productive-unproductive split is not inheirently in the model but can be easily incorporated. In regards to the Model there exists Demand and Supply which Connect in the from of an S&D Connection. And the concept that can be worked with to create the productive-unproductive split is Value. The dread Value has shown up again.
+
+  When any S&D Connection takes place there are changes to all Humans and all Supplies that are affected. Again this changes Value but who knows what the before or after looked in like or even what the change was. Value is unknowable; a blackhole. Don't try to peer into it or you'll get lost forever. But the productive-unproductive split is defined though so that leaves us in the dark. But we can incorporate it! If the S&D Connection added to Value (in what ever way you defined) then the S&D Connection is a "productive" S&D Connection. If the S&D Connection lost Value (again in what ever way you define) then the S&D Connection is a "unproductive Connection". 
+  
+  So for example: if you ate a hotdog which allowed you to live long enough to invent a perpetual motion machine then the S&D Connection of eating the hotdog was a "productive" S&D Connection as it added Value. But if you ate the hotdog, threw it 5 minutes later, and didn't invent the machine, then the S&D Connection of eating the hotdog was "unproductive". But if you ate, threw up, and invented the machine then it was "productive". But even in this example it matters what you define as Valuable. Maybe value is defined by how much puke an S&D Connection creates in which case only the first example of eating and simply inventing would be viewed as "productive".
+
+  In any case we can not definitively define an S&D Connection as "productive" or "unproductive" but we can say that given a definition for Value that all S&D Connections can be defined "productive" or "unproductive" based on the value definition. This may seem useless but given a widely accepted value function we can glean information about the real world.
+
+  As of right now debt is between two parties with an agreement on a specific supply (usually seeds). But the important part is that the Demanding party can not get a loan of a Supply that the Supply party does not own. So for instance if the Demanding party wants a nuclear reactor but the Supply party doesn't have a nuclear reactor then the loan can not be created. The Demanding party can only demand what the Supply party has.
 
 ## Money
   ### Barter
@@ -552,6 +613,11 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
 
 
+  
+
+
+
+
 # STICKY NOTES
 ### Schizo One Liners:
 * God is giving you one chance at cleansing your infinite state. Do you feel the chance slipping between your fingers as every momeny passes?
@@ -560,6 +626,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   * Why did Trump have a failed Insurrection just like Hitler?
     * Learn more about Napolean. Did he also have this?
 * The filter set up by the fake post WW-2 top-secret governments are amazing at catching information. I really bet that there is an at minimum 1/10th of science made secret to us.
+* Death is a gift from God. Living forever would be hell.
 
 ### WW3 One Liners:
 * Russia and China won't let you have a democratic republic anymore. They want you to choose a democracy or a republic. Unfortunetly both of these infinitely worse than the 
@@ -569,7 +636,8 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
 
 ### Econ One Liners:
-GDP is how much Supply was exchanged in a year in terms of ASV.
+* Pre-Sin there are two time frames to view economics. Short-term which is intra moment; and long-term which is at infinity. No other time frame inbetween matters.
+* GDP is how much Supply was exchanged in a year in terms of ASV.
 
 
 
@@ -602,10 +670,6 @@ It's a good idea to explain the model very abstractly at the start but to be rea
 
 ### Naming The 100-Year Crash
 No one even talks the 100-year cycle. The 7-year cycle is barely talked about and very much not understood. So I've never even seen this idea discused before. Ray Dalio is only person I've seen name it. It unreal to the world that 2008 should have been a of 1929 but wasn't. They don't understand what actually happened. People have never even seen the idea of a micro-boom before. To say that economy is on life support by the government in order to keep the economy alive is unreal. And to say the last 15 years were fake is going to be even harder to take in. But this envelouping cycle can only delayed never avoided. In this way the 100-year Crash has only happened twice! Napolean and Hitler
-
-
-
-### The Sociological Side Of A 100-Year Crash
 
 
 ### Explain Then Define
@@ -660,6 +724,3 @@ BMR steps
 3. Bears must get checked again
 4. Bulls believe they are unstoppable
 5. Bulls lose and the BMR fails. A drop occurs.
-
-### Two Waters Glasses One Wine Glass
-Having Two Water Glasses and One Wine Glasss is Goated. Absolutely Goated. Oh Yeah!
