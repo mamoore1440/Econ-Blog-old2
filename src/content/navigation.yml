@@ -1,0 +1,27 @@
+navbar:
+  signatureNavItem: 
+    title: 'Example Website'
+    href: '/'
+  navItems: 
+    - title: 'Blog'
+      href: '/blog'
+    - title: 'Schizo'
+      href: '/schizo'
+    - title: 'Notes'
+      href: '/notes'
+    - title: 'The "Book"'
+      href: '/notes/hmt'
+footer:
+  navItems: 
+    - title: 'Blog'
+      href: '/blog'
+    - title: 'Schizo'
+      href: '/schizo'
+    - title: 'Notes'
+      href: '/notes'
+    - title: 'The "Book"'
+      href: '/notes/hmt'
+  imageNavItems:
+    youtubeUrl: 'https://youtube.com'
+    githubUrl: 'https://github.com/cal-overflow/portfolio'
+

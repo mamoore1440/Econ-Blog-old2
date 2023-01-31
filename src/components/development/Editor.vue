@@ -73,7 +73,7 @@
           <div class="w-full lg:w-1/2 m-2">
             <label for="img">Feature Image</label>
             <br />
-            <small class="text-xs text-extra-gray-dark dark:text-extra-gray-light">Image located at: <code>src/assets/images/feature/</code></small>
+            <small class="text-xs text-extra-gray-dark dark:text-extra-gray-light">Located in the same folder as the post</small>
             <br />
             <input
               v-model="post.data.img"
@@ -136,6 +136,11 @@ export default {
     post: undefined,
     isInComposition: false,
   }),
+  computed: {
+    currentRoute() {
+      return this.$route.fullPath;
+    },
+  },
   watch: {
     value() {
       this.isEditingEnabled = !(this.$parent.$attrs.editable === false);
@@ -143,7 +148,8 @@ export default {
       if (this.isEditingEnabled) {
         this.file = this.value;
         this.originalFileObj = matter(this.file);
-        const isPost = this.$nuxt.$route.path === `/post/${this.originalFileObj.data.slug}`;
+        // TODO - make this work
+        const isPost = this.$nuxt.$route.path === `/blog/${this.originalFileObj.data.slug}`;
   
         if (isPost) {
           this.post = {
@@ -249,7 +255,7 @@ export default {
       this.$parent.$emit('endEdit');
 
       if (this.post && this.post.data.slug !== this.originalFileObj.data.slug) {
-        const path = `/post/${this.slug}`;
+        const path = `/blog/${this.slug}`;
 
         this.$nuxt.error({
           statusCode: 303,
