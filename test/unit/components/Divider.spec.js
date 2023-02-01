@@ -1,6 +1,6 @@
 import { mount } from '@vue/test-utils';
 import Chance from 'chance';
-import Divider from '@/components/Divider.vue';
+import Divider from '@/components/helpers/Divider.vue';
 
 const chance = new Chance();
 
@@ -25,7 +25,7 @@ describe('Divider component', () => {
   });
 
   it('correctly passes the width from props', () => {
-    const fakeWidth = `w-1/${2 * chance.integer({min: 1, max: 4})}`;
+    const fakeWidth = `w-1/${2 * chance.integer({ min: 1, max: 4 })}`;
 
     wrapper= mount(Divider, {
       propsData: {

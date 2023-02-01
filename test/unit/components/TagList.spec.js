@@ -1,7 +1,7 @@
 import { mount } from '@vue/test-utils';
 import Chance from 'chance';
 import generateTag from '../../helpers/tagGenerator';
-import TagList from '@/components/TagList.vue';
+import TagList from '@/components/navigation/TagList.vue';
 
 const chance = new Chance();
 const tagLimit = 10;
@@ -52,7 +52,7 @@ describe('TagList component', () => {
 
   it('Renders each NavItem component with the correct href', () => {
     fakeTags.forEach((tag) => {
-      expect(wrapper.findComponent({ ref: tag.slug }).attributes('href')).toEqual(`/tags//${tag.slug}`);
+      expect(wrapper.findComponent({ ref: tag.slug }).attributes('href')).toEqual(`/tags/${tag.slug}`);
     });
   });
 });

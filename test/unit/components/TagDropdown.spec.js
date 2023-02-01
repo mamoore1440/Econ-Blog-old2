@@ -1,39 +1,38 @@
 import { shallowMount } from '@vue/test-utils';
 import Chance from 'chance';
-// import NavItem from '@/components/NavItem.vue';
-import TagDropdown from '@/components/TagDropdown.vue';
-import TagList from '@/components/TagList.vue';
+import NavItem from '@/components/navigation/NavItem.vue';
+import TagDropdown from '@/components/navigation/TagDropdown.vue';
+import TagList from '@/components/navigation/TagList.vue';
 
 const chance = new Chance();
 
 describe('TagDropdown component', () => {
-  // let navItems, wrapper;
-  let wrapper;
+  let navItems, wrapper;
 
   beforeEach(() => {
     wrapper = shallowMount(TagDropdown);
-    // navItems = wrapper.findAllComponents(NavItem);
+    navItems = wrapper.findAllComponents(NavItem);
   });
 
   it('is a Vue instance', () => {
     expect(wrapper.vm).toBeTruthy();
   });
 
-  // it('correctly renders the NavItem for the "Tags" dropdown', () => {
-  //   const navItem = navItems.filter((el) => el.text().includes('Tags')).at(0);
+  it('correctly renders the NavItem for the "Tags" dropdown', () => {
+    const navItem = navItems.filter((el) => el.text().includes('Tags')).at(0);
 
-  //   expect(navItem.exists()).toBeTruthy();
-  //   expect(navItem.props('href')).toEqual('/tags');
-  //   expect(navItem.props('active')).not.toBeTruthy();
-  // });
+    expect(navItem.exists()).toBeTruthy();
+    expect(navItem.props('href')).toEqual('/tags');
+    expect(navItem.props('active')).not.toBeTruthy();
+  });
 
-  // it('renders the navItem as active given the currentPage is "Tags"', () => {
-  //   wrapper = shallowMount(TagDropdown, {propsData: { currentPage: 'Tags' }});
-  //   navItems = wrapper.findAllComponents(NavItem);
+  it('renders the navItem as active given the currentPage is "Tags"', () => {
+    wrapper = shallowMount(TagDropdown, { propsData: { currentPage: 'Tags' } });
+    navItems = wrapper.findAllComponents(NavItem);
 
-  //   const navItem = navItems.filter((el) => el.text().includes('Tags')).at(0);
-  //   expect(navItem.props('active')).toBeTruthy();
-  // });
+    const navItem = navItems.filter((el) => el.text().includes('Tags')).at(0);
+    expect(navItem.props('active')).toBeTruthy();
+  });
 
   it('renders the TagList component (and is invisible by default)', () => {
     expect(wrapper.findComponent(TagList).exists()).toBeTruthy();
@@ -45,7 +44,7 @@ describe('TagDropdown component', () => {
 
   it('TagList component is rendered with correct currentPage prop', () => {
     const fakeCurrentPage = chance.string();
-    wrapper = shallowMount(TagDropdown, {propsData: { currentPage: fakeCurrentPage }});
+    wrapper = shallowMount(TagDropdown, { propsData: { currentPage: fakeCurrentPage } });
     expect(wrapper.findComponent(TagList).props('currentPage')).toEqual(fakeCurrentPage);
   });
 

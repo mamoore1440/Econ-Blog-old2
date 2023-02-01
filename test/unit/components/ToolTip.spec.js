@@ -1,6 +1,6 @@
 import { mount } from '@vue/test-utils';
 import Chance from 'chance';
-import ToolTip from '@/components/ToolTip.vue';
+import ToolTip from '@/components/helpers/ToolTip.vue';
 
 const chance = new Chance();
 
@@ -8,8 +8,8 @@ describe('ToolTip component', () => {
   let wrapper, fakeText, fakeMaxLength;
 
   beforeEach(() => {
-    fakeMaxLength = chance.integer({ min: 50, max: 70});
-    fakeText = chance.string({length: (fakeMaxLength + 10)});
+    fakeMaxLength = chance.integer({ min: 50, max: 70 });
+    fakeText = chance.string({ length: (fakeMaxLength + 10) });
 
     wrapper = mount(ToolTip, {
       propsData: {
