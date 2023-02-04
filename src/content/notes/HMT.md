@@ -175,6 +175,27 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   In sum, the S&DF is not a physical field. You can not point any of the three: Supply, Demand, or the Field itself. The S&DF is simply a way of visualizing how Supply and Demand interact or connect. From this visualization we can see how Humans and Matter affect each other over time.
 
+## Intricacies Of The Model
+
+### TFP
+  Humans are curious creatures. We like to solve problems and engineer solutions. We are not happy with being complacent and to explore and learn. This drive that exists in all Humans is the drive that pushes us forward. Specifically forward through knowledge and by the definiton of knowledge it pushes us through technology. Technology is ever expanding, ever encompassing, and undestroyable. Once the cat is out of the bag in regards to a specific technology it is really hard to put the cat back it. 
+
+  In academic economics this technological progress is widely considered as the variable TFP. At times in academics when working with a specific equation, wether it be labor output, capital output, national output, etc, you may see TFP being assigned the letter 'A'. This variable 'A' simply represents technological progress. 
+
+  TFP is not a variable in the model, but it is inheirent in the model. As time increases so to will technological understanding. As technological understanding increases so to will a Human's ability to manipulate Matter increase. This is TFP; Human's ability to manipulate Matter the way we want to. They will be able to create things that earlier they didn't know were possible. 
+  
+  For example when Humans started understanding the steam engine for the first time we were now able to create factories. This was a main precursor for the industrial revolution and thus allowed people to live better lives. 
+  
+  TFP advancement let us have phones in our pocket. It let us have laptops and computer, rockets and battleships, tanks and satellites, and even steel or silicon chips. TFP affects everyone. The only reason we live so well in the 21st century compared to the 4th century is TFP advancement.
+
+  In sum TFP is simply technology. As time moves forward TFP so to will TFP and thus a Human's ability to manipulate Matter the way the want.
+
+### The Frame of Reference Is Ambiguous 
+  Because the model is so abstract we can now ignore the intricacies of scale. If you want to say a factory is a Supply you can do so even if you are ignoring the fact that factories are made of smaller components like machinery. Humans will interact with the factory the same way they interact with a phone: through S&D Connections. It doesn't matter that the interaction actually took place in a small way or that the interaction didn't fundamentally change the Supply. The scale or frame of reference is whatever you say it should be. If you want to look the the molecular level then so be it. If you want to look at the building level then so be it. What ever you want the frame of reference to be you can make it that. 
+
+  This is also applicable to Time and Demand (Humans). All three components of the model do not have an inheirent scale. Thus the frame of reference can be what ever you want!
+
+
 ## A Quick Overview Of The Model
   There are two main parts to the model so far. There is Matter and Humans, and there is the S&DF. The physical and the non physical.
     
@@ -428,7 +449,6 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   Both of these flaws would have to be taken into account. Fow now, the Value of each S&D Connection would be the ability to facilitate more S&D Connections in the future with time, OUS, and SUS taken into account.
 
-
 ## Final overview
   This is a utopian society. Every Human acts with every Humans interests in Mind. There are no S&D Connections that are made with the intent of putting on Human's preferences or Internal Utility above the whole of Humanity. This could happen on accident but no Human will actively do it. There is human error and thus nothing runs at pareto efficiency. 
 
@@ -542,7 +562,8 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   In any case we can not definitively define an S&D Connection as "productive" or "unproductive" but we can say that given a definition for Value that all S&D Connections can be defined "productive" or "unproductive" based on the value definition. This may seem useless but given a widely accepted value function we can glean information about the real world.
 
-  As of right now debt is between two parties with an agreement on a specific supply (usually seeds). But the important part is that the Demanding party can not get a loan of a Supply that the Supply party does not own. So for instance if the Demanding party wants a nuclear reactor but the Supply party doesn't have a nuclear reactor then the loan can not be created. The Demanding party can only demand what the Supply party has.
+  ### Debt Overview
+  As of right now debt is between two parties with an agreement on a specific supply (usually seeds). But the important part is that the Demanding party can not get a loan of a Supply that the Supply party does not own. So for instance if the Demanding party wants a nuclear reactor but the Supply party doesn't have a nuclear reactor then the loan can not be created. The Demanding party can only demand what the Supply party has. After Money is introduced we will look at debt again as this facit no longer exists with debt.
 
 ## Money
   ### Barter
@@ -587,7 +608,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   The first major example of gold not being accepted as an actual ASV was Mansa Musa's story. As the king of Mali he was extremely rich and had lots of gold. When he went to Cairo he brought the large amounts of gold with him. He spent and gave away so much gold that the SV of gold in cairo eroded to an extreme degree. To Mansa gold had no value; the SV of gold was nill for Mansa. However, in Cairo, the belief was the opposite; they loved gold. And so Mansa traded gold for lots of various Supply. This caused inflation in cairo and helped cement Mansa in history. Did Mansa have the correct view on gold? Was the actual of gold nill like his SV on it? Or was Cairo correct and gold was extremely valuable?
 
-  The second major example is about native americans and the colonizers in the new world. In the genisis of this colonial expansion people who migrated from Europe to America were in search of silver and gold. Now the native americans had silver and gold but didn't have certain Supply that Europe had simply because Europe was more technologically advanced.Native americans had silver and gold which they didn't care about and Europe had Supply like beads which they didn't care about. So what did they do with each other? Well mainly they killed each other. But there was some trading that took place. Europeans traded beads and other Supply to native americans in exchange for silver and gold. Native americans did not hold the belief that silver and gold was an ASV but the europeans did. Because of this a trade took place and both viewed themselves as better off. SV held by both parties rose in thier own minds. 
+  The second major example is about native americans and the colonizers in the new world. In the genisis of this colonial expansion people who migrated from Europe to America were in search of silver and gold. Now the native americans had silver and gold but didn't have certain Supply that Europe had simply because Europe was more technologically advanced. Native americans had silver and gold which they didn't care about and Europe had Supply like beads which they didn't care about. So what did they do with each other? Well mainly they killed each other. But there was some trading that took place. Europeans traded beads and other Supply to native americans in exchange for silver and gold. Native americans did not hold the belief that silver and gold was an ASV but the europeans did. Because of this a trade took place and both viewed themselves as better off. SV held by both parties rose in thier own minds. 
 
   But overall silver and gold are two most commonly used and believed in ASVs. This believe is still very strong. So strong in fact that JFK wanted to eliminate the banking system at the time he was president and implement bimetallism in America. He wanted both gold and silver to be used not just gold. Later he was assissinated and the plan for bimetallism fell through. The rallying cry of bimetal commodity money however did not die. Some poeple today still want gold and silver to be the most widely used ASV. 
 
@@ -619,9 +640,74 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   ### Fiat Money
   Fiat money is the money the majority of use. The U.S. Dollar, Euro, Yuan, Ruble, etc are all Fiat Currencies. It is the money the modern world runs on. But what is fiat money?
 
-  Fiat money is just what ever the state decides is money. Fiat literally means "Let it be done" in latin. The state is just assigning a Supply the role of ASV. Nothing more. If the state decided that sticks are the ASV then then the sticks would be fiat money. There isn't much more to it. In America the money is paper in the shape of a rectangle with metal circles for coins. In Canada the money is plastic in the shape of a rectange with metal coins to. The metal coins are usually not gold or silver but instead zinc or some other metal. Certainly not gold or silver as there are people who subjectively value gold and silver rather highly still.
+  Fiat money is just what ever the state decides is money. Fiat literally means "Let it be done" in latin. The state is just assigning a Supply the role of ASV. Nothing more. If the state decided that sticks are the ASV then then the sticks would be fiat money. There isn't much more to it. In America the money is paper in the shape of a rectangle with metal circles for coins. In Canada the money is plastic in the shape of a rectange with metal coins too. The metal coins are usually not gold or silver but instead zinc or some other metal. Certainly not gold or silver as there are people who subjectively value gold and silver rather highly still and at this point in history TFP has advanced enough for gold and silver to have industrial uses. Gold and silver are both used in electronics to varying degrees.
 
-  Why does this ideology for the ASV hold then? For well over two millenium the ideology of gold and silver being _thee_ ASV held. Why all of the sudden is the majority of the world using a Supply as ASV which quite obviously has no value? Well there are some benefits to fiat that don't exist with gold and silver. 
+  Why does this ideology for the ASV hold then? For well over two millenium the ideology of gold and silver being _thee_ ASV held. Why all of the sudden is the majority of the world using a Supply as ASV which quite obviously has no value? Well there are some benefits to fiat that don't exist with commodity money. Mainly the money supply is now flexible. Before when we were on the gold standard the money supply would only increase if more gold and silver were found. Now with Fiat Money the money supply can be increased or decreased depending on the wants of everyone in the economy*. 
+  
+  * Now in the real world no is asked the people's thoughts on changing the money supply. Central banks which are lead by unelected officials change the money supply usually without regard to everyone's standing. They will say they are doing the right thing but usually they are lying. 
+
+  This allows the central authority (who ever that may be) to pull the levers of economics in favor of everyone in the nation. If the money supply needs to be increased then they can increase it. If the money supply needs to be decreased they can decrease it. 
+
+  This does however change the ideological aspect of ASV. Before ASV was whatever people decided it was. Now there is a central authority which is saying a Supply is now ASV. This causes one more change. Now a Human's belief that a certain Supply can fill the role of ASV is now also tied to the belief, hope, or cohesion in the government. But it is important to note that just because someone loses faith in their government that doesn't mean they will lose faith in the Supply's ability to fulfill the role of ASV. On the other hand however, if people in a nation now believe that the government can no longer maintain the central authority role successfully then faith in the ASV will deteriorate also. Faith in the ASV is now tied directly to faith in government's ability to maintain the role of central authority. This is a small change but it has drastic affects in crucial moments of history.
+
+  There is also a matter of scarcity to talk about. With commodity money the scarcity element caused the money supply to be relatively static. This add it's positives and negatives. With fiat money the state now control money supply. Scarcity can be usurped and the money supply can now be engineered. However this has a draw back. The money supply can be engineered to expand and to contract at extremes. The state can create the designates Supply to an extreme level to cause hyperinflation. With commodity money hyperinflation was never possible. Now, with fiat, the state can create a near infinite amount of the designated Supply making the Supply worthless when compared to other supplies, but still be used as the ASV because the central authority designates the Supply as so. Before in commodity money, for hyperinflation to occur the commodity had to be either easily created or easily found. Gold and Silver was not easily created. Even in today's world it is extremely expensive. Gold and Silver were also not easily found. It requires finding, mining, and refining the metal which requires time, effort, luck, and other resources (other Supplies). Sometimes finding, mining, and refining wasn't even profitable; TFP had to advance for it be profitable. Fiat doesn't have this problem. We print it. It's cost essentially nothing to print the piece of paper designated as ASV.
+
+  ### EMoney
+  The next evolution of money takes fiat and puts it online. Going from Fiat to EMoney will be the same change as going from Commodity to Representative Commodity but in this case we go online using electricity as our way of representing ownership. Instead of holding fiat we want to deal with a debit card, credit card, online certificate, etc. This runs into a problem of ownership the same way representative commodity money ran into its ownership problem. Here the solution is to store money at an institution and have them assign your online presence as having money. This way when you pay online using whatever online based payment method you want there is still confirmation of funds. In an attempt to improve ASV to be more easily usable we run into a couple of problems.
+
+  The first problem is that confirmation of funds which was already briefly talked about. The solution for this problem is inherient in the problem itself. For the first time we didn't even add a half-solution. We added a half-solution that is built upon a problem framework. Nevertheless Humanity pushes forward. Confirmation of funds in the modern world is the resposibility of the institution providing proof of ownership. These institutions are regularly checked by the government in the form of audits. However this again is only a half solution. What happens if the government sweeps a problem under the rug? What happens if they change ownership of ASV online?
+
+  The second problem is about whether or not both the ASV itself and ownership of ASV is truly represented in the online framework. What happens if the government, who runs the framework, decides to give someone $100 but solely online. In this case the $100 was not part of the real world in the first place but is now represented online. On top of this the accredited individual has the ability to take out the $100 and get fiat from a bank or ATM. The problem being this was never his Supply to begin with. He gains ownership of a real world Supply based on an electronic ownership that was simply created. Another questions is what happens if no one has faith in the online existance but believes in the real world? In these ways we can see ASV in the real world and ASV online are two seperate existances with seperate ideologies of ability to fulfill the role of ASV. This is very important and we will touch on this later. 
+
+  There is also a problem of money supply creation. In commodity money gold and silver (or whatever commodity is ASV) had to be found, mined, and refined to for the money supply to increase. In fiat for the money supply to increase the physical Supply had to be created. Again in fiat this was extremely cheap and could lead to hyperinflation. But in EMoney money creation takes literally no physical Supply or time. EMoney creation is as easy as updating a variable in a computer. To see how easy this is you could create a simple js script like the one below.
+
+  MoneySupply = 1000;
+  Console.log(MoneySupply);   // Will print the money supply which is 1000
+  MoneySupply = MoneySupply + 100000000000;
+  Console.log(MoneySupply);   // Will print the money supply which is 100000001000
+
+  It is literaly this easy to change the money supply in EMoney. Anyone who doubts this should watch interviews of the fed chairs during the Covid-19 times. They will very clearly state that money supply creation is brain dead simple and there is no limit to their ability to do so.
+
+  Nevertheless Humanity persists and now we have fiat in the form of EMoney.
+
+  ### Crypto
+  Crypto seems to be the final solution for ASV. This is a form of ASV where every attribute of money is now decided by code. And with code there is never a case of code going angainst what it was programmed to do. Before in Fiat and EMoney there were issues with the government not doing both what they said they would do or even what they should do. Code does not have free will and thus will be deterministic. Governments and institutions were not beholdant to what they say or what they should do. Code is. If code says it will create a Supply in a certain way then it will. This is a REALLY big calling card for crypto. Code is deterministic and can be programmed. Attributes like money supply and ownership certification are programed. No longer are you required to be beholdant to the government.
+
+  As with all other forms of ASV Humanity still has a problem of ideology. If no one believes the specific supply can fulfill the role of ASV then the supply will lose the role of ASV. Fiat was able to usurp this by tying ideology to the state. Crypo is decentralized (usually) and thus can not tie the ideological role of ASV to the ideological role of government. Again, this is usually a calling card for crypto and is seen as a positive. Objectively this is a positive and a negative, but because the government leans to abusing power at any opportunity it is mostly a positive.
+
+  ### Money in general
+  With the creation of crypto money seems to have evolved to its final state. The evolution went barter (no money) -> commodity -> representative commodity -> fiat -> EMoney -> Crypto. 
+
+  Money exists in the model as ASV and there are three actions you can take with ASV.
+
+  1. TODO
+  2. TODO
+  3. TODO
+
+  The creation of ASV and assigning of a Supply to fill that role allows for more S&D Connections in any momemnt in time along with a more efficient ownership of Supply change. The creation of ASV also does one more thing. Debt in the model is now slightly changed.
+
+  ### Debt With Money
+  Earlier, when money did not exist, debt was a contract between a demanding and supplying party about a specific Supply the Supplying party had.
+  
+  Now we have to split between Supply specific debt and Money based debt. Literally all debt created today is Money based debt. The only time you will encounter Supply specific debt is on minute and irrelavent instances. Like for example you borrow a pen from you friend and give it back two seconds later (no interest debt). Or you borrow a ladder from you neighbor and hand them a dozen eggs as thanks (12 eggs as interest). All financial debt today is Money based debt. This is great and awful.
+
+  Supply specific debt pulls Supply specific S&D Connections forward in time.
+  Money based debt pulls abstract demand forward in time.
+
+## Financial Institutions
+  The evolution of financial institutions needs to be talked about. Financial institutions are instutions that deal solely with Money and Debt. They don't care about other's Supply or their own. They solely want to manage Money and Debt in an attempt to gain SV whether that be ASV or Supply. These are institutions that don't care about Value. They play the Money game and only care about SV.
+
+  The very first financial institution is an individual Human. When two Humans create debt they are acting as financial institutions. 
+
+  Evolution of financial institutions went Human -> 
+
+
+
+
+
+
+
+
   
 
 
@@ -635,23 +721,54 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 # STICKY NOTES
 ### Schizo One Liners:
 * God is giving you one chance at cleansing your infinite state. Do you feel the chance slipping between your fingers as every momeny passes?
+* Death is a gift from God. Living forever would be hell.
+* The angels are like god's rumbas and alexas. The are meant to do tasks but are also given a spirit.
+
+
+* God wasn't able to split reality into good and evil before sin. He didn't even want to. 
+  * Lucifer created Sin and thus allowed for the split to take place.
+  * God is good and thus the split is good.
+  * Humans are the on the lowest rung of the plato forms pyramid. Only in the thrird dimension could sin actually take place.
+
 * You can see the Devil appointing the next horn based on the way the occult move. 
   * Why did Trump and The Israeli Prime Minister go to the same private college?
   * Why did Trump have a failed Insurrection just like Hitler?
     * Learn more about Napolean. Did he also have this?
-* The filter set up by the fake post WW-2 top-secret governments are amazing at catching information. I really bet that there is an at minimum 1/10th of science made secret to us.
-* Death is a gift from God. Living forever would be hell.
+
+* Federalism vs Confederalism (wealth) : redistribution vs entrenchment (wealth) are the same. Who should decide where the line is? Only God can do that
+  * God is Good => The Good line will be drawn.
+  * Creating an A.I. to draw the line is a REALLY REALLY REALLY good idea. It just doesn't work.
+    * I really bet you could get 10T years of dopamine easy. For those that think they could get 10TTT years. I really do believe you; I bet you could. But the problem is it doesn't work at infinity.
+
+### Sociolical One Lines:
+* Humanity inheirantly has a flaw at infinity. When we divide truth and emotion up subjectively we exclude people based on the difference between an individual's viewpoint and a the viewpoint of Humanities (or Societies). 
+  * This causes cohesion to drop to 0 at infinity.
+  * This is what causes heartbreaks, emotional breakdowns, etc.
+* Moral relativism is Humans drawing the line. But Humans suck at drawing the line only God can do that.
+  * You draw a line everywhere; even with yourself. Eventually a infinity you'll to die in relation to yourself.
 
 ### WW3 One Liners:
 * Russia and China won't let you have a democratic republic anymore. They want you to choose a democracy or a republic. Unfortunetly both of these infinitely worse than the 
   combination. But still, all three fail at infinity.
   * Liberalism is inheriently against hard line rules. Hard line rules are necessary for cohesion to last long term. But Conservatives are for hard line rules that are just bad. This 
     is why the two party system doesn't work. It's easy to cut in half through the middle.
-
+* The filter set up by the fake post WW-2 top-secret governments are amazing at catching information. I really bet that there is an at minimum 1/10th of science made secret to us.
+* They are trying to create a perpetual motion machine with the economy. What they are actually building is a nuke.
 
 ### Econ One Liners:
 * Pre-Sin there are two time frames to view economics. Short-term which is intra moment; and long-term which is at infinity. No other time frame inbetween matters.
 * GDP is how much Supply was exchanged in a year in terms of ASV.
+* We've been wasting production since the 80's. There was no point in keep the work week at 40hrs. It should have been dropping steadily since.
+
+
+### Need To Talk:
+* Another benefit to the model's abstractness is that you can view real world events through the model and gain insight. Academics lovs criticing media through different lenses. Little Woman through a Marxist lens; Economics through a Keynsian lens, Austrian, or Chicagoian lens. This is another lens you can view reality through.
+
+* Each level of the chess games
+  * Nations against each other (WW3), White Vs. Black hat (The devil's internal game), The true theological game (Lucifer vs. God)
+  * Who plays each level?
+  * What does winning and losing look like?
+  * Why does this level exist?
 
 
 
@@ -666,7 +783,7 @@ Boomers were _greedy_. They knew what game they were playing and the earth still
 
 
 ### Have To Explain The Model at Times.
-It's a good idea to explain the model very abstractly at the start but to be real world with it at the end it should be like reading a brief history book. When the model needs to be brought it then do it. When explaining these Ideas you will have explain why they happened with model.
+It's a good idea to explain the model very abstractly at the start but to be real world with it at the end. It should be like reading a brief history book. When the model needs to be brought in then do it. When explaining these Ideas you will have explain why they happened with the model.
 * "Lowering The Rate"
   * Government is saying "Don't worry the future is good", and _you believed them_.
   * This allows more debt which brings more demand forward which which causes more boom.
@@ -686,8 +803,8 @@ It's a good idea to explain the model very abstractly at the start but to be rea
 No one even talks the 100-year cycle. The 7-year cycle is barely talked about and very much not understood. So I've never even seen this idea discused before. Ray Dalio is only person I've seen name it. It unreal to the world that 2008 should have been a of 1929 but wasn't. They don't understand what actually happened. People have never even seen the idea of a micro-boom before. To say that economy is on life support by the government in order to keep the economy alive is unreal. And to say the last 15 years were fake is going to be even harder to take in. But this envelouping cycle can only delayed never avoided. In this way the 100-year Crash has only happened twice! Napolean and Hitler
 
 
-### Explain Then Define
-You should explain a concept, process, or evolution then go back and define it
+### I'm an extreme outlier
+To see this issue I had to be Gen Z (economic generation issue, and ability to parse information like no tomorrow issue), have ADHD, have aspergers, be "highly intelligent", AND constantly doubt myself.
 
 ### Debt And Cycles
 Debt existing and Humans being imperfect => 7-year debt cycle exists
