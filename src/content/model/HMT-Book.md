@@ -689,6 +689,8 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   As with all other forms of ASV Humanity still has a problem of ideology. If no one believes the specific supply can fulfill the role of ASV then the supply will lose the role of ASV. Fiat was able to usurp this by tying ideology to the state. Crypo is decentralized (usually) and thus can not tie the ideological role of ASV to the ideological role of government. Again, this is usually a calling card for crypto and is seen as a positive. Objectively this is a positive and a negative, but because the government leans to abusing power at any opportunity it is mostly a positive.
 
+  Bitcoins was perfectly designed to fill the role of ASV.
+
   ### Money In General
   With the creation of crypto money seems to have evolved to its final state. The evolution went barter (no money) -> commodity -> representative commodity -> fiat -> EMoney -> Crypto. 
 

@@ -12,7 +12,6 @@ HUMANS, MATTER AND TIME NOTES:
 Fold all: ctrl K, ctrl 0
 Unfold all: ctrl K, ctrl J
 
-# STICKY NOTES
 ### How To Use The Model:
 * Another benefit to the model's abstractness is that you can view real world events through the model and gain insight. Academics loves criticing media through different lenses. Little Woman through a Marxist lens; Economics through a Keynsian lens, Austrian, or Chicagoian lens. This is another lens you can view reality through.
 
@@ -103,7 +102,7 @@ When you ask the question "What is the Value of a Thing?" We have to know the al
 ### SCHIZO
 You NEED to wake up early. The devil is gonna wake you up and say "Quick live forever, God will let you die". Those who choose to live forever will surely die. God doesn't care that you are going to die. He was going to give you eternal life anyways. He cares about whether you abandon sin or not. The compounding force with sin leads to death at infinity. Either you go live forever without sin in Heaven or you live forever with sin in Hell.
 
-### FINANCIAL SYSTEMS AR GROUP DELUSIONS
+### FINANCIAL SYSTEMS ARE GROUP DELUSIONS
 People are looking at an apple and saying it is an orange. This delusion happens on mass and thus it is now acceptable. When an outsider comes in and says "Well, you guys are wrong. This orange is actually an apple." the others will disagree. But who is right? The majority will be right up until the moment when the apple actually has to act like an orange. Only then will the financial system be exposed as an apple. But until that moment the majority will hate the minority for saying the truth because the minority is popping the bubble of the majority. The minority is saying "yall are wrong. And in a big way." which the majority isn't too happy about. This is why contrarians who say we are in a bubble are hated. What an asshole you must be to say the truth like that. The majority is quite happy in the delusion that the apple is an orange. Only until the moment the apple is exposed irreversably to be an apple. Then the world falls apart and must be put back together. 
 
 ### BEAR MARKETS
