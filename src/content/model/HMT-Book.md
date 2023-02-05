@@ -1,7 +1,7 @@
 ---
 id: 111
-title: HMT
-slug: hmt
+title: HMT Book
+slug: hmt-book
 date: Jan 1, 2023
 img: hello-world.png
 tags: []
@@ -189,6 +189,9 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   TFP advancement let us have phones in our pocket. It let us have laptops and computer, rockets and battleships, tanks and satellites, and even steel or silicon chips. TFP affects everyone. The only reason we live so well in the 21st century compared to the 4th century is TFP advancement.
 
   In sum TFP is simply technology. As time moves forward TFP so to will TFP and thus a Human's ability to manipulate Matter the way the want.
+
+
+  //Add Later: Capitalism did not improve your life standard; it simply allocates resources efficiently. This means what you earn is highly correlated to how much you work. Life standard is improved by TFP not income. Capitalism influences the rate of TFP but capitalism does not affect whether TFP grows or not. Remember TFP is technology and really hard to put back in the bag.
 
 ### The Frame of Reference Is Ambiguous 
   Because the model is so abstract we can now ignore the intricacies of scale. If you want to say a factory is a Supply you can do so even if you are ignoring the fact that factories are made of smaller components like machinery. Humans will interact with the factory the same way they interact with a phone: through S&D Connections. It doesn't matter that the interaction actually took place in a small way or that the interaction didn't fundamentally change the Supply. The scale or frame of reference is whatever you say it should be. If you want to look the the molecular level then so be it. If you want to look at the building level then so be it. What ever you want the frame of reference to be you can make it that. 
@@ -453,6 +456,9 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   This is a utopian society. Every Human acts with every Humans interests in Mind. There are no S&D Connections that are made with the intent of putting on Human's preferences or Internal Utility above the whole of Humanity. This could happen on accident but no Human will actively do it. There is human error and thus nothing runs at pareto efficiency. 
 
 # Add Sin To The World
+  //TODO Important to talk about why these changes need to be made?
+    Demand needs to be filtered.
+
   Unfortunately the model we have created has little to no use in the real world. Humans do not prioritize Humanity over themselves. In this way all real world communism applications will fail. The USSR became a bastion of totalitarianship and oppresion, and China created the bird-in-a-cage model where they would allow capitalism until it interfered with the CCP's power. There are various differences between the model pre-sin and the real world. One quick diffrence that matters is that money, debt, and finance don't exist pre-sin. And that's for good reason. There is no need for money, debt, or any sort of finance in a pre-sin world. But, of course, all three and much more exist in the real world. So what's the main difference? The difference, quite obviously, is Sin. Humans in the real world act with their own interests in mind. They do not act with Humanities, societies, or even organizations that they are apart of in mind. Humans can at times work towards a greater existance (Humanity, Society, etc) but this rarely happens. Generally this only happens when a society is in a sort of golden age and is particularily unified. 
 
   So let's add sin to make the model more applicable to the real world. The only change we are going to make is that now Humans will prioritize themselves over any other Human, organization of Humans, or Humanity as a whole.
@@ -469,6 +475,8 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   To take it back to the model: What is the first change that occurs when Humanity can sin? Well Humanity can now prioritize a part over the whole-which was unthinkable before-and because of this there is now cohesion. What comes next? Well we now need private property, and let's now see why.
 
 ## Private Property
+  //TODO split this up into sections.
+
   Because Humans are now able to simply be lazy they are now able to Demand Supply that they otherwise would not want to. For example in a pre-sin world having your food stored all in a central location would be the best option for a community (assuming food safty is fine). This would lead to the most efficient way of allocating the resource (the food). But post-sin now someone can just walk up and eat; then go home and sleep; then go and eat; then sleep; eat; sleep. And repeat that process without adding anything to the community. Obviously the community isn't going to be too happy about this one Human's actions. So what do they do?
 
   They take one of two actions. The first action is to "dispose" of the Human in a certain way. This could just be flat out killing them. Maybe it's kicking them out into the wild. Or maybe their hands are cut off. Some way or another the community will find a way to deal with the troublesome Human. The second and more commonly used action is to create private property. 
@@ -484,6 +492,17 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   So now Matter can exist in the community chest or as private property. If the Matter is in private property then someone owns it; no organization can own anything. 
 
   But this has dramatic affects for how Demand Connects with Supply. Before, in pre-sin, Demand always filtered Demand for which Demand was allowed to connect with Supply. But now that Humans sin Demand no longer has the authority to filter Demand. Because of this now Supply must filter Demand. So when Supply enters private property now who ever own that Supply has the authority to reject Demand. In the case of food who ever owns the food gets to say who eats. It's extremely important you understand that there was a change in the Supply and Demand dynamics. In pre-sin Demand filtered Demand. In post-sin Supply filters Demand. The Supply filtering is done through private property and who ever owns the supply has the right to filter Demand for that Supply. 
+
+  ### Income
+  
+  
+  Proof: The existance of private property causes the existance of income. 
+    Ownership of Supply changes over time => Individually held wealth changes.
+  
+
+
+
+  Proof: Individually held wealth changes => Subjections change. Proof by definition. 
 
 ## Debt
   ### Why Debt Exists
@@ -694,8 +713,26 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   Supply specific debt pulls Supply specific S&D Connections forward in time.
   Money based debt pulls abstract demand forward in time.
 
-## Financial Institutions
+## Institutions
+  Pre-sin there was no need for institutions. Demand successfully filtering Demand at every occurance of a conflict was FANTASTIC. Post-sin Demand needs filtered and thus Institutions are needed.
+
+  The goal of every Institution is to filter and manipulate Demand. All Institutions exist on a pyramid where the points are purely Economic, purely Financial, and purely Sociological.
+
+  Economic and Financial Institutions can manipulate Demand through its temporal property by using debt.
+  Economic and Sociological Institutions filter Demand in the current moment.
+  Sociological and Financial Institutions decide Supply ownership through powers granted by the people whether begrudgingly or happily.
+
+  All real world Institutions exist somwhere in this classification pyramid (look at the soil pyramid for example). In the real world Sociological (government) institutions are tried to be kept seperate but obviously this doesn't fully happen, and even if it did. It would be a bad idea to do so. Even in the real world governmental institutions act as economic and financial institutions. Public debt is a prime example of this. 
+  
+  A true sociological institution would never even touch debt. Only economic and financial instutions do. So if any government touches debt well they are now automatically a certain percent economic and/or certain percent financial.
+
+  A true economic and financial institution would never deny demand if the exchange is profitable. If a business denies service based on religous, personal, or societal reasons than the business is now automatically a certain percent sociological. This is the same for banks denying credit or freezing accounts.
+
+
+### Financial Institutions
   The evolution of financial institutions needs to be talked about. Financial institutions are instutions that deal solely with Money and Debt. They don't care about other's Supply or their own. They solely want to manage Money and Debt in an attempt to gain SV whether that be ASV or Supply. These are institutions that don't care about Value. They play the Money game and only care about SV.
+
+
 
   The very first financial institution is an individual Human. When two Humans create debt they are acting as financial institutions. 
 
@@ -705,153 +742,8 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
 
 
-
-
-
   
 
 
 
 
-  
-
-
-
-
-# STICKY NOTES
-### Schizo One Liners:
-* God is giving you one chance at cleansing your infinite state. Do you feel the chance slipping between your fingers as every momeny passes?
-* Death is a gift from God. Living forever would be hell.
-* The angels are like god's rumbas and alexas. The are meant to do tasks but are also given a spirit.
-
-
-* God wasn't able to split reality into good and evil before sin. He didn't even want to. 
-  * Lucifer created Sin and thus allowed for the split to take place.
-  * God is good and thus the split is good.
-  * Humans are the on the lowest rung of the plato forms pyramid. Only in the thrird dimension could sin actually take place.
-
-* You can see the Devil appointing the next horn based on the way the occult move. 
-  * Why did Trump and The Israeli Prime Minister go to the same private college?
-  * Why did Trump have a failed Insurrection just like Hitler?
-    * Learn more about Napolean. Did he also have this?
-
-* Federalism vs Confederalism (wealth) : redistribution vs entrenchment (wealth) are the same. Who should decide where the line is? Only God can do that
-  * God is Good => The Good line will be drawn.
-  * Creating an A.I. to draw the line is a REALLY REALLY REALLY good idea. It just doesn't work.
-    * I really bet you could get 10T years of dopamine easy. For those that think they could get 10TTT years. I really do believe you; I bet you could. But the problem is it doesn't work at infinity.
-
-### Sociolical One Lines:
-* Humanity inheirantly has a flaw at infinity. When we divide truth and emotion up subjectively we exclude people based on the difference between an individual's viewpoint and a the viewpoint of Humanities (or Societies). 
-  * This causes cohesion to drop to 0 at infinity.
-  * This is what causes heartbreaks, emotional breakdowns, etc.
-* Moral relativism is Humans drawing the line. But Humans suck at drawing the line only God can do that.
-  * You draw a line everywhere; even with yourself. Eventually a infinity you'll to die in relation to yourself.
-
-### WW3 One Liners:
-* Russia and China won't let you have a democratic republic anymore. They want you to choose a democracy or a republic. Unfortunetly both of these infinitely worse than the 
-  combination. But still, all three fail at infinity.
-  * Liberalism is inheriently against hard line rules. Hard line rules are necessary for cohesion to last long term. But Conservatives are for hard line rules that are just bad. This 
-    is why the two party system doesn't work. It's easy to cut in half through the middle.
-* The filter set up by the fake post WW-2 top-secret governments are amazing at catching information. I really bet that there is an at minimum 1/10th of science made secret to us.
-* They are trying to create a perpetual motion machine with the economy. What they are actually building is a nuke.
-
-### Econ One Liners:
-* Pre-Sin there are two time frames to view economics. Short-term which is intra moment; and long-term which is at infinity. No other time frame inbetween matters.
-* GDP is how much Supply was exchanged in a year in terms of ASV.
-* We've been wasting production since the 80's. There was no point in keep the work week at 40hrs. It should have been dropping steadily since.
-
-
-### Need To Talk:
-* Another benefit to the model's abstractness is that you can view real world events through the model and gain insight. Academics lovs criticing media through different lenses. Little Woman through a Marxist lens; Economics through a Keynsian lens, Austrian, or Chicagoian lens. This is another lens you can view reality through.
-
-* Each level of the chess games
-  * Nations against each other (WW3), White Vs. Black hat (The devil's internal game), The true theological game (Lucifer vs. God)
-  * Who plays each level?
-  * What does winning and losing look like?
-  * Why does this level exist?
-
-
-
-### Generational Conforming.
-When Gen X raged against the machine they actually conformed. The truly capitalist amoung them realized what capitalism actually was: it's all about being _greedy_. Remember Reagan with "_Greed Is Good_"? When you sat down and accepted a job instead of being _greedy_ you conformed. What's even worse is that wealth was stolen from you!
-
-The Millenials proudly fell face first into the pit. Accepting a job is conforming. You were not _greedy_. 
-
-And Gen Z lost all focus when they were bombarded with psy ops. Lost in extreme radicalization they are all addicted to the internet and don't know up from down. There are more in Gen Z however that see the truth that the Millenials and Gen X are blind to.
-
-Boomers were _greedy_. They knew what game they were playing and the earth still had resources at large.
-
-
-### Have To Explain The Model at Times.
-It's a good idea to explain the model very abstractly at the start but to be real world with it at the end. It should be like reading a brief history book. When the model needs to be brought in then do it. When explaining these Ideas you will have explain why they happened with the model.
-* "Lowering The Rate"
-  * Government is saying "Don't worry the future is good", and _you believed them_.
-  * This allows more debt which brings more demand forward which which causes more boom.
-  * The government doesn't want the true ending to happen. Instead we, as a society through the government, make a bet with our future and say "We'll some spend some Value now but 
-    invest it properly. Then when we get to the future we'll have even more". It doesn't really ever work. I'm not sure it even could as Humans are really bad and investing. But to be fair the true game was hidden from them. Humanity doesn't know that the CD-ID spectrum exists for demand.
-  * When The Rate is high like in the 70s-80s it says Demand can only be spent if it yields 21% on SV every year. THIS IS INSANE!!!! 21% percent is unheard of. This would occur       
-    during 2000+ years ago. And was because of default risk not interest rate risk! America was the only one able to do it because they where the only supply post-ww2. This gave America the ability to Lower The Rate for last 40 years!
-
-* Why the 7-year 100-year cycles happens
-  * The 7-year happens because the game of capitalism is to be _greedy_. Eventually this blows up beacuse the _greediness_ turns into scams. Scams arn't even SV profitable. On top of this most debt only creates SV NOT V. This eventually goes bust.
-  * The 100-year cycle happens becuse society makes the bet with themselves about the future. Lowering The Rate let's us spend Value now. This only lasts so long. Eventually the bill comes due all deals we made with ourselves default. 
-
-* QE
-* Microbooms
-
-### Naming The 100-Year Crash
-No one even talks the 100-year cycle. The 7-year cycle is barely talked about and very much not understood. So I've never even seen this idea discused before. Ray Dalio is only person I've seen name it. It unreal to the world that 2008 should have been a of 1929 but wasn't. They don't understand what actually happened. People have never even seen the idea of a micro-boom before. To say that economy is on life support by the government in order to keep the economy alive is unreal. And to say the last 15 years were fake is going to be even harder to take in. But this envelouping cycle can only delayed never avoided. In this way the 100-year Crash has only happened twice! Napolean and Hitler
-
-
-### I'm an extreme outlier
-To see this issue I had to be Gen Z (economic generation issue, and ability to parse information like no tomorrow issue), have ADHD, have aspergers, be "highly intelligent", AND constantly doubt myself.
-
-### Debt And Cycles
-Debt existing and Humans being imperfect => 7-year debt cycle exists
-7-year debt cycle and central banks existing => 100-year debt cycle exists
-
-### Utility Needs To Be Temporal
-Internal Utility needs to be temporal and so does Utility gained from S&D Connections. Internal Utility would have a "resting" level which would be just risidual happiness or sadness. But Utility gained from an S&D Connections would actually be a function. If you set off a nuke it would be rather fun to watch. But the nulear fallout would suck quite a bit.
-
-
-### Value Functions in a pre-sin world
-Let's ask a _very simple_ question given a Thing. What is the Value of this Thing?
-  Let's view the Thing as having Matter and assume there is Humans from Humans or Humans from CoH.
-  The question is now "Well what the Value of this Matter given there could possibly be Humans from the origins described?"
-  
-  Right off the bat we run into a problem. What does Value even mean? Does Value equate to how many Humanss couldn't be connected with Matter? I.E. only Things in a shortage have Value? Maybe Value means how many Humanss for the Matter could make connections? Does the oxygen on Earth have more Value than all the Doornobs simply because all the oxygen on Earth satisfies more Humans than all the doornobs do? Essentially there are an infinite number of ways Value could be described which means this is getting out of hand fast. 
-  
-  For now let's take a step back. Let's just assume that Value is some abstract equation about Matter and Humans of a Thing. Let's call this function V(T). Value of a Thing. And we can say V(T) is what ever we want. If we want to define Value of a Thing as how much Humans couldn't be connected with Matter (this would be shortages) than we can. We could also define Value as how many Humanss could make connections. Or even how many Humanss did make a connection. Again, lots of ways to define Value.
-
-  Easy enough definition for Value. That means we are done right? No. What moment in Time are we talking about? On the Earth before Humans existed there was no Humans. Again, only Humans Humans. If a fox eats a rabbit that is Things changing over time. That means most Value Functions are going to fail. Value is only in relation to Humans. Matter (Things) itself have no Value.
-
-  For now because we are pre-sin we can easily define Value as a Value Function. I'm going to now define Value as the maximum Utility that can be gained from Humans (Humans). If Humanity have two or more possible interactions with a specific Thing than we can say that the Value of this Thing would be the Value of Utility Maximizing interaction. 
-
-  For example.
-  1. Interaction to gain 15 Utility for Human A.
-  2. Interaction to gain 20 Utility for Human B.
-
-  Because Human B's interaction gained more Utility, 20 Utility is now the Value of the Thing in that given Time.
-
-  I think this definition would be compatible with the knowledge of Value through all of Time only because this is pre-sin. I think post-sin there is breakdown bc of a want to hoard.
-
-  All this will thrown out the window post-sin. Sin and knowledge of Value over all Time are not compatable.
-
-### Value
-When you ask the question "What is the Value of a Thing?" We have to know the all information from all of time. And if in the moment any information is used to gain personal leverage (money) than the whole system collapses. Only when everyThing was in the CC did Value have a way to acceptably defined. If the Value of a Thing is known in Time t then the Thing could be hoarded (PP) changing the Value of a Thing. Did hoarding add Value to the Thing?
-
-### SCHIZO
-You NEED to wake up early. The devil is gonna wake you up and say "Quick live forever, God will let you die". Those who choose to live forever will surely die. God doesn't care that you are going to die. He was going to give you eternal life anyways. He cares about whether you abandon sin or not. The compounding force with sin leads to death at infinity. Either you go live forever without sin in Heaven or you live forever with sin in Hell.
-
-### FINANCIAL SYSTEMS AR GROUP DELUSIONS
-People are looking at an apple and saying it is an orange. This delusion happens on mass and thus it is now acceptable. When an outsider comes in and says "Well, you guys are wrong. This orange is actually an apple." the others will disagree. But who is right? The majority will be right up until the moment when the apple actually has to act like an orange. Only then will the financial system be exposed as an apple. But until that moment the majority will hate the minority for saying the truth because the minority is popping the bubble of the majority. The minority is saying "yall are wrong. And in a big way." which the majority isn't too happy about. This is why contrarians who say we are in a bubble are hated. What an asshole you must be to say the truth like that. The majority is quite happy in the delusion that the apple is an orange. Only until the moment the apple is exposed irreversably to be an apple. Then the world falls apart and must be put back together. 
-
-### BEAR MARKETS
-To see we are in a bubble or that a bear market is coming you must be a contrarian. To profit off of a bear market you must be a contrarian to the contrarians. 
-
-BMR steps
-1. Bears must get checked
-2. Bulls must get checked
-3. Bears must get checked again
-4. Bulls believe they are unstoppable
-5. Bulls lose and the BMR fails. A drop occurs.
