@@ -10,7 +10,7 @@ tags: []
 HUMANS, MATTER AND TIME.
 
 THE GOAL IS TO TURN ECONOMICS INTO A COMPUTER SCIENCE STATE PROBLEM.
-To start we are going to create THE MOST abstract view of reality possible. It is going to be so abstract that you are going to believe it was a waste of your time to read it. That will not be the case. Any logical conclusion we can come to about the state diagram we can now conclude about real life. Scary.
+To start we are going to create THE MOST abstract view of reality possible. It is going to be so abstract that you are going to believe it was a waste of your time to read it. That will not be the case. Any logical conclusion we can come to about the state diagram we can now conclude about real life.
 
 # Basics Of The Model
 
@@ -125,7 +125,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   Because we have briefly touched upon both Supply and Demand I will start using "S&D" instead of saying "Supply & Demand"
 
-## What is the S&D Field?
+## What Is The S&D Field?
   You've probably noticed we have two sets of terms. "Matter and Humans" and "S&D". These are essentially interchangable but let's formally describe the interaction just to remove any confusion. To do this we are going to split the sets of terms and say they are related to each other based on the S&D Field. "S&DF" is "Supply & Demand Field" or "S&D Field".
 
   Matter and Humans are the most basic units in this Model. Matter is essentially just the Matrix from the Movie _The Matrix_ and Humans are just Humans.
@@ -243,7 +243,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   As Time ticks forward one moment at a time we will see H(T) and M(T) change. Any change that occurs for Humans in a moment will originate from a single or multiple Demand and Supply Connecting in the moment. We can not say the same about Matter. Matter changes may originate from a S&D Connection or from Matter deterministically changing over Time.
 
-# Start Using the Model (pre-sin)
+# Start Using The Model (Pre-Sin)
 
 ## Let's See How The Model Works With One Person
   For now let's start off with just one Human in Humans. 
@@ -268,7 +268,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   OUS is Objective Utility for a Subject
   SUS is Subjective Utility for a Subject
 
-  ### A quick example to understand decision making :
+  ### A Quick Example To Understand Decision Making
     In a moment there are two possible S&D Connections with different OUS and SUS. The Human can only facilitate one of the possible Connections.
     
     Possible Connection A has OUS = 20 & SUS = 30
@@ -405,7 +405,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   
   Post-sin, Supply will filter Demand. This will lead to maximum OUS for a sinlge Human at expense of the maximum overall OUS for each S&D Connection. That isn't post-sin a overall OUS maximizing Connection can't take place it just isn't the norm. But for now we do not have to think or worry about post-sin.
 
-## Let's give an overview of the model so far.
+## Let's Give An Overview Of The Model So Far
   So far we Humans, Matter and Time. Humans do not sin and thus overall OUS is maximized. 
 
   In regards to the S&D Field: Humans will interact with Matter. Humans do this by Demanding Supply and will facilitate S&D Connections as a way of interacting with Matter. Important to note the S&D Field does not physically exist. This is simply a way of viewing how decision making happens along with interaction between man and matter. 
@@ -418,7 +418,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   In regards to S&D Conflicts: In a pre-sin world Demand will filter Demand for access to Supply. This leads to OUS maximizing S&D Connections. All Humans are happy with the process because they know that overall OUS will be maximized. 
 
-## Let's add a 3rd, 4th, ..., nth Human
+## Let's Add A 3rd, 4th, ..., Nth Human
   When adding Humans in a pre-sin world there is only one consideration to take into place. The only cosideration is: Are there enough resources for everyone after one more Human is added? 
 
   Because all Humans have the guiding ideology of everyone over themselves there is no conflict and life is a utopia. Thus the only problems that can occur are the extremes of time. Maybe there is a case where the world does not enough food and by adding one Humand another of starves. This would obviously suck for the Humans and should probably be avoided. 
@@ -494,14 +494,9 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   But this has dramatic affects for how Demand Connects with Supply. Before, in pre-sin, Demand always filtered Demand for which Demand was allowed to connect with Supply. But now that Humans sin Demand no longer has the authority to filter Demand. Because of this now Supply must filter Demand. So when Supply enters private property now who ever own that Supply has the authority to reject Demand. In the case of food who ever owns the food gets to say who eats. It's extremely important you understand that there was a change in the Supply and Demand dynamics. In pre-sin Demand filtered Demand. In post-sin Supply filters Demand. The Supply filtering is done through private property and who ever owns the supply has the right to filter Demand for that Supply. 
 
   ### Income
-  
-  
   Proof: The existance of private property causes the existance of income. 
     Ownership of Supply changes over time => Individually held wealth changes.
   
-
-
-
   Proof: Individually held wealth changes => Subjections change. Proof by definition. 
 
 ## Debt
@@ -541,7 +536,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   Very important to understand. We are bringing S&D Connections forward in time with debt with the assumption that these S&D Connections will allow for more S&D Connections in the future.
 
-  ### Types of Debt
+  ### Types Of Debt
   It's important to understand the types of Debt and the terms involved. I generally see a classification system for debt which has four types. There is productive and unproductive; and there is toxic and non toxic. I think this classification system is a pretty good way to classify debt and so I am going to explain the four types. I will also talk about how the four types show up in the model.
 
   But first the classification system. And to start we are going to talk about productive and unproductive debt. Productive debt is debt that produced something. So for example if you took out a loan to build a steel beam factory that would be productive debt. Unproductive debt, or sometimes called consumer debt, is debt that doesn't product anything. So for example if you took out a loan to buy a hotdog that would be unproductive debt (or consumer debt). 
@@ -643,7 +638,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   The solution to solve the Gresham's Law problem and the problem of weight and buliness. Is to store the metals in a vault somewhere and to carry around something that represents gold and silver. Humanity has just created representative commodity money.
 
-  ### Representative Commodity Money.
+  ### Representative Commodity Money
   So no longer are we carrying around gold and silver instead we carry around some Supply that says we own that gold or silver. When we trade we now trade that representative which the counter party can take the vault and exchange for gold or silver. We are starting to have a rather complex solution for a problem that didn't even exist pre-sin. Before we didn't even have ASV and now we have both ASV and some Supply that represents ownership of the ASV. We knew that the ASV itself never even had value it simply had a widely held belief of the Supply used as ASV having SV. Does the Supply used as a representative have value then? Not even close. We are even further from the truth of that elusive value, but the system created is easier to use and harder to abuse. And so it flurishes.
 
   At this point in history we are about at the 1700-1800s. The barter system lasted for quite a long time up until technology and the culture changed allowing for grain to take the role of ASV. Then metals came and gold and siler ruled the world for mellenia as _thee_ ASV. Representative money takes on a brief blip as a the next stage of money and lasts for about 100-200 years. 
@@ -694,7 +689,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   As with all other forms of ASV Humanity still has a problem of ideology. If no one believes the specific supply can fulfill the role of ASV then the supply will lose the role of ASV. Fiat was able to usurp this by tying ideology to the state. Crypo is decentralized (usually) and thus can not tie the ideological role of ASV to the ideological role of government. Again, this is usually a calling card for crypto and is seen as a positive. Objectively this is a positive and a negative, but because the government leans to abusing power at any opportunity it is mostly a positive.
 
-  ### Money in general
+  ### Money In General
   With the creation of crypto money seems to have evolved to its final state. The evolution went barter (no money) -> commodity -> representative commodity -> fiat -> EMoney -> Crypto. 
 
   Money exists in the model as ASV and there are three actions you can take with ASV.
@@ -705,7 +700,7 @@ To start we are going to create THE MOST abstract view of reality possible. It i
 
   The creation of ASV and assigning of a Supply to fill that role allows for more S&D Connections in any momemnt in time along with a more efficient ownership of Supply change. The creation of ASV also does one more thing. Debt in the model is now slightly changed.
 
-  ### Debt With Money
+## Debt With Money
   Earlier, when money did not exist, debt was a contract between a demanding and supplying party about a specific Supply the Supplying party had.
   
   Now we have to split between Supply specific debt and Money based debt. Literally all debt created today is Money based debt. The only time you will encounter Supply specific debt is on minute and irrelavent instances. Like for example you borrow a pen from you friend and give it back two seconds later (no interest debt). Or you borrow a ladder from you neighbor and hand them a dozen eggs as thanks (12 eggs as interest). All financial debt today is Money based debt. This is great and awful.
@@ -727,6 +722,8 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   A true sociological institution would never even touch debt. Only economic and financial instutions do. So if any government touches debt well they are now automatically a certain percent economic and/or certain percent financial.
 
   A true economic and financial institution would never deny demand if the exchange is profitable. If a business denies service based on religous, personal, or societal reasons than the business is now automatically a certain percent sociological. This is the same for banks denying credit or freezing accounts.
+
+//Markets are a type of institution. Before they were purely economic/financial. Now they are under the control of government.
 
 
 ### Financial Institutions
