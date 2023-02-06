@@ -12,6 +12,13 @@ HUMANS, MATTER AND TIME NOTES:
 Fold all: ctrl K, ctrl 0
 Unfold all: ctrl K, ctrl J
 
+### SPLIT SUPPLY?
+* Land
+* Natural Resources
+* Everything else
+
+ASV is assigned to one of these (if any).
+
 ### How To Use The Model:
 * Another benefit to the model's abstractness is that you can view real world events through the model and gain insight. Academics loves criticing media through different lenses. Little Woman through a Marxist lens; Economics through a Keynsian lens, Austrian, or Chicagoian lens. This is another lens you can view reality through.
 
@@ -40,6 +47,8 @@ And Gen Z lost all focus when they were bombarded with psy ops. Lost in extreme 
 
 Boomers were _greedy_. They knew what game they were playing and the earth still had resources at large.
 
+Quiet quiting is encouraged by the system simply because it keeps you docile and unaware, while preventing large swaths of babies from being born, and finally finally it keeps you in the system. This is rage against the machine but for Millenials and Gen Z. 
+
 
 ### Have To Explain The Model at Times.
 It's a good idea to explain the model very abstractly at the start but to be real world with it at the end. It should be like reading a brief history book. When the model needs to be brought in then do it. When explaining these Ideas you will have explain why they happened with the model.
@@ -55,6 +64,7 @@ It's a good idea to explain the model very abstractly at the start but to be rea
   * The 7-year happens because the game of capitalism is to be _greedy_. Eventually this blows up beacuse the _greediness_ turns into scams. Scams arn't even SV profitable. On top of this most debt only creates SV NOT V. This eventually goes bust.
   * The 100-year cycle happens becuse society makes the bet with themselves about the future. Lowering The Rate let's us spend Value now. This only lasts so long. Eventually the bill comes due all deals we made with ourselves default. 
 
+* Debt Loads
 * QE
 * Microbooms
 
@@ -97,6 +107,9 @@ Let's ask a _very simple_ question given a Thing. What is the Value of this Thin
   All this will thrown out the window post-sin. Sin and knowledge of Value over all Time are not compatable.
 
 ### Value
+* Intermoment Value is rather worthless knowledge. And outertemporal Value is also rather worthless. But interlifetime value is useful knowledge and thus is most often the actionable value.
+
+
 When you ask the question "What is the Value of a Thing?" We have to know the all information from all of time. And if in the moment any information is used to gain personal leverage (money) than the whole system collapses. Only when everyThing was in the CC did Value have a way to acceptably defined. If the Value of a Thing is known in Time t then the Thing could be hoarded (PP) changing the Value of a Thing. Did hoarding add Value to the Thing?
 
 ### SCHIZO

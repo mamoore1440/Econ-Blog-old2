@@ -710,20 +710,29 @@ To start we are going to create THE MOST abstract view of reality possible. It i
   Supply specific debt pulls Supply specific S&D Connections forward in time.
   Money based debt pulls abstract demand forward in time.
 
-## Institutions
-  Pre-sin there was no need for institutions. Demand successfully filtering Demand at every occurance of a conflict was FANTASTIC. Post-sin Demand needs filtered and thus Institutions are needed.
+  * Before when debt was loans on Supply there was no possibility of "forging" ASV. Now that loans are ASV, debt creates shadow ASV (credit) which is, again, a positive and a negative.
 
-  The goal of every Institution is to filter and manipulate Demand. All Institutions exist on a pyramid where the points are purely Economic, purely Financial, and purely Sociological.
+## Institutions (Systems)
+  Pre-sin there was no need for institutions. Demand successfully filtering Demand at every occurance of a conflict was FANTASTIC. Post-sin three things need to happen.
+  1. Demand needs filtering
+  2. Temporality of Demand needs to be manipulated (technically it doesn't have to but like...)
+  3. Ownership of Supply needs to be decided
+  Institutions are thus created to fill these roles. All Institutions exist on a pyramid where the points are purely Economic, purely Financial, and purely Sociological.
 
-  Economic and Financial Institutions can manipulate Demand through its temporal property by using debt.
-  Economic and Sociological Institutions filter Demand in the current moment.
-  Sociological and Financial Institutions decide Supply ownership through powers granted by the people whether begrudgingly or happily.
+  1. Economic and Sociological Institutions filter Demand in the current moment.
+  2. Economic and Financial Institutions can manipulate Demand through its temporal property by using debt.
+  3. Sociological and Financial Institutions decide Supply ownership through powers granted by the people whether begrudgingly or happily.
 
-  All real world Institutions exist somwhere in this classification pyramid (look at the soil pyramid for example). In the real world Sociological (government) institutions are tried to be kept seperate but obviously this doesn't fully happen, and even if it did. It would be a bad idea to do so. Even in the real world governmental institutions act as economic and financial institutions. Public debt is a prime example of this. 
+  All real world Institutions exist somwhere in this classification pyramid (look at the soil pyramid for example). In the real world Sociological (government) institutions are tried to be kept purely Sociological but obviously this doesn't fully happen, and even if it did. It would be a bad idea to do so. Even in the real world governmental institutions act as economic and financial institutions. Public debt is a prime example of this. 
   
   A true sociological institution would never even touch debt. Only economic and financial instutions do. So if any government touches debt well they are now automatically a certain percent economic and/or certain percent financial.
 
-  A true economic and financial institution would never deny demand if the exchange is profitable. If a business denies service based on religous, personal, or societal reasons than the business is now automatically a certain percent sociological. This is the same for banks denying credit or freezing accounts.
+  A true economic and financial institution would never deny demand if the exchange is profitable. If a business denies service based on religous, personal, or societal reasons then the institution is now automatically a certain percent sociological. This is the same for banks denying credit or freezing accounts.
+
+  * Financial Institutions make the Value trade. They create debt => they pull demand forward in time => they trade Value in the present for percieved Value in the future. They problem is that any Value spent on the Financial Institutions is wasted Value. 
+  * It doesn't matter that a loan to create a HFT algorithm was successfully paid off by the HFT's profit. Any Value spent creating the HFT is wasted Value.
+  * Systems make up Systems which make up Systems which make up Systems...
+
 
 //Markets are a type of institution. Before they were purely economic/financial. Now they are under the control of government.
 
